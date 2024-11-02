@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Xyra</title>
-    <link rel="icon" type="image/x-icon" href="assets/xyra.png">
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
     <meta content="Xyra" property="og:title"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta content="Discover, Watch, Enjoy – Anytime, Anywhere." property="og:description"/>
@@ -245,18 +245,13 @@
             .title {
                 font-size: 1.5rem;
             }
-
-            .suggestions-container {
-                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-                gap: 10px;
+            .search-bar {
+                width: 100%;
+                max-width: 280px;
             }
-
-            .suggestion-card {
+            .search-input {
+                padding: 10px;
                 font-size: 0.9rem;
-            }
-
-            .suggestion-title {
-                font-size: 0.85rem;
             }
         }
 
@@ -279,19 +274,6 @@
                 padding: 10px;
                 font-size: 0.9rem;
             }
-
-            .suggestions-container {
-                grid-template-columns: 1fr;
-                gap: 10px;
-            }
-
-            .suggestion-image {
-                height: 150px;
-            }
-
-            .suggestion-title {
-                font-size: 0.8rem;
-            }
         }
     </style>
 </head>
@@ -312,7 +294,7 @@
 
         <!-- Title with Icon -->
         <div class="title-container">
-            <img src="assets/xyra.png" alt="Xyra Logo" class="title-icon">
+            <img src="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" alt="Xyra Logo" class="title-icon">
             <h1 class="title" id="title">yra</h1>
         </div>
 

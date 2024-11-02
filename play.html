@@ -2,8 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/x-icon" href="assets/xyra.png">
+    <meta content="Xyra" property="og:title"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta content="Discover, Watch, Enjoy – Anytime, Anywhere." property="og:description"/>
+    <meta content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" property="og:image"/>
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
     <title>Xyra - Stream</title>
     <style>
         /* Basic Styling */
@@ -90,10 +93,23 @@
         }
 
         #mediaTypeYear,
+        /* Media Overview Styling */
         #mediaOverview {
             font-size: 0.9em;
             color: #AAA;
             margin: 5px 0;
+            max-height: 80px; /* Initial collapsed height */
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        /* "View More" link styling */
+        .view-more {
+            font-size: 0.9em;
+            color: #FFD700;
+            cursor: pointer;
+            margin-top: 5px;
+            text-decoration: underline;
         }
 
         #mediaRatings {
@@ -192,8 +208,9 @@
             border: none;
         }
         
-        /* Floating Control Buttons */
+        /* Control Button Styling */
         .control-button {
+            display: none; /* Initially hidden */
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
@@ -209,16 +226,22 @@
             transition: background-color 0.3s;
             width: 40px;
             height: 40px;
-            display: none;
+            align-items: center;
+            justify-content: center;
         }
 
         .control-button.left {
             left: 10px;
+            justify-content: flex-start;
+            padding-left: 8px;
         }
 
         .control-button.right {
-            right: 10px;
+            right: 5px;
+            justify-content: flex-end;
+            padding-right: 8px;
         }
+
 
         .control-button:hover {
             background-color: rgba(255, 255, 255, 0.1);
@@ -226,11 +249,12 @@
 
         /* Episode List Container */
         .episode-list-container {
-            width: 100%;
+            width: 93%; /* Slightly smaller width for cleaner look */
             background: #181818;
-            border-radius: 8px;
-            padding: 0;
+            border-radius: 15px; /* Rounded corners */
+            padding: 20px; /* Spacing around items */
             margin-top: 10px;
+            margin-bottom: 10px; /* Added space below the container */
             display: none;
             flex-direction: column;
             align-items: center;
@@ -240,7 +264,7 @@
             overflow-y: auto;
             scrollbar-width: none;
         }
-        
+
         /* Hide scrollbar for Chrome, Safari, and Edge */
         .episode-list-container::-webkit-scrollbar {
             display: none;
@@ -251,13 +275,14 @@
             padding: 10px;
             background-color: rgba(0, 0, 0, 0.6);
             border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 6px;
+            border-radius: 15px; /* Added round corners */
             cursor: pointer;
             width: 100%;
             text-align: center;
             color: #E0E0E0;
             transition: background-color 0.3s ease, color 0.3s ease;
         }
+
         
         /* Active Episode Item */
         .episode-item:hover {
@@ -288,7 +313,7 @@
             font-size: 0.85em;
             color: #FF5555;
         }
-
+        
         /* Responsive Adjustments */
         @media (max-width: 768px) {
             .container {
@@ -360,7 +385,7 @@
             <!-- <a href="index.html" class="top-button" title="Home">&#8962;</a> Home button symbol -->
 
             <a href="index.html" class="top-button" title="Home">
-                <img src="assets/xyra.png" alt="GitHub" style="width: 30px; height: 30px;">
+                <img src="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" alt="GitHub" style="width: 30px; height: 30px;">
             </a>
 
         </div>
@@ -424,7 +449,24 @@
             mediaTitle.textContent = media.title || media.name;
             mediaOverview.textContent = media.overview;
             mediaPoster.src = `https://image.tmdb.org/t/p/w500${media.poster_path}`;
-            
+            // Add "View More" if overview is too long
+            if (mediaOverview.scrollHeight > mediaOverview.clientHeight) {
+                const viewMore = document.createElement('span');
+                viewMore.classList.add('view-more');
+                viewMore.textContent = 'View More';
+                mediaOverview.after(viewMore);
+
+                viewMore.addEventListener('click', () => {
+                    if (mediaOverview.style.maxHeight === 'none') {
+                        mediaOverview.style.maxHeight = '80px';
+                        viewMore.textContent = 'View More';
+                    } else {
+                        mediaOverview.style.maxHeight = 'none';
+                        viewMore.textContent = 'View Less';
+                    }
+                });
+            }
+
             // Set Type and Year
             const type = mediaType === 'tv' ? 'TV Show' : 'Movie';
             const year = media.release_date ? media.release_date.split('-')[0] : media.first_air_date ? media.first_air_date.split('-')[0] : 'N/A';
@@ -492,26 +534,33 @@
                 url = `https://multiembed.mov/?video_id=${id}&tmdb=1`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
-            } else {
+            } else if (episode) {  // Show buttons only after an episode is selected
                 url = `https://multiembed.mov/?video_id=${id}&tmdb=1&s=${season}&e=${episode}`;
-                prevButton.style.display = 'flex';
-                nextButton.style.display = 'flex';
+                
+                // Display buttons conditionally based on the episode index
+                prevButton.style.display = index > 0 ? 'flex' : 'none';
+                nextButton.style.display = index < episodeList.length - 1 ? 'flex' : 'none';
             }
             videoFrame.src = url;
             currentEpisodeIndex = index;
-
+        
             document.querySelectorAll('.episode-item').forEach((item, idx) => {
                 item.classList.toggle('active', idx === index);
             });
         }
-
+        
+    
         function changeEpisode(step) {
             const newIndex = currentEpisodeIndex + step;
             if (newIndex >= 0 && newIndex < episodeList.length) {
                 const episode = episodeList[newIndex];
                 playVideo(mediaId, 'tv', currentSeason, episode.episode_number, newIndex);
+                // Update button visibility based on episode boundaries
+                prevButton.style.display = newIndex > 0 ? 'flex' : 'none';
+                nextButton.style.display = newIndex < episodeList.length - 1 ? 'flex' : 'none';
             }
         }
+        
     </script>
 </body>
 </html>
