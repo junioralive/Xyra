@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Xyra</title>
+    <link rel="icon" type="image/x-icon" href="assets/xyra.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        /* Basic Styling */
+        body {
+            background-color: #121212;
+            color: #E0E0E0;
+            font-family: 'Poppins', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+        }
+
+        /* Main Container Styling */
+        .container {
+            max-width: 1200px;
+            width: 95%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 10px;
+            background: #1E1E1E;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            gap: 20px;
+            transition: all 0.5s ease;
+            position: relative;
+        }
+
+        /* Top Button Container */
+        .top-buttons {
+            position: absolute;
+            top: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* Home Button Styling */
+        .top-button {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #E0E0E0;
+            border-radius: 50%;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 1.5em;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+
+        /* Adjusting position for top-left button */
+        .top-button-left {
+            position: absolute;
+            top: 10px;
+            left: 15px;
+        }
+
+        /* Adjusting position for top-right button */
+        .top-button-right {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+        }
+
+        .top-button:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        /* Move to top on input */
+        .container.top-align {
+            justify-content: flex-start;
+            padding-top: 20px;
+        }
+
+        /* Title Styling */
+        .title-container {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 1.2rem;
+        }
+
+        .title-icon {
+            width: 40px;
+            height: 40px;
+        }
+
+        .title {
+            font-weight: bold;
+            color: #FFFFFF;
+            margin: 0;
+        }
+
+        /* Search Bar */
+        .search-bar {
+            position: relative;
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px;
+            background-color: #181818;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 8px;
+            color: #E0E0E0;
+            font-size: 1rem;
+            text-align: center;
+            transition: all 0.5s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Suggestions Container */
+        .suggestions-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            padding: 10px;
+            max-height: 100%;
+            overflow-y: auto;
+            scrollbar-width: none;
+            width: 100%;
+            transition: opacity 0.5s ease;
+            opacity: 0;
+        }
+
+        /* Show suggestions */
+        .suggestions-container.show {
+            opacity: 1;
+        }
+
+        .suggestions-container::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .suggestions-container::-webkit-scrollbar-thumb {
+            background-color: #333;
+            border-radius: 3px;
+        }
+
+        /* Suggestion Card */
+        .suggestion-card {
+            background-color: #181818;
+            border: none;
+            border-radius: 10px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+            text-align: center;
+            color: #E0E0E0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            padding-bottom: 10px;
+        }
+
+
+        .suggestion-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(255, 255, 255, 0.2);
+        }
+
+        /* Image with Border Effect */
+        .suggestion-image {
+            width: 100%;
+            height: 260px;
+            object-fit: cover;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            margin-bottom: -4px;
+        }
+
+        /* Details Container */
+        .suggestion-details {
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        /* Title Styling */
+        .suggestion-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: #FFFFFF;
+            margin-top: 8px;
+            white-space: normal;
+            overflow: hidden;
+            text-align: center;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+        }
+
+        /* Subtitle Styling */
+        .suggestion-subtitle {
+            font-size: 0.85rem;
+            color: #BBBBBB;
+            margin-top: 4px;
+            text-align: center;
+        }
+
+        /* Footer Styling */
+        .footer {
+            margin-top: 10px;
+            color: #AAA;
+            font-size: 0.9em;
+            text-align: center;
+        }
+
+        .footer a {
+            color: #E0E0E0;
+            text-decoration: none;
+        }
+
+        .footer small {
+            display: block;
+            margin-top: 5px;
+            font-size: 0.85em;
+            color: #FF5555;
+        }
+
+        /* Responsive Styling */
+        @media (max-width: 768px) {
+            .title {
+                font-size: 1.5rem;
+            }
+
+            .suggestions-container {
+                grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+                gap: 10px;
+            }
+
+            .suggestion-card {
+                font-size: 0.9rem;
+            }
+
+            .suggestion-title {
+                font-size: 0.85rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                width: 100%;
+                padding: 10px;
+            }
+
+            .title {
+                font-size: 1.25rem;
+            }
+
+            .search-bar {
+                width: 100%;
+                max-width: 280px;
+            }
+
+            .search-input {
+                padding: 10px;
+                font-size: 0.9rem;
+            }
+
+            .suggestions-container {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+            .suggestion-image {
+                height: 150px;
+            }
+
+            .suggestion-title {
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container" id="container">
+        <!-- Buttons at the top corners within the container -->
+        <div class="top-buttons">
+            <!-- About Button on the top-left -->
+            <a href="about.html" class="top-button top-button-left" title="About">
+                <img src="https://img.icons8.com/?size=100&id=77&format=png&color=FFFFFF" alt="GitHub" style="width: 30px; height: 30px;">
+            </a>
+        
+            <!-- GitHub Button on the top-right -->
+            <a href="https://github.com/junioralive/Xyra" class="top-button top-button-right" title="GitHub" target="_blank">
+                <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=FFFFFF" alt="GitHub" style="width: 30px; height: 30px;">
+            </a>
+        </div>
+
+        <!-- Title with Icon -->
+        <div class="title-container">
+            <img src="assets/xyra.png" alt="Xyra Logo" class="title-icon">
+            <h1 class="title" id="title">yra</h1>
+        </div>
+
+        <div class="search-bar" id="searchBar">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search Movie/TV Show...">
+        </div>
+        <div id="searchSuggestions" class="suggestions-container"></div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        Made with ♥ by <a href="https://github.com/junioralive/Xyra">JuniorAlive, Xyra Stream</a><br>
+        <small>
+            Xyra does not host any files; it pulls streams from third-party services.
+        </small>
+    </footer>
+
+    <script>
+        const searchInput = document.getElementById('searchInput');
+        const searchSuggestions = document.getElementById('searchSuggestions');
+        const container = document.getElementById('container');
+        const apiKey = '974dff81c8800d9dac708b4882d8cbb5';
+    
+        searchInput.addEventListener('input', async () => {
+            const query = searchInput.value.trim();
+            if (query.length < 2) {
+                container.classList.remove('top-align');
+                searchSuggestions.classList.remove('show');
+                searchSuggestions.innerHTML = '';
+                return;
+            }
+    
+            container.classList.add('top-align');
+            searchSuggestions.classList.add('show');
+    
+            const response = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&query=${query}`);
+            const data = await response.json();
+            displaySuggestions(data.results);
+        });
+    
+        function displaySuggestions(results) {
+            searchSuggestions.innerHTML = '';
+            if (results.length === 0) {
+                searchSuggestions.classList.remove('show');
+                return;
+            }
+        
+            results.forEach(media => {
+                const suggestionCard = document.createElement('div');
+                suggestionCard.classList.add('suggestion-card');
+                suggestionCard.addEventListener('click', () => {
+                    const mediaId = media.id;
+                    const mediaType = media.media_type;
+                    window.location.href = `play.html?id=${mediaId}&type=${mediaType}`;
+                });
+        
+                const posterPath = media.poster_path 
+                    ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
+                    : 'https://via.placeholder.com/150x200?text=No+Image';
+        
+                const suggestionImage = document.createElement('img');
+                suggestionImage.src = posterPath;
+                suggestionImage.alt = media.title || media.name;
+                suggestionImage.classList.add('suggestion-image');
+        
+                const suggestionDetails = document.createElement('div');
+                suggestionDetails.classList.add('suggestion-details');
+        
+                const title = document.createElement('div');
+                title.classList.add('suggestion-title');
+                title.textContent = media.title || media.name;
+        
+                const typeAndYear = document.createElement('div');
+                typeAndYear.classList.add('suggestion-subtitle');
+                typeAndYear.textContent = `${media.media_type === 'movie' ? 'Movie' : 'TV Show'} · ${media.release_date ? media.release_date.split('-')[0] : 'N/A'}`;
+        
+                suggestionDetails.appendChild(title);
+                suggestionDetails.appendChild(typeAndYear);
+        
+                suggestionCard.appendChild(suggestionImage);
+                suggestionCard.appendChild(suggestionDetails);
+                searchSuggestions.appendChild(suggestionCard);
+            });
+        }
+        
+    </script>    
+</body>
+</html>
