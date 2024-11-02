@@ -253,6 +253,12 @@
                 padding: 10px;
                 font-size: 0.9rem;
             }
+            .suggestions-container {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            }
+            .suggestion-card {
+                min-height: 350px;
+            }
         }
 
         @media (max-width: 480px) {
@@ -273,6 +279,20 @@
             .search-input {
                 padding: 10px;
                 font-size: 0.9rem;
+            }
+            .suggestions-container {
+                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            }
+            .suggestion-card {
+                min-height: 350px;
+            }
+        
+            /* Make title font size smaller to fit within card on small screens */
+            .suggestion-title {
+                font-size: 0.9rem;
+            }
+            .suggestion-subtitle {
+                font-size: 0.8rem;
             }
         }
     </style>
