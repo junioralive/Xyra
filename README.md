@@ -15,7 +15,7 @@ Explore **Xyra** in two ways:
 
 ### Online Version
 
-Access Xyra directly online here: **[Link to Online Version]**
+Access Xyra directly online here: **https://junioralive.github.io/Xyra**
 
 ### Local Version
 
