@@ -600,11 +600,11 @@
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
-                url = `https://vidsrc.cc/v2/embed/movie/${id}?autoPlay=true`;
+                url = `https://vidsrc.cc/v2/embed/movie/${id}`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
             } else if (episode) {  // Show buttons only after an episode is selected
-                url = `https://vidsrc.cc/v2/embed/tv/${id}/${season}/${episode}?autoPlay=true`;
+                url = `https://vidsrc.cc/v2/embed/tv/${id}/${season}/${episode}`;
 
                 // Display buttons conditionally based on the episode index
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
