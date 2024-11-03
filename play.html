@@ -76,11 +76,11 @@
             flex-direction: column;
             align-items: center;
             text-align: center;
-            overflow-y: auto; /* Enables vertical scrolling */
-            overflow-x: hidden; /* Prevents horizontal scrolling */
-            max-height: 100%; /* Keeps sidebar within container height */
+            overflow-y: auto;
+            overflow-x: hidden;
+            max-height: 100%;
             padding-right: 5px;
-            scrollbar-width: none; /* Firefox - hides scrollbar */
+            scrollbar-width: none;
         }
 
         /* Hide scrollbar for Chrome, Safari, and Edge */
@@ -109,7 +109,7 @@
             font-size: 0.9em;
             color: #AAA;
             margin: 5px 0;
-            max-height: 80px; /* Initial collapsed height */
+            max-height: 80px;
             overflow: hidden;
             transition: max-height 0.3s ease;
         }
@@ -140,10 +140,10 @@
             max-height: 150px;
             overflow-y: auto;
             padding-right: 5px;
-            scrollbar-width: none; /* Firefox */
+            scrollbar-width: none;
         }
         .season-grid::-webkit-scrollbar {
-            display: none; /* Chrome, Safari */
+            display: none;
         }
 
         /* Season Button Styling */
@@ -182,8 +182,10 @@
         }
 
         .video-box.movie {
+            width: 98%;
             height: 80vh;
             max-height: 80vh;
+            margin-bottom: 10px;
         }
 
         /* Video Container */
@@ -204,7 +206,7 @@
 
         /* Video Box Styling */
         .video-box {
-            width: 98%; /* Slightly smaller width for cleaner look */
+            width: 98%;
             height: 60%;
             display: block;
             border-radius: 8px;
@@ -217,12 +219,12 @@
 
         /* Episode List Container */
         .episode-list-container {
-            width: 93%; /* Slightly smaller width for cleaner look */
+            width: 93%;
             background: #181818;
-            border-radius: 15px; /* Rounded corners */
-            padding: 20px; /* Spacing around items */
+            border-radius: 15px;
+            padding: 20px;
             margin-top: 10px;
-            margin-bottom: 10px; /* Added space below the container */
+            margin-bottom: 10px;
             display: none;
             flex-direction: column;
             align-items: center;
@@ -238,35 +240,36 @@
             height: 100%;
             border: none;
         }
-/* Loading Spinner Styling */
-.loading-spinner {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 50px;
-    height: 50px;
-    border: 5px solid rgba(255, 255, 255, 0.3);
-    border-top: 5px solid #E0E0E0;
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
-    z-index: 1;
-}
 
-/* Hide the loading spinner initially */
-.loading-spinner.hidden {
-    display: none;
-}
+        /* Loading Spinner Styling */
+        .loading-spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50px;
+            height: 50px;
+            border: 5px solid rgba(255, 255, 255, 0.3);
+            border-top: 5px solid #E0E0E0;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            z-index: 1;
+        }
 
-/* Spinner Animation */
-@keyframes spin {
-    0% { transform: translate(-50%, -50%) rotate(0deg); }
-    100% { transform: translate(-50%, -50%) rotate(360deg); }
-}
+        /* Hide the loading spinner initially */
+        .loading-spinner.hidden {
+            display: none;
+        }
+
+        /* Spinner Animation */
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
 
         /* Control Button Styling */
         .control-button {
-            display: none; /* Initially hidden */
+            display: none;
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
@@ -305,12 +308,12 @@
 
         /* Episode List Container */
         .episode-list-container {
-            width: 93%; /* Slightly smaller width for cleaner look */
+            width: 93%;
             background: #181818;
-            border-radius: 15px; /* Rounded corners */
-            padding: 20px; /* Spacing around items */
+            border-radius: 15px;
+            padding: 20px;
             margin-top: 10px;
-            margin-bottom: 10px; /* Added space below the container */
+            margin-bottom: 10px;
             display: none;
             flex-direction: column;
             align-items: center;
@@ -331,7 +334,7 @@
             padding: 10px;
             background-color: rgba(0, 0, 0, 0.6);
             border: 1px solid rgba(255, 255, 255, 0.2);
-            border-radius: 15px; /* Added round corners */
+            border-radius: 15px;
             cursor: pointer;
             width: 100%;
             text-align: center;
@@ -608,11 +611,16 @@
                 nextButton.style.display = index < episodeList.length - 1 ? 'flex' : 'none';
             }
         
-            // Show the loading spinner whenever a new video is loaded
+            // Show the loading spinner before setting the video URL
             loadingSpinner.classList.remove('hidden');
+            // Set the video URL and hide the spinner once loaded
             videoFrame.src = url;
             currentEpisodeIndex = index;
-        
+            // Add event listener to hide spinner after the video loads
+            videoFrame.onload = () => {
+                loadingSpinner.classList.add('hidden');
+            };
+            // Update active episode item styling
             document.querySelectorAll('.episode-item').forEach((item, idx) => {
                 item.classList.toggle('active', idx === index);
             });
