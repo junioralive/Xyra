@@ -68,6 +68,7 @@
             background-color: rgba(255, 255, 255, 0.1);
         }
         
+
         /* Sidebar */
         .sidebar {
             width: 30%;
@@ -75,6 +76,16 @@
             flex-direction: column;
             align-items: center;
             text-align: center;
+            overflow-y: auto; /* Enables vertical scrolling */
+            overflow-x: hidden; /* Prevents horizontal scrolling */
+            max-height: 100%; /* Keeps sidebar within container height */
+            padding-right: 5px;
+            scrollbar-width: none; /* Firefox - hides scrollbar */
+        }
+
+        /* Hide scrollbar for Chrome, Safari, and Edge */
+        .sidebar::-webkit-scrollbar {
+            display: none;
         }
         
         /* Media Poster Styling */
@@ -106,7 +117,7 @@
         /* "View More" link styling */
         .view-more {
             font-size: 0.9em;
-            color: #FFD700;
+            color: #00b7ff;
             cursor: pointer;
             margin-top: 5px;
             text-decoration: underline;
@@ -193,21 +204,66 @@
 
         /* Video Box Styling */
         .video-box {
-            width: 100%;
+            width: 98%; /* Slightly smaller width for cleaner look */
             height: 60%;
             display: block;
             border-radius: 8px;
             max-height: 500px;
+            margin-top: 10px;
+            border: 2px solid #2D2D2D;
             position: relative;
             overflow: hidden;
         }
-        
+
+        /* Episode List Container */
+        .episode-list-container {
+            width: 93%; /* Slightly smaller width for cleaner look */
+            background: #181818;
+            border-radius: 15px; /* Rounded corners */
+            padding: 20px; /* Spacing around items */
+            margin-top: 10px;
+            margin-bottom: 10px; /* Added space below the container */
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            border: 2px solid #2D2D2D;
+            max-height: 40%;
+            overflow-y: auto;
+            scrollbar-width: none;
+        }
+
         iframe {
             width: 100%;
             height: 100%;
             border: none;
         }
-        
+/* Loading Spinner Styling */
+.loading-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    border: 5px solid rgba(255, 255, 255, 0.3);
+    border-top: 5px solid #E0E0E0;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    z-index: 1;
+}
+
+/* Hide the loading spinner initially */
+.loading-spinner.hidden {
+    display: none;
+}
+
+/* Spinner Animation */
+@keyframes spin {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
         /* Control Button Styling */
         .control-button {
             display: none; /* Initially hidden */
@@ -383,11 +439,9 @@
     <div class="container">
         <div class="top-buttons">
             <!-- <a href="index.html" class="top-button" title="Home">&#8962;</a> Home button symbol -->
-
             <a href="index.html" class="top-button" title="Home">
                 <img src="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" alt="GitHub" style="width: 30px; height: 30px;">
             </a>
-
         </div>
         <!-- Sidebar for Media Details and Season Selection -->
         <div class="sidebar" id="sidebar">
@@ -397,13 +451,16 @@
                 <p id="mediaTypeYear">Type • Year</p>
                 <p id="mediaRatings">Ratings</p>
                 <p id="mediaOverview">Info</p>
+                <div class="season-grid" id="seasonButtons"></div>
             </div>                   
             <div class="season-grid" id="seasonButtons"></div>
         </div>
-
         <!-- Video Player and Episode List -->
         <div class="video-container" id="videoContainer">
             <div class="video-box" id="videoBox">
+                <!-- Loading Animation Overlay -->
+                <div class="loading-spinner" id="loadingSpinner"></div>
+        
                 <iframe id="videoFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 <button class="control-button left" id="prevButton" onclick="changeEpisode(-1)">&#9664;</button>
                 <button class="control-button right" id="nextButton" onclick="changeEpisode(1)">&#9654;</button>
@@ -425,7 +482,7 @@
         const urlParams = new URLSearchParams(window.location.search);
         const mediaId = urlParams.get('id');
         const mediaType = urlParams.get('type');
-
+        
         const mediaTitle = document.getElementById('mediaTitle');
         const mediaOverview = document.getElementById('mediaOverview');
         const mediaPoster = document.getElementById('mediaPoster');
@@ -433,29 +490,39 @@
         const episodesList = document.getElementById('episodesList');
         const videoFrame = document.getElementById('videoFrame');
         const videoContainer = document.getElementById('videoContainer');
+        const loadingSpinner = document.getElementById('loadingSpinner');
         const prevButton = document.getElementById('prevButton');
         const nextButton = document.getElementById('nextButton');
         let currentEpisodeIndex = 0;
         let currentSeason = 1;
         let episodeList = [];
-
+        
+        // Hide the loading spinner initially
+        loadingSpinner.classList.add('hidden');
+        
+        // Hide the loading spinner when the iframe has loaded
+        videoFrame.addEventListener('load', () => {
+            loadingSpinner.classList.add('hidden');
+        });
+        
         document.addEventListener('DOMContentLoaded', fetchMediaDetails);
-
+        
         async function fetchMediaDetails() {
             const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
             const media = await response.json();
-            
+        
             // Set Title and Overview
             mediaTitle.textContent = media.title || media.name;
             mediaOverview.textContent = media.overview;
             mediaPoster.src = `https://image.tmdb.org/t/p/w500${media.poster_path}`;
+            
             // Add "View More" if overview is too long
             if (mediaOverview.scrollHeight > mediaOverview.clientHeight) {
                 const viewMore = document.createElement('span');
                 viewMore.classList.add('view-more');
                 viewMore.textContent = 'View More';
                 mediaOverview.after(viewMore);
-
+        
                 viewMore.addEventListener('click', () => {
                     if (mediaOverview.style.maxHeight === 'none') {
                         mediaOverview.style.maxHeight = '80px';
@@ -466,7 +533,7 @@
                     }
                 });
             }
-
+        
             // Set Type and Year
             const type = mediaType === 'tv' ? 'TV Show' : 'Movie';
             const year = media.release_date ? media.release_date.split('-')[0] : media.first_air_date ? media.first_air_date.split('-')[0] : 'N/A';
@@ -487,13 +554,12 @@
                 videoContainer.classList.add('movie');
                 document.querySelector('.video-box').classList.add('movie');
             }
-        }        
-         
-
+        }
+        
         async function loadSeasons(tvId) {
             const response = await fetch(`https://api.themoviedb.org/3/tv/${tvId}?api_key=${apiKey}`);
             const tvShow = await response.json();
-
+        
             seasonButtons.innerHTML = '';
             tvShow.seasons.forEach(season => {
                 const seasonButton = document.createElement('button');
@@ -509,11 +575,11 @@
                 seasonButtons.appendChild(seasonButton);
             });
         }
-
+        
         async function loadEpisodes(tvId, seasonNumber) {
             const response = await fetch(`https://api.themoviedb.org/3/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`);
             const season = await response.json();
-
+        
             episodeList = season.episodes;
             episodesList.style.display = 'flex';
             episodesList.innerHTML = '';
@@ -527,7 +593,7 @@
                 episodesList.appendChild(episodeItem);
             });
         }
-
+        
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
@@ -541,6 +607,9 @@
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
                 nextButton.style.display = index < episodeList.length - 1 ? 'flex' : 'none';
             }
+        
+            // Show the loading spinner whenever a new video is loaded
+            loadingSpinner.classList.remove('hidden');
             videoFrame.src = url;
             currentEpisodeIndex = index;
         
@@ -549,18 +618,17 @@
             });
         }
         
-    
         function changeEpisode(step) {
             const newIndex = currentEpisodeIndex + step;
             if (newIndex >= 0 && newIndex < episodeList.length) {
                 const episode = episodeList[newIndex];
                 playVideo(mediaId, 'tv', currentSeason, episode.episode_number, newIndex);
+                
                 // Update button visibility based on episode boundaries
                 prevButton.style.display = newIndex > 0 ? 'flex' : 'none';
                 nextButton.style.display = newIndex < episodeList.length - 1 ? 'flex' : 'none';
             }
-        }
-        
+        }        
     </script>
 </body>
 </html>
