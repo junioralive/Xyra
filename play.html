@@ -600,32 +600,39 @@
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
-                url = `https://vidsrc.cc/v2/embed/movie/${id}`;
+                url = `https://www.2embed.cc/embed/${id}`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
-            } else if (episode) {  // Show buttons only after an episode is selected
-                url = `https://vidsrc.cc/v2/embed/tv/${id}/${season}/${episode}`;
+            } else if (episode) { // Show buttons only after an episode is selected
+                url = `https://www.2embed.cc/embedtv/${id}&s=${season}&e=${episode}`;
 
                 // Display buttons conditionally based on the episode index
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
                 nextButton.style.display = index < episodeList.length - 1 ? 'flex' : 'none';
             }
-        
+
             // Show the loading spinner before setting the video URL
             loadingSpinner.classList.remove('hidden');
-            // Set the video URL and hide the spinner once loaded
+            // Set the video URL
             videoFrame.src = url;
             currentEpisodeIndex = index;
-            // Add event listener to hide spinner after the video loads
+
+            // Add event listener to hide spinner after the video loads (fallback in case onload fails)
             videoFrame.onload = () => {
                 loadingSpinner.classList.add('hidden');
             };
+
+            // Fallback timeout to hide spinner if onload event is not supported
+            setTimeout(() => {
+                loadingSpinner.classList.add('hidden');
+            }, 5000); // Adjust this timeout based on the expected loading duration
+
             // Update active episode item styling
             document.querySelectorAll('.episode-item').forEach((item, idx) => {
                 item.classList.toggle('active', idx === index);
             });
         }
-        
+
         function changeEpisode(step) {
             const newIndex = currentEpisodeIndex + step;
             if (newIndex >= 0 && newIndex < episodeList.length) {
