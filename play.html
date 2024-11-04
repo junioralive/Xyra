@@ -600,11 +600,11 @@
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
-                url = `https://www.2embed.cc/embed/${id}`;
+                url = `https://player.vidsrc.nl/embed/movie/${id}`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
             } else if (episode) { // Show buttons only after an episode is selected
-                url = `https://www.2embed.cc/embedtv/${id}&s=${season}&e=${episode}`;
+                url = `https://player.vidsrc.nl/embed/tv/${id}/${season}/${episode}`;
 
                 // Display buttons conditionally based on the episode index
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
