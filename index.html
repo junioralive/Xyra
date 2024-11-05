@@ -131,6 +131,53 @@
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
         }
 
+        /* Additional Styles for Continue Watching Section */
+        .section-title {
+            width: 100%;
+            max-width: 1200px;
+            margin: 20px 0 10px;
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #E0E0E0;
+        }
+
+        .continue-watching-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            gap: 15px;
+            padding: 10px;
+            max-height: 100%;
+            max-width: 1200px;
+            padding: 0 10px;
+        }
+
+        /* Remove Button on Media Card */
+        .remove-button {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: rgba(255, 255, 255, 0.3);
+            color: #FFFFFF;
+            border: none;
+            border-radius: 50%;
+            width: 25px;
+            height: 25px;
+            font-size: 16px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: background-color 0.3s;
+        }
+
+        .remove-button:hover {
+            background-color: rgba(255, 0, 0, 0.9);
+        }
+
+        .hidden {
+            display: none;
+        }
+
         /* Suggestions Container */
         .suggestions-container {
             display: grid;
@@ -276,6 +323,10 @@
                 max-width: 280px;
             }
 
+            .section-title {
+                font-size: 1.25rem;
+            }
+
             .search-input {
                 padding: 10px;
                 font-size: 0.9rem;
@@ -321,6 +372,13 @@
         <div class="search-bar" id="searchBar">
             <input type="text" id="searchInput" class="search-input" placeholder="Search Movie/TV Show...">
         </div>
+
+        <!-- Continue Watching Section -->
+        <div id="continueWatchingSection" class="hidden">
+            <div class="section-title">Continue Watching...</div>
+            <div id="continueWatchingContainer" class="continue-watching-container"></div>
+        </div>
+
         <div id="searchSuggestions" class="suggestions-container"></div>
     </div>
 
@@ -331,75 +389,151 @@
             Xyra does not host any files; it pulls streams from third-party services.
         </small>
     </footer>
-
     <script>
         const searchInput = document.getElementById('searchInput');
         const searchSuggestions = document.getElementById('searchSuggestions');
         const container = document.getElementById('container');
         const apiKey = '974dff81c8800d9dac708b4882d8cbb5';
-    
+
+        const continueWatchingSection = document.getElementById('continueWatchingSection');
+        const continueWatchingContainer = document.getElementById('continueWatchingContainer');
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadContinueWatching();
+        });
+
         searchInput.addEventListener('input', async () => {
             const query = searchInput.value.trim();
             if (query.length < 2) {
                 container.classList.remove('top-align');
                 searchSuggestions.classList.remove('show');
                 searchSuggestions.innerHTML = '';
+                continueWatchingSection.classList.remove('hidden');
                 return;
             }
-    
+
             container.classList.add('top-align');
             searchSuggestions.classList.add('show');
-    
-            const response = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&query=${query}`);
+            continueWatchingSection.classList.add('hidden');
+
+            const response = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
             const data = await response.json();
             displaySuggestions(data.results);
         });
-    
+
         function displaySuggestions(results) {
             searchSuggestions.innerHTML = '';
             if (results.length === 0) {
                 searchSuggestions.classList.remove('show');
                 return;
             }
-        
+
             results.forEach(media => {
-                const suggestionCard = document.createElement('div');
-                suggestionCard.classList.add('suggestion-card');
-                suggestionCard.addEventListener('click', () => {
-                    const mediaId = media.id;
-                    const mediaType = media.media_type;
-                    window.location.href = `play.html?id=${mediaId}&type=${mediaType}`;
-                });
-        
-                const posterPath = media.poster_path 
-                    ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
-                    : 'https://via.placeholder.com/150x200?text=No+Image';
-        
-                const suggestionImage = document.createElement('img');
-                suggestionImage.src = posterPath;
-                suggestionImage.alt = media.title || media.name;
-                suggestionImage.classList.add('suggestion-image');
-        
-                const suggestionDetails = document.createElement('div');
-                suggestionDetails.classList.add('suggestion-details');
-        
-                const title = document.createElement('div');
-                title.classList.add('suggestion-title');
-                title.textContent = media.title || media.name;
-        
-                const typeAndYear = document.createElement('div');
-                typeAndYear.classList.add('suggestion-subtitle');
-                typeAndYear.textContent = `${media.media_type === 'movie' ? 'Movie' : 'TV Show'} · ${media.release_date ? media.release_date.split('-')[0] : 'N/A'}`;
-        
-                suggestionDetails.appendChild(title);
-                suggestionDetails.appendChild(typeAndYear);
-        
-                suggestionCard.appendChild(suggestionImage);
-                suggestionCard.appendChild(suggestionDetails);
+                const suggestionCard = createMediaCard(media);
                 searchSuggestions.appendChild(suggestionCard);
             });
         }
+
+        async function loadContinueWatching() {
+            const progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
+            if (progressHistory.length === 0) {
+                continueWatchingSection.classList.add('hidden');
+                return;
+            }
         
-    </script>    
+            continueWatchingSection.classList.remove('hidden');
+            continueWatchingContainer.innerHTML = '';
+        
+            // Fetch media details for each item in progressHistory
+            for (const progressItem of progressHistory) {
+                const mediaId = progressItem.id;
+                const mediaType = progressItem.season ? 'tv' : 'movie';
+        
+                try {
+                    const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
+                    const media = await response.json();
+                    const mediaCard = createMediaCard(media, mediaType, progressItem.id, true); // Pass 'true' to show the remove button
+                    continueWatchingContainer.appendChild(mediaCard);
+                } catch (error) {
+                    console.error('Error fetching media details:', error);
+                }
+            }
+        }
+        
+
+        function createMediaCard(media, mediaTypeOverride = null, mediaId = null, isContinueWatching = false) {
+            const suggestionCard = document.createElement('div');
+            suggestionCard.classList.add('suggestion-card');
+            suggestionCard.style.position = 'relative';
+        
+            // Add event listener to navigate to playback page
+            suggestionCard.addEventListener('click', () => {
+                const mediaType = mediaTypeOverride || media.media_type;
+                window.location.href = `play.html?id=${media.id}&type=${mediaType}`;
+            });
+        
+            // Poster image
+            const posterPath = media.poster_path
+                ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
+                : 'https://via.placeholder.com/150x200?text=No+Image';
+        
+            const suggestionImage = document.createElement('img');
+            suggestionImage.src = posterPath;
+            suggestionImage.alt = media.title || media.name;
+            suggestionImage.classList.add('suggestion-image');
+        
+            // Media details
+            const suggestionDetails = document.createElement('div');
+            suggestionDetails.classList.add('suggestion-details');
+        
+            const title = document.createElement('div');
+            title.classList.add('suggestion-title');
+            title.textContent = media.title || media.name;
+        
+            const typeAndYear = document.createElement('div');
+            typeAndYear.classList.add('suggestion-subtitle');
+            const typeText = mediaTypeOverride || media.media_type === 'movie' ? 'Movie' : 'TV Show';
+            const year = media.release_date
+                ? media.release_date.split('-')[0]
+                : media.first_air_date
+                ? media.first_air_date.split('-')[0]
+                : 'N/A';
+            typeAndYear.textContent = `${typeText} · ${year}`;
+        
+            // Append details to suggestion card
+            suggestionDetails.appendChild(title);
+            suggestionDetails.appendChild(typeAndYear);
+            suggestionCard.appendChild(suggestionImage);
+            suggestionCard.appendChild(suggestionDetails);
+        
+            // Show remove button only for "Continue Watching" items
+            if (isContinueWatching) {
+                const removeButton = document.createElement('button');
+                removeButton.classList.add('remove-button');
+                removeButton.innerHTML = '×';
+                removeButton.addEventListener('click', (event) => {
+                    event.stopPropagation(); // Prevent card click
+                    if (confirm('Are you sure you want to remove this item from Continue Watching?')) {
+                        removeFromContinueWatching(mediaId);
+                    }
+                });
+                suggestionCard.appendChild(removeButton);
+            }
+        
+            return suggestionCard;
+        }        
+
+        function removeFromContinueWatching(mediaId) {
+            // Get the progress history from localStorage
+            let progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
+            // Filter out the item to be deleted
+            progressHistory = progressHistory.filter(item => item.id !== mediaId);
+            // Save the updated progress history back to localStorage, effectively deleting the item and its associated data
+            localStorage.setItem('progressHistory', JSON.stringify(progressHistory));
+            // Reload the "Continue Watching" section to reflect the changes
+            loadContinueWatching();
+        }
+        
+    </script>
 </body>
 </html>
