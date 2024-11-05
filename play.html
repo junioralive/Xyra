@@ -464,7 +464,7 @@
                 <!-- Loading Animation Overlay -->
                 <div class="loading-spinner" id="loadingSpinner"></div>
         
-                <iframe id="videoFrame" allow="autoplay; encrypted-media" allowfullscreen sandbox="allow-same-origin allow-scripts allow-forms"></iframe>
+                <iframe id="videoFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 <button class="control-button left" id="prevButton" onclick="changeEpisode(-1)">&#9664;</button>
                 <button class="control-button right" id="nextButton" onclick="changeEpisode(1)">&#9654;</button>
             </div>
@@ -600,11 +600,11 @@
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
-                url = `https://player.vidsrc.nl/embed/movie/${id}`;
+                url = `https://multiembed.mov/?video_id=${id}&tmdb=1`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
             } else if (episode) { // Show buttons only after an episode is selected
-                url = `https://player.vidsrc.nl/embed/tv/${id}/${season}/${episode}`;
+                url = `https://multiembed.mov/?video_id=${id}&tmdb=1&s=${season}&e=${episode}`;
 
                 // Display buttons conditionally based on the episode index
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
