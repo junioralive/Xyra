@@ -23,7 +23,7 @@ Explore **Xyra** in two ways:
 
 ### Online Version
 
-Access Xyra directly online here: **https://junioralive.github.io/Xyra**
+Access Xyra directly online here: **https://xyrastream.live/**
 
 ### Local Version
 
