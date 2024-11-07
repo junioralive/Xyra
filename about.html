@@ -34,6 +34,7 @@
                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
                 line-height: 1.6;
                 text-align: center;
+                overflow-x: hidden;
             }
             .top-button {
                 width: 40px;
@@ -97,6 +98,42 @@
                 color: #E0E0E0;
                 text-decoration: none;
             }
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+                padding: 20px;
+            }
+            .title-container {
+                flex-direction: row;
+                gap: 5px;
+            }
+            .section-title {
+                font-size: 1.3em;
+            }
+            .text-content {
+                font-size: 0.9em;
+            }
+        }
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+            }
+            .top-button {
+                font-size: 1.2em;
+                width: 35px;
+                height: 35px;
+            }
+            .container {
+                width: 95%;
+                padding: 15px;
+            }
+            .section-title {
+                font-size: 1.1em;
+            }
+            .text-content {
+                font-size: 0.8em;
+            }
+        }
         </style>
     </head>
     <body>
