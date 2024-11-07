@@ -2,12 +2,14 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta content="Xyra" property="og:title"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta content="Discover, Watch, Enjoy – Anytime, Anywhere." property="og:description"/>
-    <meta content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" property="og:image"/>
-    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
-    <title>Xyra - Stream</title>
+    <title>Xyra - Play</title>
+    <meta name="description" content="Learn more about Xyra, your go-to platform for streaming movies and TV shows online, anytime and anywhere.">
+    <meta name="keywords" content="about Xyra, Xyra streaming, movie streaming platform, about movie platform">
+    <meta property="og:title" content="Xyra - Play"/>
+    <meta property="og:description" content="Xyra - A place to discover movies and TV shows. Watch anytime, anywhere.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png"/>
+    <link rel="canonical" href="https://xyrastream.live/play">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         /* Basic Styling */
         body {
@@ -307,6 +309,7 @@
         }
 
         /* Episode List Container */
+        /* Episode List Container */
         .episode-list-container {
             width: 93%;
             background: #181818;
@@ -321,8 +324,10 @@
             border: 2px solid #2D2D2D;
             max-height: 40%;
             overflow-y: auto;
+            overflow-x: hidden; /* Prevents horizontal scrolling */
             scrollbar-width: none;
         }
+
 
         /* Hide scrollbar for Chrome, Safari, and Edge */
         .episode-list-container::-webkit-scrollbar {
@@ -376,9 +381,10 @@
         /* Responsive Adjustments */
         @media (max-width: 768px) {
             .container {
+                width: 95%;
                 flex-direction: column;
                 height: auto;
-                padding: 15px;
+                padding: 10px;
                 gap: 15px;
             }
 
@@ -407,6 +413,13 @@
         }
 
         @media (max-width: 480px) {
+            .container {
+                width: 95%;
+                flex-direction: column;
+                height: auto;
+                padding: 10px;
+                gap: 15px;
+            }
             .media-details h2 {
                 font-size: 1.2em;
             }

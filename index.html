@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Xyra</title>
-    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
-    <meta content="Xyra" property="og:title"/>
+    <title>Xyra - Stream</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta content="Discover, Watch, Enjoy – Anytime, Anywhere." property="og:description"/>
-    <meta content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" property="og:image"/>
+    <meta name="description" content="Xyra - A place to discover movies and TV shows. Watch anytime, anywhere.">
+    <meta name="keywords" content="Xyra streaming, Xyra movies, Xyra TV shows, free movie streaming, free TV shows online, watch movies online, stream TV shows, online movie streaming, HD movies free, TV series streaming, Xyra free movies, Xyra stream movies, watch TV shows online, popular movies 2024, trending TV shows, best streaming platform, free movie site, watch free movies, Xyra media streaming, high-quality movie streaming, movie library online, binge-watch movies, latest movie releases, HD streaming movies, free series streaming, full episodes online">
+    <meta name="robots" content="index, follow">
+    <meta property="og:title" content="Xyra - Discover, Watch, Enjoy Anytime, Anywhere">
+    <meta property="og:description" content="Xyra - A place to discover movies and TV shows. Watch anytime, anywhere.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
+    <meta property="og:url" content="https://xyrastream.live"> <!-- Replace with actual URL -->
+    <meta property="og:type" content="website">
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         /* Basic Styling */
@@ -139,18 +143,8 @@
             font-size: 1.5rem;
             font-weight: bold;
             color: #E0E0E0;
+            text-align: center;
         }
-
-        .continue-watching-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            gap: 15px;
-            padding: 10px;
-            max-height: 100%;
-            max-width: 1200px;
-            padding: 0 10px;
-        }
-
         /* Remove Button on Media Card */
         .remove-button {
             position: absolute;
@@ -180,6 +174,8 @@
 
         /* Suggestions Container */
         .suggestions-container {
+            opacity: 0;
+            transition: opacity 0.5s ease;
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             gap: 15px;
@@ -189,7 +185,6 @@
             scrollbar-width: none;
             width: 100%;
             transition: opacity 0.5s ease;
-            opacity: 0;
         }
 
         /* Show suggestions */
@@ -289,8 +284,13 @@
 
         /* Responsive Styling */
         @media (max-width: 768px) {
-            .title {
+            .container {
+                width: 95%;
+                padding: 10px;
+            }
+            .title, .section-title {
                 font-size: 1.5rem;
+                text-align: center;
             }
             .search-bar {
                 width: 100%;
@@ -301,44 +301,42 @@
                 font-size: 0.9rem;
             }
             .suggestions-container {
-                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             }
             .suggestion-card {
                 min-height: 350px;
+            }
+            .suggestion-title {
+                font-size: 0.9rem;
+            }
+            .suggestion-subtitle {
+                font-size: 0.8rem;
             }
         }
 
         @media (max-width: 480px) {
             .container {
-                width: 100%;
+                width: 95%;
                 padding: 10px;
             }
-
-            .title {
+            .title, .section-title {
                 font-size: 1.25rem;
+                text-align: center;
             }
-
             .search-bar {
                 width: 100%;
                 max-width: 280px;
             }
-
-            .section-title {
-                font-size: 1.25rem;
-            }
-
             .search-input {
                 padding: 10px;
                 font-size: 0.9rem;
             }
             .suggestions-container {
-                grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
             }
             .suggestion-card {
-                min-height: 350px;
+                min-height: 250px;
             }
-        
-            /* Make title font size smaller to fit within card on small screens */
             .suggestion-title {
                 font-size: 0.9rem;
             }
@@ -354,7 +352,7 @@
         <div class="top-buttons">
             <!-- About Button on the top-left -->
             <a href="about.html" class="top-button top-button-left" title="About">
-                <img src="https://img.icons8.com/?size=100&id=77&format=png&color=FFFFFF" alt="Discord" style="width: 30px; height: 30px;">
+                <img src="https://img.icons8.com/?size=100&id=77&format=png&color=FFFFFF" alt="About" style="width: 30px; height: 30px;">
             </a>
         
             <!-- Discord Button on the top-right -->
@@ -362,26 +360,24 @@
                 <img src="https://img.icons8.com/?size=100&id=25627&format=png&color=FFFFFF" alt="Discord" style="width: 30px; height: 30px;">
             </a>
         </div>
-
+    
         <!-- Title with Icon -->
         <div class="title-container">
             <img src="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" alt="Xyra Logo" class="title-icon">
-            <h1 class="title" id="title">yra</h1>
+            <h1 class="title" id="title">Xyra</h1>
         </div>
-
+    
+        <!-- Search Bar -->
         <div class="search-bar" id="searchBar">
             <input type="text" id="searchInput" class="search-input" placeholder="Search Movie/TV Show...">
         </div>
 
-        <!-- Continue Watching Section -->
-        <div id="continueWatchingSection" class="hidden">
-            <div class="section-title">Continue Watching...</div>
-            <div id="continueWatchingContainer" class="continue-watching-container"></div>
+        <div class="section-title" id="sectionTitle">Continue Watching...</div>
+        <div id="searchSuggestions" class="suggestions-container">
+            <div class="section-title" id="sectionTitle"></div>
         </div>
-
-        <div id="searchSuggestions" class="suggestions-container"></div>
     </div>
-
+    
     <!-- Footer -->
     <footer class="footer">
         Made with ♥ by <a href="https://github.com/junioralive/Xyra">JuniorAlive, Xyra Stream</a><br>
@@ -392,148 +388,141 @@
     <script>
         const searchInput = document.getElementById('searchInput');
         const searchSuggestions = document.getElementById('searchSuggestions');
-        const container = document.getElementById('container');
+        const sectionTitle = document.getElementById('sectionTitle');
         const apiKey = '974dff81c8800d9dac708b4882d8cbb5';
-
-        const continueWatchingSection = document.getElementById('continueWatchingSection');
-        const continueWatchingContainer = document.getElementById('continueWatchingContainer');
-
+        
         document.addEventListener('DOMContentLoaded', () => {
+            sectionTitle.textContent = 'Continue Watching...';
             loadContinueWatching();
         });
-
+        
         searchInput.addEventListener('input', async () => {
             const query = searchInput.value.trim();
+    
             if (query.length < 2) {
-                container.classList.remove('top-align');
-                searchSuggestions.classList.remove('show');
-                searchSuggestions.innerHTML = '';
-                continueWatchingSection.classList.remove('hidden');
+                sectionTitle.textContent = 'Continue Watching...';
+                loadContinueWatching();
+                searchSuggestions.classList.add('show');  // Show the Continue Watching section
                 return;
             }
-
-            container.classList.add('top-align');
-            searchSuggestions.classList.add('show');
-            continueWatchingSection.classList.add('hidden');
-
+    
+            sectionTitle.textContent = 'Search Results';
+            searchSuggestions.classList.add('show');  // Show the Search Results section
             const response = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
             const data = await response.json();
             displaySuggestions(data.results);
         });
-
+        
+        function clearMediaCards() {
+            searchSuggestions.innerHTML = ''; // Clears all child elements of searchSuggestions
+        }
+    
         function displaySuggestions(results) {
-            searchSuggestions.innerHTML = '';
-            if (results.length === 0) {
-                searchSuggestions.classList.remove('show');
-                return;
-            }
-
+            clearMediaCards();
             results.forEach(media => {
                 const suggestionCard = createMediaCard(media);
                 searchSuggestions.appendChild(suggestionCard);
             });
         }
-
+        
         async function loadContinueWatching() {
             const progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
+            clearMediaCards();
             if (progressHistory.length === 0) {
-                continueWatchingSection.classList.add('hidden');
+                sectionTitle.textContent = ''; // Clear title if no items
+                searchSuggestions.classList.remove('show'); // Hide suggestions if no items
                 return;
             }
-        
-            continueWatchingSection.classList.remove('hidden');
-            continueWatchingContainer.innerHTML = '';
-        
-            // Fetch media details for each item in progressHistory
+            
+            const mediaCache = {}; // Cache to avoid duplicate API calls
+            sectionTitle.textContent = 'Continue Watching...';
+            searchSuggestions.classList.add('show'); // Show suggestions if items exist
+    
             for (const progressItem of progressHistory) {
                 const mediaId = progressItem.id;
                 const mediaType = progressItem.season ? 'tv' : 'movie';
-        
-                try {
-                    const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
-                    const media = await response.json();
-                    const mediaCard = createMediaCard(media, mediaType, progressItem.id, true); // Pass 'true' to show the remove button
-                    continueWatchingContainer.appendChild(mediaCard);
-                } catch (error) {
-                    console.error('Error fetching media details:', error);
+    
+                if (mediaCache[mediaId]) {
+                    const mediaCard = createMediaCard(mediaCache[mediaId], mediaType, mediaId, true);
+                    searchSuggestions.appendChild(mediaCard);
+                } else {
+                    try {
+                        const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
+                        if (!response.ok) throw new Error('Failed to fetch media details');
+                        const media = await response.json();
+                        mediaCache[mediaId] = media;
+                        const mediaCard = createMediaCard(media, mediaType, mediaId, true);
+                        searchSuggestions.appendChild(mediaCard);
+                    } catch (error) {
+                        console.error('Error fetching media details:', error);
+                    }
                 }
             }
         }
         
-
         function createMediaCard(media, mediaTypeOverride = null, mediaId = null, isContinueWatching = false) {
             const suggestionCard = document.createElement('div');
             suggestionCard.classList.add('suggestion-card');
             suggestionCard.style.position = 'relative';
-        
-            // Add event listener to navigate to playback page
+    
             suggestionCard.addEventListener('click', () => {
                 const mediaType = mediaTypeOverride || media.media_type;
                 window.location.href = `play.html?id=${media.id}&type=${mediaType}`;
             });
-        
-            // Poster image
+    
             const posterPath = media.poster_path
                 ? `https://image.tmdb.org/t/p/w500${media.poster_path}`
                 : 'https://via.placeholder.com/150x200?text=No+Image';
-        
+    
             const suggestionImage = document.createElement('img');
             suggestionImage.src = posterPath;
             suggestionImage.alt = media.title || media.name;
             suggestionImage.classList.add('suggestion-image');
-        
-            // Media details
+    
             const suggestionDetails = document.createElement('div');
             suggestionDetails.classList.add('suggestion-details');
-        
+    
             const title = document.createElement('div');
             title.classList.add('suggestion-title');
             title.textContent = media.title || media.name;
-        
+    
             const typeAndYear = document.createElement('div');
             typeAndYear.classList.add('suggestion-subtitle');
-            const typeText = mediaTypeOverride || media.media_type === 'movie' ? 'Movie' : 'TV Show';
+            const typeText = mediaTypeOverride || (media.media_type === 'movie' ? 'Movie' : 'TV Show');
             const year = media.release_date
                 ? media.release_date.split('-')[0]
                 : media.first_air_date
                 ? media.first_air_date.split('-')[0]
                 : 'N/A';
             typeAndYear.textContent = `${typeText} · ${year}`;
-        
-            // Append details to suggestion card
+    
             suggestionDetails.appendChild(title);
             suggestionDetails.appendChild(typeAndYear);
             suggestionCard.appendChild(suggestionImage);
             suggestionCard.appendChild(suggestionDetails);
-        
-            // Show remove button only for "Continue Watching" items
+    
             if (isContinueWatching) {
                 const removeButton = document.createElement('button');
                 removeButton.classList.add('remove-button');
                 removeButton.innerHTML = '×';
                 removeButton.addEventListener('click', (event) => {
-                    event.stopPropagation(); // Prevent card click
+                    event.stopPropagation();
                     if (confirm('Are you sure you want to remove this item from Continue Watching?')) {
                         removeFromContinueWatching(mediaId);
                     }
                 });
                 suggestionCard.appendChild(removeButton);
             }
-        
+    
             return suggestionCard;
-        }        
-
-        function removeFromContinueWatching(mediaId) {
-            // Get the progress history from localStorage
-            let progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
-            // Filter out the item to be deleted
-            progressHistory = progressHistory.filter(item => item.id !== mediaId);
-            // Save the updated progress history back to localStorage, effectively deleting the item and its associated data
-            localStorage.setItem('progressHistory', JSON.stringify(progressHistory));
-            // Reload the "Continue Watching" section to reflect the changes
-            loadContinueWatching();
         }
-        
-    </script>
+    
+        function removeFromContinueWatching(mediaId) {
+            let progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
+            progressHistory = progressHistory.filter(item => item.id !== mediaId);
+            localStorage.setItem('progressHistory', JSON.stringify(progressHistory));
+            loadContinueWatching();
+        }        
+    </script>    
 </body>
 </html>
