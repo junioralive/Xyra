@@ -10,6 +10,8 @@
     <meta property="og:title" content="Xyra - Play"/>
     <meta property="og:description" content="Xyra - A place to discover movies and TV shows. Watch anytime, anywhere.">
     <meta property="og:image" content="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png"/>
+    <meta name="referrer" content="origin">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <link rel="canonical" href="https://xyrastream.live/play">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <title>Xyra - Stream</title>
@@ -377,23 +379,19 @@
         <div class="video-container" id="videoContainer">
             <div class="video-box" id="videoBox">
                 <div class="loading-spinner" id="loadingSpinner"></div>
-        
-                <iframe id="videoFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <iframe id="videoFrame" allowfullscreen preload="auto" loading="lazy" crossorigin="anonymous" referrerpolicy="origin-when-cross-origin"></iframe>
                 <button class="control-button left" id="prevButton" onclick="changeEpisode(-1)">&#9664;</button>
                 <button class="control-button right" id="nextButton" onclick="changeEpisode(1)">&#9654;</button>
             </div>
             <div class="episode-list-container" id="episodesList"></div>
         </div>
     </div>
-
-    <!-- Footer -->
     <footer class="footer">
-        Made with ♥ by <a href="https://github.com/junioralive/Xyra">JuniorAlive, Xyra Stream</a><br>
+        Made with ♥ by <a href="https://github.com/junioralive/Xyra">JuniorAlive, Xyra Stream © 2024</a><br>
         <small>
             Xyra does not host any files; it pulls streams from third-party services.
         </small>
     </footer>
-
     <script>
         const apiKey = '1070730380f5fee0d87cf0382670b255';
         const urlParams = new URLSearchParams(window.location.search);
@@ -540,19 +538,27 @@
         function playVideo(id, type, season = '', episode = '', index = 0) {
             let url;
             if (type === 'movie') {
-                url = `https://multiembed.mov/?video_id=${id}&tmdb=1`;
+                // URL structure for movies
+                url = `https://vidbinge.dev/embed/movie/${id}`;
                 prevButton.style.display = 'none';
                 nextButton.style.display = 'none';
-            } else if (episode) { 
-                url = `https://multiembed.mov/?video_id=${id}&tmdb=1&s=${season}&e=${episode}`;
+            } else if (type === 'tv' && season && episode) {
+                url = `https://vidbinge.dev/embed/tv/${id}/${season}/${episode}`;
                 prevButton.style.display = index > 0 ? 'flex' : 'none';
                 nextButton.style.display = index < episodeList.length - 1 ? 'flex' : 'none';
             }
             loadingSpinner.classList.remove('hidden');
             videoFrame.src = url;
             currentEpisodeIndex = index;
-            videoFrame.onload = () => loadingSpinner.classList.add('hidden');
-            setTimeout(() => loadingSpinner.classList.add('hidden'), 5000);
+            videoFrame.onload = () => {
+                loadingSpinner.classList.add('hidden');
+            };
+            setTimeout(() => {
+                loadingSpinner.classList.add('hidden');
+            }, 5000);
+            document.querySelectorAll('.episode-item').forEach((item, idx) => {
+                item.classList.toggle('active', idx === index);
+            });
         }
         
         function saveMovieProgress(id, timestamp) {
@@ -594,12 +600,26 @@
             const newIndex = currentEpisodeIndex + step;
             if (newIndex >= 0 && newIndex < episodeList.length) {
                 const episode = episodeList[newIndex];
-                playVideo(mediaId, 'tv', currentSeasonText, episode.episode_number, newIndex);
+                const seasonNumber = currentSeasonText.replace(/\D/g, '');
+                playVideo(mediaId, 'tv', seasonNumber, episode.episode_number, newIndex);
                 prevButton.style.display = newIndex > 0 ? 'flex' : 'none';
                 nextButton.style.display = newIndex < episodeList.length - 1 ? 'flex' : 'none';
-                saveProgress(mediaId, currentSeasonText, newIndex, episode.name);
+                saveProgress(mediaId, seasonNumber, newIndex, episode.name);
             }
         }
+        
+        const iframe = document.getElementById('videoIframe');
+        iframe.onload = function() {
+            const overlay = document.createElement('div');
+            overlay.style.position = 'absolute';
+            overlay.style.top = '0';
+            overlay.style.left = '0';
+            overlay.style.width = '100%';
+            overlay.style.height = '100%';
+            overlay.style.zIndex = '9999';
+            overlay.style.backgroundColor = 'rgba(0,0,0,0.5)';
+            iframe.contentWindow.document.body.appendChild(overlay);
+        };
     </script>
 </body>
 </html>
