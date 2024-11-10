@@ -333,10 +333,32 @@
         const primaryAPI = 'https://api.themoviedb.org/3';
         const proxyAPI = 'https://tmdbproxy.junioralive.workers.dev';
     
-        document.addEventListener('DOMContentLoaded', () => {
+        document.addEventListener('DOMContentLoaded', async () => {
             sectionTitle.textContent = 'Continue Watching...';
+            await setAPIBaseURL();
             loadContinueWatching();
         });
+    
+        async function setAPIBaseURL() {
+            let baseURL = getCookie("apiBaseURL");
+            if (!baseURL) {
+                try {
+                    await testAPI(primaryAPI);
+                    baseURL = primaryAPI;
+                } catch (error) {
+                    console.warn('Primary API is unavailable. Falling back to proxy.');
+                    baseURL = proxyAPI;
+                }
+                setCookie("apiBaseURL", baseURL, 7);
+            }
+            window.apiBaseURL = baseURL;
+        }
+    
+        async function testAPI(url) {
+            const testUrl = `${url}/configuration?api_key=${apiKey}`;
+            const response = await fetch(testUrl);
+            if (!response.ok) throw new Error('API check failed');
+        }
     
         searchInput.addEventListener('input', async () => {
             const query = searchInput.value.trim();
@@ -348,7 +370,7 @@
             }
             sectionTitle.textContent = 'Search Results';
             searchSuggestions.classList.add('show');
-            const data = await fetchWithFallback(`${primaryAPI}/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
+            const data = await fetchWithFallback(`${window.apiBaseURL}/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
             displaySuggestions(data.results);
         });
     
@@ -383,7 +405,7 @@
                     searchSuggestions.appendChild(mediaCard);
                 } else {
                     try {
-                        const media = await fetchWithFallback(`${primaryAPI}/${mediaType}/${mediaId}?api_key=${apiKey}`);
+                        const media = await fetchWithFallback(`${window.apiBaseURL}/${mediaType}/${mediaId}?api_key=${apiKey}`);
                         mediaCache[mediaId] = media;
                         const mediaCard = createMediaCard(media, mediaType, mediaId, true);
                         searchSuggestions.appendChild(mediaCard);
@@ -393,7 +415,7 @@
                 }
             }
         }
-
+    
         async function fetchWithFallback(url) {
             try {
                 const response = await fetch(url);
@@ -462,6 +484,18 @@
             localStorage.setItem('progressHistory', JSON.stringify(progressHistory));
             loadContinueWatching();
         }
-    </script>     
+    
+        function setCookie(name, value, days) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            document.cookie = `${name}=${value}; expires=${date.toUTCString()}; path=/`;
+        }
+    
+        function getCookie(name) {
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; ${name}=`);
+            if (parts.length === 2) return parts.pop().split(';').shift();
+        }
+    </script>       
 </body>
 </html>

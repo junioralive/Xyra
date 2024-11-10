@@ -411,6 +411,7 @@
         let currentSeasonText = '';
         let episodeList = [];
         let saveProgressInterval;
+        let apiBaseURL = getCookie('apiBaseURL') || 'https://api.themoviedb.org/3';
 
         loadingSpinner.classList.add('hidden');
         videoFrame.addEventListener('load', () => {
@@ -420,14 +421,18 @@
             fetchMediaDetails();
         });
 
-        async function fetchWithFallback(url) {
+        // Updated fetch function to use cookie-based API URL
+        async function fetchWithFallback(urlPath) {
+            const url = `${apiBaseURL}${urlPath}?api_key=${apiKey}`;
             try {
                 const response = await fetch(url);
                 if (!response.ok) throw new Error('Primary API failed');
                 return await response.json();
             } catch (error) {
                 console.warn('Falling back to proxy URL due to error:', error);
-                const proxyUrl = url.replace('https://api.themoviedb.org/3', 'https://tmdbproxy.junioralive.workers.dev');
+                apiBaseURL = 'https://tmdbproxy.junioralive.workers.dev';
+                setCookie('apiBaseURL', apiBaseURL, 7);
+                const proxyUrl = `${apiBaseURL}${urlPath}?api_key=${apiKey}`;
                 const response = await fetch(proxyUrl);
                 if (!response.ok) throw new Error('Both primary and proxy APIs failed');
                 return await response.json();
@@ -435,8 +440,8 @@
         }
 
         async function fetchMediaDetails() {
-            const url = `https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`;
-            const media = await fetchWithFallback(url);
+            const urlPath = `/${mediaType}/${mediaId}`;
+            const media = await fetchWithFallback(urlPath);
             mediaTitle.textContent = media.title || media.name;
             mediaOverview.textContent = media.overview;
             mediaPoster.src = `https://image.tmdb.org/t/p/w500${media.poster_path}`;
@@ -478,8 +483,8 @@
         }
         
         async function loadSeasons(tvId) {
-            const url = `https://api.themoviedb.org/3/tv/${tvId}?api_key=${apiKey}`;
-            const tvShow = await fetchWithFallback(url);
+            const urlPath = `/tv/${tvId}?api_key=${apiKey}`;
+            const tvShow = await fetchWithFallback(urlPath);
             seasonButtons.innerHTML = '';
             tvShow.seasons.forEach(season => {
                 const seasonButton = document.createElement('button');
@@ -519,8 +524,8 @@
         }        
         
         async function loadEpisodes(tvId, seasonNumber) {
-            const url = `https://api.themoviedb.org/3/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`;
-            const season = await fetchWithFallback(url);
+            const urlPath = `/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`;
+            const season = await fetchWithFallback(urlPath);
             episodeList = season.episodes;
             episodesList.style.display = 'flex';
             episodesList.innerHTML = '';
@@ -671,7 +676,20 @@
                     console.error("Could not access iframe content:", error);
                 }
             }
-        }        
+        }    
+
+        function setCookie(name, value, days) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            document.cookie = `${name}=${value}; expires=${date.toUTCString()}; path=/`;
+        }
+
+        function getCookie(name) {
+            const value = `; ${document.cookie}`;
+            const parts = value.split(`; ${name}=`);
+            if (parts.length === 2) return parts.pop().split(';').shift();
+        }
+
     </script>
 </body>
 </html>
