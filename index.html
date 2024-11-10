@@ -309,7 +309,7 @@
         </div>
         <div class="title-container">
             <img src="https://raw.githubusercontent.com/junioralive/Xyra/refs/heads/main/assets/xyra.png" alt="Xyra Logo" class="title-icon">
-            <h1 class="title" id="title">Xyra</h1>
+            <h1 class="title" id="title">yra</h1>
         </div>
         <div class="search-bar" id="searchBar">
             <input type="text" id="searchInput" class="search-input" placeholder="Search Movie/TV Show...">
@@ -341,19 +341,22 @@
     
         async function setAPIBaseURL() {
             let baseURL = getCookie("apiBaseURL");
-            if (!baseURL) {
-                try {
-                    await testAPI(primaryAPI);
-                    baseURL = primaryAPI;
-                } catch (error) {
-                    console.warn('Primary API is unavailable. Falling back to proxy.');
-                    baseURL = proxyAPI;
-                }
-                setCookie("apiBaseURL", baseURL, 7);
+            if (baseURL) {
+                console.log('Using cached API base URL from cookie.');
+                window.apiBaseURL = baseURL;
+                return;
             }
+            try {
+                await testAPI(primaryAPI);
+                baseURL = primaryAPI;
+            } catch (error) {
+                console.warn('Primary API is unavailable. Falling back to proxy.');
+                baseURL = proxyAPI;
+            }
+            setCookie("apiBaseURL", baseURL, 1);
             window.apiBaseURL = baseURL;
         }
-    
+
         async function testAPI(url) {
             const testUrl = `${url}/configuration?api_key=${apiKey}`;
             const response = await fetch(testUrl);
