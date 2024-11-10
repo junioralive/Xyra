@@ -445,7 +445,7 @@
             mediaTitle.textContent = media.title || media.name;
             mediaOverview.textContent = media.overview;
             mediaPoster.src = `https://image.tmdb.org/t/p/w500${media.poster_path}`;
-            if (mediaOverview.scrollHeight > mediaOverview.clientHeight) {
+            if (mediaOverview.scrollHeight > mediaOverview.clientHeight && !document.querySelector('.view-more')) {
                 const viewMore = document.createElement('span');
                 viewMore.classList.add('view-more');
                 viewMore.textContent = 'View More';
@@ -483,7 +483,7 @@
         }
         
         async function loadSeasons(tvId) {
-            const urlPath = `/tv/${tvId}?api_key=${apiKey}`;
+            const urlPath = `/tv/${tvId}`;
             const tvShow = await fetchWithFallback(urlPath);
             seasonButtons.innerHTML = '';
             tvShow.seasons.forEach(season => {
@@ -524,7 +524,7 @@
         }        
         
         async function loadEpisodes(tvId, seasonNumber) {
-            const urlPath = `/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`;
+            const urlPath = `/tv/${tvId}/season/${seasonNumber}`;
             const season = await fetchWithFallback(urlPath);
             episodeList = season.episodes;
             episodesList.style.display = 'flex';
