@@ -330,10 +330,14 @@
         const searchSuggestions = document.getElementById('searchSuggestions');
         const sectionTitle = document.getElementById('sectionTitle');
         const apiKey = '974dff81c8800d9dac708b4882d8cbb5';
+        const primaryAPI = 'https://api.themoviedb.org/3';
+        const proxyAPI = 'https://tmdbproxy.junioralive.workers.dev';
+    
         document.addEventListener('DOMContentLoaded', () => {
             sectionTitle.textContent = 'Continue Watching...';
             loadContinueWatching();
         });
+    
         searchInput.addEventListener('input', async () => {
             const query = searchInput.value.trim();
             if (query.length < 2) {
@@ -344,13 +348,14 @@
             }
             sectionTitle.textContent = 'Search Results';
             searchSuggestions.classList.add('show');
-            const response = await fetch(`https://api.themoviedb.org/3/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
-            const data = await response.json();
+            const data = await fetchWithFallback(`${primaryAPI}/search/multi?api_key=${apiKey}&query=${encodeURIComponent(query)}`);
             displaySuggestions(data.results);
         });
+    
         function clearMediaCards() {
             searchSuggestions.innerHTML = '';
         }
+    
         function displaySuggestions(results) {
             clearMediaCards();
             results.forEach(media => {
@@ -358,7 +363,7 @@
                 searchSuggestions.appendChild(suggestionCard);
             });
         }
-        
+    
         async function loadContinueWatching() {
             const progressHistory = JSON.parse(localStorage.getItem('progressHistory')) || [];
             clearMediaCards();
@@ -378,9 +383,7 @@
                     searchSuggestions.appendChild(mediaCard);
                 } else {
                     try {
-                        const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
-                        if (!response.ok) throw new Error('Failed to fetch media details');
-                        const media = await response.json();
+                        const media = await fetchWithFallback(`${primaryAPI}/${mediaType}/${mediaId}?api_key=${apiKey}`);
                         mediaCache[mediaId] = media;
                         const mediaCard = createMediaCard(media, mediaType, mediaId, true);
                         searchSuggestions.appendChild(mediaCard);
@@ -390,7 +393,21 @@
                 }
             }
         }
-        
+
+        async function fetchWithFallback(url) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Primary API failed');
+                return await response.json();
+            } catch (error) {
+                console.warn('Falling back to proxy URL due to error:', error);
+                const proxyUrl = url.replace(primaryAPI, proxyAPI);
+                const response = await fetch(proxyUrl);
+                if (!response.ok) throw new Error('Both primary and proxy APIs failed');
+                return await response.json();
+            }
+        }
+    
         function createMediaCard(media, mediaTypeOverride = null, mediaId = null, isContinueWatching = false) {
             const suggestionCard = document.createElement('div');
             suggestionCard.classList.add('suggestion-card');
@@ -436,7 +453,6 @@
                 });
                 suggestionCard.appendChild(removeButton);
             }
-    
             return suggestionCard;
         }
     
@@ -445,7 +461,7 @@
             progressHistory = progressHistory.filter(item => item.id !== mediaId);
             localStorage.setItem('progressHistory', JSON.stringify(progressHistory));
             loadContinueWatching();
-        }        
-    </script>    
+        }
+    </script>     
 </body>
 </html>

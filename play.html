@@ -419,10 +419,24 @@
         document.addEventListener('DOMContentLoaded', () => {
             fetchMediaDetails();
         });
-        
+
+        async function fetchWithFallback(url) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error('Primary API failed');
+                return await response.json();
+            } catch (error) {
+                console.warn('Falling back to proxy URL due to error:', error);
+                const proxyUrl = url.replace('https://api.themoviedb.org/3', 'https://tmdbproxy.junioralive.workers.dev');
+                const response = await fetch(proxyUrl);
+                if (!response.ok) throw new Error('Both primary and proxy APIs failed');
+                return await response.json();
+            }
+        }
+
         async function fetchMediaDetails() {
-            const response = await fetch(`https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`);
-            const media = await response.json();
+            const url = `https://api.themoviedb.org/3/${mediaType}/${mediaId}?api_key=${apiKey}`;
+            const media = await fetchWithFallback(url);
             mediaTitle.textContent = media.title || media.name;
             mediaOverview.textContent = media.overview;
             mediaPoster.src = `https://image.tmdb.org/t/p/w500${media.poster_path}`;
@@ -464,8 +478,8 @@
         }
         
         async function loadSeasons(tvId) {
-            const response = await fetch(`https://api.themoviedb.org/3/tv/${tvId}?api_key=${apiKey}`);
-            const tvShow = await response.json();
+            const url = `https://api.themoviedb.org/3/tv/${tvId}?api_key=${apiKey}`;
+            const tvShow = await fetchWithFallback(url);
             seasonButtons.innerHTML = '';
             tvShow.seasons.forEach(season => {
                 const seasonButton = document.createElement('button');
@@ -505,8 +519,8 @@
         }        
         
         async function loadEpisodes(tvId, seasonNumber) {
-            const response = await fetch(`https://api.themoviedb.org/3/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`);
-            const season = await response.json();
+            const url = `https://api.themoviedb.org/3/tv/${tvId}/season/${seasonNumber}?api_key=${apiKey}`;
+            const season = await fetchWithFallback(url);
             episodeList = season.episodes;
             episodesList.style.display = 'flex';
             episodesList.innerHTML = '';
@@ -607,7 +621,7 @@
                 saveProgress(mediaId, seasonNumber, newIndex, episode.name);
             }
         }
-        
+
         const iframe = document.getElementById('videoFrame');
         iframe.onload = function() {
             const overlay = document.createElement('div');
@@ -620,6 +634,44 @@
             overlay.style.backgroundColor = 'rgba(0,0,0,0.5)';
             iframe.contentWindow.document.body.appendChild(overlay);
         };
+
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchMediaDetails();
+            observeIframeTitle();
+        });
+        
+        function observeIframeTitle() {
+            const iframe = document.getElementById('videoFrame');
+            iframe.addEventListener('load', () => {
+                updateActiveEpisodeFromIframeTitle();
+            });
+        
+            function updateActiveEpisodeFromIframeTitle() {
+                try {
+                    const iframeTitle = iframe.contentDocument.title;
+                    console.log("Detected iframe title:", iframeTitle);
+                    const titleMatch = iframeTitle.match(/S(\d+)\sE(\d+)/);
+                    if (titleMatch) {
+                        const seasonNumber = titleMatch[1];
+                        const episodeNumber = titleMatch[2];
+                        console.log(`Extracted Season: ${seasonNumber}, Episode: ${episodeNumber}`);
+                        Array.from(episodesList.children).forEach((episodeItem, index) => {
+                            const episodeNumberSpan = episodeItem.querySelector('span.bg-video-context-hoverColor');
+                            if (episodeNumberSpan && episodeNumberSpan.textContent === `E${episodeNumber}`) {
+                                console.log(`Match found for Episode ${episodeNumber}: Setting active episode.`);
+                                currentEpisodeIndex = index;
+                                setActiveButton(episodeItem, episodesList);
+                                prevButton.style.display = currentEpisodeIndex > 0 ? 'flex' : 'none';
+                                nextButton.style.display = currentEpisodeIndex < episodeList.length - 1 ? 'flex' : 'none';
+                                saveProgress(mediaId, `S${seasonNumber}`, currentEpisodeIndex, episodeItem.textContent.trim());
+                            }
+                        });
+                    }
+                } catch (error) {
+                    console.error("Could not access iframe content:", error);
+                }
+            }
+        }        
     </script>
 </body>
 </html>
