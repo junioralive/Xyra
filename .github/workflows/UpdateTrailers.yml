@@ -1,9 +1,9 @@
-name: UPDATE_TRAILER
+name: UpdateTrailers
 
 on:
   schedule:
-    - cron: '0 * * * *'
-     
+    - cron: '0 * * * *'  # Runs hourly
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,7 +24,7 @@ jobs:
 
       - name: Create Python script from secret
         run: |
-          echo "$UPDATE_TRAILER" > temp_script.py
+          echo "$UPDATE_API" > temp_script.py
         env:
           UPDATE_API: ${{ secrets.UPDATE_API }}
 
@@ -35,12 +35,11 @@ jobs:
         run: |
           git config --local user.email ${{ secrets.MY_GIT_EMAIL }}
           git config --local user.name "junioralive"
-          git add README.md
-          git commit -m "Updated API Status" -a
+          git add trailers.json
+          git commit -m "Updated Trailers"
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          
