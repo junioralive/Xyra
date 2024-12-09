@@ -19,51 +19,7 @@
 
 ## 🚀 Getting Started
 
-Explore **Xyra** in two ways:
-
-### Online Version
-
-Access Xyra directly online here: **https://xyrastream.live/**
-
-### Local Version
-
-To set up and run Xyra locally, follow these steps:
-
-#### Prerequisites
-
-- A modern web browser (e.g., Chrome, Firefox)
-- Optional: Code editor (VS Code, Sublime Text) if you wish to customize
-
-#### Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/junioralive/Xyra
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd Xyra
-   ```
-
-3. **Open the Platform**:
-   - Open `index.html` in your browser to explore Xyra’s homepage and start streaming.
-
-## 🤝 Contributing
-
-Contributions are welcome to make Xyra even better! To contribute:
-
-1. Fork this repository.
-2. Create a branch for your feature:
-
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Commit your changes and push the branch.
-4. Submit a pull request with a description of your work.
+Explore **Xyra** online here: **https://xyrastream.live/**
 
 ## 📄 License
 
