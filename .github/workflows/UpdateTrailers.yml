@@ -31,7 +31,7 @@ jobs:
       # Step 4: Create Python script from secret
       - name: Create Python script from secret
         run: |
-          echo "${{ secrets.UPDATE_API }}" > temp_script.py
+          echo "${{ secrets.UPDATE_TRAILER }}" > temp_script.py
 
       # Step 5: Run the Python script
       - name: Run API check script
