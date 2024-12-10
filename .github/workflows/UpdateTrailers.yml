@@ -34,12 +34,22 @@ jobs:
       - name: Run API check script
         run: python temp_script.py
 
+      - name: Create Python script from secret
+        run: |
+          echo "$UPDATE_API" > temp_script.py
+          echo temp_script.py
+        env:
+          UPDATE_API: ${{ secrets.UPDATE_API }}
+
+      - name: Run API check script
+        run: python temp_script.py
+
       - name: commit files
         run: |
           git config --local user.email ${{ secrets.MY_GIT_EMAIL }}
           git config --local user.name "junioralive"
           git add trailers.json
-          git commit -m "Updated Trailers" -a
+          git commit -m "Updated API Status" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
