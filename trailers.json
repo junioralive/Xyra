@@ -1,5 +1,15 @@
 [
   {
+    "id": "549509",
+    "type": "movie",
+    "title": "The Brutalist",
+    "content": "Official Trailer 2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sftjavfNJzYxkpkSAqHnvHwviCo.jpg",
+    "trailerId": "GdRXPAHIEW4",
+    "trailerUrl": "https://www.youtube.com/embed/GdRXPAHIEW4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "218843",
     "type": "tv",
     "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
@@ -130,16 +140,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "447273",
-    "type": "movie",
-    "title": "Snow White",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4O8s9kF6pW5xxSidsyz71nHB3Du.jpg",
-    "trailerId": "iV46TJKL8cU",
-    "trailerUrl": "https://www.youtube.com/embed/iV46TJKL8cU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1241982",
     "type": "movie",
     "title": "Moana 2",
@@ -200,6 +200,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "34996",
+    "type": "movie",
+    "title": "The Addiction",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4PubBVTUVHaNl9zt6QIzobGV3wg.jpg",
+    "trailerId": "pgydfbvmwr0",
+    "trailerUrl": "https://www.youtube.com/embed/pgydfbvmwr0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "210879",
     "type": "tv",
     "title": "Rurouni Kenshin",
@@ -227,16 +237,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z0FRsEGtdknBjAkPdDmPlefaPmn.jpg",
     "trailerId": "Bo4cTBCJE4s",
     "trailerUrl": "https://www.youtube.com/embed/Bo4cTBCJE4s",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1361220",
-    "type": "movie",
-    "title": "Private Princess Christmas",
-    "content": "Preview - Private Princess Christmas - Starring Ali Skovbye, Derek Klena and Erica Durance",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4nDQW9a8MUkMxwxfiR178RbFKHI.jpg",
-    "trailerId": "Fj8jlmqxXSY",
-    "trailerUrl": "https://www.youtube.com/embed/Fj8jlmqxXSY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -314,7 +314,7 @@
     "type": "movie",
     "title": "Alien: Romulus",
     "content": "Now Streaming On Hulu and Hulu on Disney+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iJaSpQNZ8GsqVDWfbCXmyZQXZ5l.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sLSYKzebiNvHJfzeBKBpAKcq8F8.jpg",
     "trailerId": "bQlwYnouC98",
     "trailerUrl": "https://www.youtube.com/embed/bQlwYnouC98",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -500,6 +500,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "5967",
+    "type": "movie",
+    "title": "The Umbrellas of Cherbourg",
+    "content": "THE UMBRELLAS OF CHERBOURG - 4K Restoration Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6gNMoldYYahTNxfvn0DAFlUXe1.jpg",
+    "trailerId": "7H-fl3njp5s",
+    "trailerUrl": "https://www.youtube.com/embed/7H-fl3njp5s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "974576",
     "type": "movie",
     "title": "Conclave",
@@ -523,7 +533,7 @@
     "id": "1106739",
     "type": "movie",
     "title": "Juror #2",
-    "content": "Juror #2 | Official Trailer | Max",
+    "content": "Official Max Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9Qq8InnodUYs8zdam8Zj967i6RO.jpg",
     "trailerId": "czYUXo0R0oA",
     "trailerUrl": "https://www.youtube.com/embed/czYUXo0R0oA",
@@ -597,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/97eLP7iJTCE03LhwtXfXRcLbg5H.jpg",
     "trailerId": "rua4oH3WJY0",
     "trailerUrl": "https://www.youtube.com/embed/rua4oH3WJY0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "9946",
-    "type": "movie",
-    "title": "End of Days",
-    "content": "UK Re-Release Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oVp4NyyOqVPKrv5PBA7Sjwoh09S.jpg",
-    "trailerId": "3qO3R8OlwYs",
-    "trailerUrl": "https://www.youtube.com/embed/3qO3R8OlwYs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
