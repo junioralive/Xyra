@@ -1,8 +1,11 @@
 name: UpdateTrailers
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+  push:
+    branches:
+      - main
+  repository_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -36,7 +39,7 @@ jobs:
           git config --local user.email ${{ secrets.MY_GIT_EMAIL }}
           git config --local user.name "junioralive"
           git add trailers.json
-          git commit -m "Updated Trailers"
+          git commit -m "Updated Trailers" -a
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
