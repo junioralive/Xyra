@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "The Brutalist",
     "content": "Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sftjavfNJzYxkpkSAqHnvHwviCo.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gVI7zsdm5VL43TAIe9zC34pLpLv.jpg",
     "trailerId": "GdRXPAHIEW4",
     "trailerUrl": "https://www.youtube.com/embed/GdRXPAHIEW4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -150,16 +150,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1353311",
-    "type": "movie",
-    "title": "Jamie Foxx: What Had Happened Was...",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zPJlbTENntLjFP8LfkdZlomqNlw.jpg",
-    "trailerId": "EF1QdY1knqM",
-    "trailerUrl": "https://www.youtube.com/embed/EF1QdY1knqM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "558449",
     "type": "movie",
     "title": "Gladiator II",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c6nouvFYnmNO50WQDLcKMI3p0jA.jpg",
     "trailerId": "aYIJOVRwr3g",
     "trailerUrl": "https://www.youtube.com/embed/aYIJOVRwr3g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1357633",
+    "type": "movie",
+    "title": "Solo Leveling -ReAwakening-",
+    "content": "English Dub Official Trailer 2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
+    "trailerId": "UdIXUDpeTXU",
+    "trailerUrl": "https://www.youtube.com/embed/UdIXUDpeTXU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -240,16 +240,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "71914",
-    "type": "tv",
-    "title": "The Wheel of Time",
-    "content": "Season 3 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oahCTL082gwu6fYrxEOBe546uvB.jpg",
-    "trailerId": "erxeLAg85fg",
-    "trailerUrl": "https://www.youtube.com/embed/erxeLAg85fg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "38464",
     "type": "tv",
     "title": "Blue Exorcist",
@@ -260,6 +250,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1353311",
+    "type": "movie",
+    "title": "Jamie Foxx: What Had Happened Was...",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zPJlbTENntLjFP8LfkdZlomqNlw.jpg",
+    "trailerId": "EF1QdY1knqM",
+    "trailerUrl": "https://www.youtube.com/embed/EF1QdY1knqM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1184889",
+    "type": "movie",
+    "title": "Jigra",
+    "content": "Jigra | Trailer | Alia Bhatt, Vedang Raina | Netflix India",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rxh0nZxZMZ7jogcCKcMpYZkoq1C.jpg",
+    "trailerId": "JmEy8uid_Hk",
+    "trailerUrl": "https://www.youtube.com/embed/JmEy8uid_Hk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "212246",
     "type": "tv",
     "title": "Interior Chinatown",
@@ -267,6 +277,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z0FRsEGtdknBjAkPdDmPlefaPmn.jpg",
     "trailerId": "Bo4cTBCJE4s",
     "trailerUrl": "https://www.youtube.com/embed/Bo4cTBCJE4s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "8514",
+    "type": "tv",
+    "title": "RuPaul's Drag Race",
+    "content": "First Look \ud83c\udf0a RuPaul's Drag Race Season 17 \ud83d\udca7",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uL8rBmiaoroODRbBfmeRJMZMbp7.jpg",
+    "trailerId": "I1eSW2tzyoM",
+    "trailerUrl": "https://www.youtube.com/embed/I1eSW2tzyoM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -310,26 +330,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "93405",
-    "type": "tv",
-    "title": "Squid Game",
-    "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-    "trailerId": "Ed1sGgHUo88",
-    "trailerUrl": "https://www.youtube.com/embed/Ed1sGgHUo88",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "90617",
-    "type": "tv",
-    "title": "The Bravest Knight",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/f7k5kzzthFO9F48XpqSb6fXqlFM.jpg",
-    "trailerId": "9GzSrYsjfe0",
-    "trailerUrl": "https://www.youtube.com/embed/9GzSrYsjfe0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "275624",
     "type": "tv",
     "title": "Nevertheless: The Shapes of Love",
@@ -337,6 +337,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cIqqNQAD7KeWmpOQslOiwu4Mfxl.jpg",
     "trailerId": "fN8DzYIYaFg",
     "trailerUrl": "https://www.youtube.com/embed/fN8DzYIYaFg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "275591",
+    "type": "tv",
+    "title": "Cinderella Game",
+    "content": "[NOW STREAMING] Cinderella Gets Her Revenge | Cinderella Game | KOCOWA+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r5kh9WyUJE0NiJZnM8Q3KsVcS9g.jpg",
+    "trailerId": "i3KnxFOJKxw",
+    "trailerUrl": "https://www.youtube.com/embed/i3KnxFOJKxw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -357,6 +367,26 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/AdfZ3W15jYvZLwVUcVGqOd1g0CE.jpg",
     "trailerId": "1uwQov0_-aI",
     "trailerUrl": "https://www.youtube.com/embed/1uwQov0_-aI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "226649",
+    "type": "tv",
+    "title": "The Tale of Lady Ok",
+    "content": "Official Clip [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jVvdQTMJ01Vx10ziYaMDMEcrXmU.jpg",
+    "trailerId": "VVFBKICoeJk",
+    "trailerUrl": "https://www.youtube.com/embed/VVFBKICoeJk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "93405",
+    "type": "tv",
+    "title": "Squid Game",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "trailerId": "Ed1sGgHUo88",
+    "trailerUrl": "https://www.youtube.com/embed/Ed1sGgHUo88",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -387,16 +417,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wu6krz32WumVFms7dhvwk49NEdr.jpg",
     "trailerId": "2GM36fw3dyo",
     "trailerUrl": "https://www.youtube.com/embed/2GM36fw3dyo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "243155",
-    "type": "tv",
-    "title": "Marry YOU",
-    "content": "Official Netflix Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sepU6nJSvei62cy11IfVA0CAw2B.jpg",
-    "trailerId": "9d6xD7frEOk",
-    "trailerUrl": "https://www.youtube.com/embed/9d6xD7frEOk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -597,16 +617,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
     "trailerId": "TQK9By9qQiw",
     "trailerUrl": "https://www.youtube.com/embed/TQK9By9qQiw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1357633",
-    "type": "movie",
-    "title": "Solo Leveling -ReAwakening-",
-    "content": "English Dub Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
-    "trailerId": "UdIXUDpeTXU",
-    "trailerUrl": "https://www.youtube.com/embed/UdIXUDpeTXU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
