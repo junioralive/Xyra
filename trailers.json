@@ -154,7 +154,7 @@
     "type": "movie",
     "title": "Red One",
     "content": "Streaming December 12",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bHkn3yuOFdu5LJcq67Odofhx6cb.jpg",
     "trailerId": "c1nIlvynTC4",
     "trailerUrl": "https://www.youtube.com/embed/c1nIlvynTC4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -657,16 +657,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qOSl6q8hIEY94iSMEFjHALBbEah.jpg",
     "trailerId": "uXfzJb-IUrk",
     "trailerUrl": "https://www.youtube.com/embed/uXfzJb-IUrk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "857598",
-    "type": "movie",
-    "title": "Pushpa 2 - The Rule",
-    "content": "Pushpa 2 - The Rule Trailer (Hindi) | Allu Arjun | Sukumar | Rashmika Mandanna | Fahadh Faasil | DSP",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
-    "trailerId": "1kVK0MZlbI4",
-    "trailerUrl": "https://www.youtube.com/embed/1kVK0MZlbI4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
