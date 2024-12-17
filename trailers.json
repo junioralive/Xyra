@@ -1,12 +1,62 @@
 [
   {
+    "id": "939243",
+    "type": "movie",
+    "title": "Sonic the Hedgehog 3",
+    "content": "Team Sonic vs. Team Shadow",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3Be8kvRZsvKn1rQFHMLVLEUX9Sn.jpg",
+    "trailerId": "T3jEID5yE2g",
+    "trailerUrl": "https://www.youtube.com/embed/T3jEID5yE2g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "661539",
+    "type": "movie",
+    "title": "A Complete Unknown",
+    "content": "Johnny Cash",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d2faCjeaynI2nPDVh9PiRapcLcl.jpg",
+    "trailerId": "3c4mdnRhT74",
+    "trailerUrl": "https://www.youtube.com/embed/3c4mdnRhT74",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "255868",
+    "type": "tv",
+    "title": "Dream Productions",
+    "content": "Now Available on Disney+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
+    "trailerId": "NqS_Rh6nFbE",
+    "trailerUrl": "https://www.youtube.com/embed/NqS_Rh6nFbE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
     "content": "Official Teaser Trailer Thursday",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMGCVVyr60jSGjFhsTvjlIZNySW.jpg",
-    "trailerId": "CrWoXIiu8PE",
-    "trailerUrl": "https://www.youtube.com/embed/CrWoXIiu8PE",
+    "trailerId": "lNYZWznDjp0",
+    "trailerUrl": "https://www.youtube.com/embed/lNYZWznDjp0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "90228",
+    "type": "tv",
+    "title": "Dune: Prophecy",
+    "content": "Episode 6 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
+    "trailerId": "LXh0vSSHMsk",
+    "trailerUrl": "https://www.youtube.com/embed/LXh0vSSHMsk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "56570",
+    "type": "tv",
+    "title": "Outlander",
+    "content": "\u2018Where is My Son?\u2019 Ep. 13 Preview - Season 7",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
+    "trailerId": "T6H9KiUL0xE",
+    "trailerUrl": "https://www.youtube.com/embed/T6H9KiUL0xE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -90,16 +140,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "255868",
-    "type": "tv",
-    "title": "Dream Productions",
-    "content": "Inbetweenquel",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxNKDWOeoesCBvy4d03EVbnzXPw.jpg",
-    "trailerId": "RTYTQoGAcJg",
-    "trailerUrl": "https://www.youtube.com/embed/RTYTQoGAcJg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "402431",
     "type": "movie",
     "title": "Wicked",
@@ -117,6 +157,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
     "trailerId": "Op8P4xzbmhg",
     "trailerUrl": "https://www.youtube.com/embed/Op8P4xzbmhg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "549509",
+    "type": "movie",
+    "title": "The Brutalist",
+    "content": "Official Trailer 2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fgZIlKhazlNCFYgCWUkw7b8ecwx.jpg",
+    "trailerId": "GdRXPAHIEW4",
+    "trailerUrl": "https://www.youtube.com/embed/GdRXPAHIEW4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -150,56 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "845781",
-    "type": "movie",
-    "title": "Red One",
-    "content": "Streaming December 12",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bHkn3yuOFdu5LJcq67Odofhx6cb.jpg",
-    "trailerId": "c1nIlvynTC4",
-    "trailerUrl": "https://www.youtube.com/embed/c1nIlvynTC4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "90228",
-    "type": "tv",
-    "title": "Dune: Prophecy",
-    "content": "Episode 5 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lBoHzOgft2QfpjkVVvZCqeM4ttT.jpg",
-    "trailerId": "ecgU1ZRLh2A",
-    "trailerUrl": "https://www.youtube.com/embed/ecgU1ZRLh2A",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "939243",
-    "type": "movie",
-    "title": "Sonic the Hedgehog 3",
-    "content": "The speed, the stakes, the showdown",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3Be8kvRZsvKn1rQFHMLVLEUX9Sn.jpg",
-    "trailerId": "qoLeG5Bcz_0",
-    "trailerUrl": "https://www.youtube.com/embed/qoLeG5Bcz_0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1311031",
-    "type": "movie",
-    "title": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle",
-    "content": "Only in Movie Theatres 2025 (English Dub)",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aI3Wz1F6ie9DY94jp5F42Yg5ZYK.jpg",
-    "trailerId": "F6v_I34-EWY",
-    "trailerUrl": "https://www.youtube.com/embed/F6v_I34-EWY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "108978",
-    "type": "tv",
-    "title": "Reacher",
-    "content": "Season 3 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
-    "trailerId": "iOjzqawTPus",
-    "trailerUrl": "https://www.youtube.com/embed/iOjzqawTPus",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "5925",
     "type": "movie",
     "title": "The Great Escape",
@@ -220,6 +220,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "91363",
+    "type": "tv",
+    "title": "What If...?",
+    "content": "Time is of the essence",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
+    "trailerId": "Bpi6DiW3lYI",
+    "trailerUrl": "https://www.youtube.com/embed/Bpi6DiW3lYI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "154526",
     "type": "tv",
     "title": "MF GHOST",
@@ -227,6 +237,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qEqLerjgjX9BL1fsqRc4MoWzqIU.jpg",
     "trailerId": "ZIA9Di0IwdE",
     "trailerUrl": "https://www.youtube.com/embed/ZIA9Di0IwdE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1101256",
+    "type": "movie",
+    "title": "Dahomey",
+    "content": "Official Trailer #2 [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gtIr9Cy7yIdgzVJdBSnaf2AgzlV.jpg",
+    "trailerId": "5YNac-cOugg",
+    "trailerUrl": "https://www.youtube.com/embed/5YNac-cOugg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -240,16 +260,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "210879",
-    "type": "tv",
-    "title": "Rurouni Kenshin",
-    "content": "-Kyoto Disturbance- Episode 35 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
-    "trailerId": "65vZGowsxIQ",
-    "trailerUrl": "https://www.youtube.com/embed/65vZGowsxIQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "17474",
     "type": "movie",
     "title": "The Man in the Moon",
@@ -260,13 +270,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "56570",
+    "id": "845781",
+    "type": "movie",
+    "title": "Red One",
+    "content": "Streaming December 12",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bHkn3yuOFdu5LJcq67Odofhx6cb.jpg",
+    "trailerId": "c1nIlvynTC4",
+    "trailerUrl": "https://www.youtube.com/embed/c1nIlvynTC4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "108978",
     "type": "tv",
-    "title": "Outlander",
-    "content": "\u2018My Entire Life is a Lie\u2019 Ep. 12 Preview - Season 7",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nf3Vlxm3C9U1aKUUQHmKFZmxPSc.jpg",
-    "trailerId": "Q-NYn97fCxQ",
-    "trailerUrl": "https://www.youtube.com/embed/Q-NYn97fCxQ",
+    "title": "Reacher",
+    "content": "Season 3 Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
+    "trailerId": "iOjzqawTPus",
+    "trailerUrl": "https://www.youtube.com/embed/iOjzqawTPus",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -310,23 +330,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1252470",
-    "type": "movie",
-    "title": "Sikandar Ka Muqaddar",
-    "content": "Sikandar ka Muqaddar | Watch Now | Tamannaah Bhatia, Jimmy Shergill, Avinash Tiwary",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sv3clpwOSSZO1c8i9uX4zig6Lzz.jpg",
-    "trailerId": "sqoBgJiLQck",
-    "trailerUrl": "https://www.youtube.com/embed/sqoBgJiLQck",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "91363",
+    "id": "210879",
     "type": "tv",
-    "title": "What If...?",
-    "content": "In two weeks, prepare for the epic new season that ends it all.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
-    "trailerId": "sg80BNbfplQ",
-    "trailerUrl": "https://www.youtube.com/embed/sg80BNbfplQ",
+    "title": "Rurouni Kenshin",
+    "content": "-Kyoto Disturbance- Episode 35 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "trailerId": "65vZGowsxIQ",
+    "trailerUrl": "https://www.youtube.com/embed/65vZGowsxIQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -437,16 +447,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/o9gr7EoGPDU1IIv8Buzm2neklUM.jpg",
     "trailerId": "zv817ouw7qE",
     "trailerUrl": "https://www.youtube.com/embed/zv817ouw7qE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "977262",
-    "type": "movie",
-    "title": "Ezra",
-    "content": "UK Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yWDnXuKpa7qZFpEu1v8DyYGtUtK.jpg",
-    "trailerId": "lIAvkyGy8vQ",
-    "trailerUrl": "https://www.youtube.com/embed/lIAvkyGy8vQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
