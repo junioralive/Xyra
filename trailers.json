@@ -210,6 +210,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "157744",
+    "type": "tv",
+    "title": "1923",
+    "content": "Season 2 Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg",
+    "trailerId": "-NTnA_zH2QM",
+    "trailerUrl": "https://www.youtube.com/embed/-NTnA_zH2QM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "38464",
     "type": "tv",
     "title": "Blue Exorcist",
@@ -320,16 +330,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1184889",
-    "type": "movie",
-    "title": "Jigra",
-    "content": "Jigra | Trailer | Alia Bhatt, Vedang Raina | Netflix India",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rxh0nZxZMZ7jogcCKcMpYZkoq1C.jpg",
-    "trailerId": "JmEy8uid_Hk",
-    "trailerUrl": "https://www.youtube.com/embed/JmEy8uid_Hk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "210879",
     "type": "tv",
     "title": "Rurouni Kenshin",
@@ -420,6 +420,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "212882",
+    "type": "tv",
+    "title": "Bring Back My Girls",
+    "content": "Ts Madison + Bring Back My Girls Is Back! \ud83c\udf1f Season 4 Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3KhW6dJ4vne3qY00gdDIDH4WkpB.jpg",
+    "trailerId": "TpLsJ-9NqSc",
+    "trailerUrl": "https://www.youtube.com/embed/TpLsJ-9NqSc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "81046",
     "type": "tv",
     "title": "The Dragon Prince",
@@ -437,16 +447,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sepU6nJSvei62cy11IfVA0CAw2B.jpg",
     "trailerId": "9d6xD7frEOk",
     "trailerUrl": "https://www.youtube.com/embed/9d6xD7frEOk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "219971",
-    "type": "tv",
-    "title": "The Agency",
-    "content": "Official Trailer #2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/o9gr7EoGPDU1IIv8Buzm2neklUM.jpg",
-    "trailerId": "zv817ouw7qE",
-    "trailerUrl": "https://www.youtube.com/embed/zv817ouw7qE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -520,6 +520,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "5967",
+    "type": "movie",
+    "title": "The Umbrellas of Cherbourg",
+    "content": "THE UMBRELLAS OF CHERBOURG - 4K Restoration Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+    "trailerId": "7H-fl3njp5s",
+    "trailerUrl": "https://www.youtube.com/embed/7H-fl3njp5s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "17664",
     "type": "movie",
     "title": "The Horse Soldiers",
@@ -547,6 +557,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kF8ljC7Y4p1UsmKBi2LxelZpqw.jpg",
     "trailerId": "xnbAxOEiMis",
     "trailerUrl": "https://www.youtube.com/embed/xnbAxOEiMis",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "283984",
+    "type": "movie",
+    "title": "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "content": "Official Crunchyroll Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xfZ2u86Tui0aTKcPYcKGStzxWZv.jpg",
+    "trailerId": "4rTEWyfE_nY",
+    "trailerUrl": "https://www.youtube.com/embed/4rTEWyfE_nY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -590,26 +610,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "807",
-    "type": "movie",
-    "title": "Se7en",
-    "content": "Official 4K Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
-    "trailerId": "KPOuJGkpblk",
-    "trailerUrl": "https://www.youtube.com/embed/KPOuJGkpblk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "5680",
-    "type": "movie",
-    "title": "Elvira: Mistress of the Dark",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iIQJ3clyNpHOFcUYOom8cG3NmgV.jpg",
-    "trailerId": "116B-MbEYYo",
-    "trailerUrl": "https://www.youtube.com/embed/116B-MbEYYo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "970450",
     "type": "movie",
     "title": "Werewolves",
@@ -617,6 +617,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iWFPd4TQr8I9FGi1ZLQD3JSKzeB.jpg",
     "trailerId": "HSM0IAuU7Ps",
     "trailerUrl": "https://www.youtube.com/embed/HSM0IAuU7Ps",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1151244",
+    "type": "movie",
+    "title": "Vermiglio",
+    "content": "VERMIGLIO - Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mxfUKewelcGm61cN9Yx5lYzCMze.jpg",
+    "trailerId": "701RfY55ppQ",
+    "trailerUrl": "https://www.youtube.com/embed/701RfY55ppQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -640,6 +650,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "762509",
+    "type": "movie",
+    "title": "Mufasa: The Lion King",
+    "content": "Get Tickets Now",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c6nouvFYnmNO50WQDLcKMI3p0jA.jpg",
+    "trailerId": "aYIJOVRwr3g",
+    "trailerUrl": "https://www.youtube.com/embed/aYIJOVRwr3g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1357633",
     "type": "movie",
     "title": "Solo Leveling -ReAwakening-",
@@ -657,6 +677,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ekrH4ait6NgnRmPZOP4TCXqLrzQ.jpg",
     "trailerId": "jDxnSU82wbY",
     "trailerUrl": "https://www.youtube.com/embed/jDxnSU82wbY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "426063",
+    "type": "movie",
+    "title": "Nosferatu",
+    "content": "Devourance",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+    "trailerId": "5172Vt3FOYw",
+    "trailerUrl": "https://www.youtube.com/embed/5172Vt3FOYw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
