@@ -14,7 +14,7 @@
     "type": "movie",
     "title": "Sonic the Hedgehog 3",
     "content": "No time for games",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/crSL7DkgwyLIaRRIb7xM2ejZbca.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
     "trailerId": "qSD_odXs8Zs",
     "trailerUrl": "https://www.youtube.com/embed/qSD_odXs8Zs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -67,6 +67,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/liNRz2k4WSqrZ5SpL4TYMpXbRT4.jpg",
     "trailerId": "Rcc9veq0JgM",
     "trailerUrl": "https://www.youtube.com/embed/Rcc9veq0JgM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1011477",
+    "type": "movie",
+    "title": "Karate Kid: Legends",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nKyBbFSooRPTJVqjrDteD1lF733.jpg",
+    "trailerId": "uPzOyzsnmio",
+    "trailerUrl": "https://www.youtube.com/embed/uPzOyzsnmio",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "549509",
-    "type": "movie",
-    "title": "The Brutalist",
-    "content": "Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sftjavfNJzYxkpkSAqHnvHwviCo.jpg",
-    "trailerId": "GdRXPAHIEW4",
-    "trailerUrl": "https://www.youtube.com/embed/GdRXPAHIEW4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "210879",
     "type": "tv",
     "title": "Rurouni Kenshin",
@@ -270,13 +270,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1101256",
+    "id": "1197662",
     "type": "movie",
-    "title": "Dahomey",
-    "content": "Official Trailer #2 [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gtIr9Cy7yIdgzVJdBSnaf2AgzlV.jpg",
-    "trailerId": "5YNac-cOugg",
-    "trailerUrl": "https://www.youtube.com/embed/5YNac-cOugg",
+    "title": "A Sudden Case of Christmas",
+    "content": "Official VMI Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v6sq8i4CWlucGMUrz1pXgiCntOt.jpg",
+    "trailerId": "jviC1f1YwzU",
+    "trailerUrl": "https://www.youtube.com/embed/jviC1f1YwzU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -320,6 +320,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1390010",
+    "type": "movie",
+    "title": "Rose Matafeo: On and On and On",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1Pni418oKGFdNmDhuz550xiZBMb.jpg",
+    "trailerId": "04Nv9nYoaZ4",
+    "trailerUrl": "https://www.youtube.com/embed/04Nv9nYoaZ4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "94605",
     "type": "tv",
     "title": "Arcane",
@@ -350,16 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "95557",
-    "type": "tv",
-    "title": "INVINCIBLE",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dfmPbyeZZSz3bekeESvMJaH91gS.jpg",
-    "trailerId": "rbHUhCcSXEM",
-    "trailerUrl": "https://www.youtube.com/embed/rbHUhCcSXEM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "154526",
     "type": "tv",
     "title": "MF GHOST",
@@ -387,6 +387,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/A75BXCWkI8z64VzGpP582omYokf.jpg",
     "trailerId": "LCK15428jFA",
     "trailerUrl": "https://www.youtube.com/embed/LCK15428jFA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "249522",
+    "type": "tv",
+    "title": "Beast Games",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bXJII8e2iIQ7EzDx4KRhSghn2me.jpg",
+    "trailerId": "37ZG9lddxto",
+    "trailerUrl": "https://www.youtube.com/embed/37ZG9lddxto",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -427,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cIqqNQAD7KeWmpOQslOiwu4Mfxl.jpg",
     "trailerId": "fN8DzYIYaFg",
     "trailerUrl": "https://www.youtube.com/embed/fN8DzYIYaFg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "275591",
-    "type": "tv",
-    "title": "Cinderella Game",
-    "content": "[NOW STREAMING] Cinderella Gets Her Revenge | Cinderella Game | KOCOWA+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r5kh9WyUJE0NiJZnM8Q3KsVcS9g.jpg",
-    "trailerId": "i3KnxFOJKxw",
-    "trailerUrl": "https://www.youtube.com/embed/i3KnxFOJKxw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -484,7 +484,7 @@
     "type": "tv",
     "title": "Pok\u00e9mon Horizons: The Series",
     "content": "Pok\u00e9mon Horizons Part 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNEj1N4ff4ZX25KYWBKu62ihLPE.jpg",
     "trailerId": "pRT14QHa7V8",
     "trailerUrl": "https://www.youtube.com/embed/pRT14QHa7V8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -560,13 +560,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "26198",
+    "id": "27958",
     "type": "movie",
-    "title": "The Keep",
-    "content": "Vinegar Syndrome Promo Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iQYwVxXDSBMfZB4JTW5LRi7sBZR.jpg",
-    "trailerId": "Tiu3-nbLoyY",
-    "trailerUrl": "https://www.youtube.com/embed/Tiu3-nbLoyY",
+    "title": "Cruising",
+    "content": "Original Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6Dm3hMRAFJqMS9wGkCY14XbZFrm.jpg",
+    "trailerId": "IymZTPZ5Tng",
+    "trailerUrl": "https://www.youtube.com/embed/IymZTPZ5Tng",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -577,6 +577,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2czvvBUmVObjMj7gGJxb6Zo3Lur.jpg",
     "trailerId": "qvMMd47Yox0",
     "trailerUrl": "https://www.youtube.com/embed/qvMMd47Yox0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "26198",
+    "type": "movie",
+    "title": "The Keep",
+    "content": "Vinegar Syndrome Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iQYwVxXDSBMfZB4JTW5LRi7sBZR.jpg",
+    "trailerId": "Tiu3-nbLoyY",
+    "trailerUrl": "https://www.youtube.com/embed/Tiu3-nbLoyY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -607,16 +617,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
     "trailerId": "xnbAxOEiMis",
     "trailerUrl": "https://www.youtube.com/embed/xnbAxOEiMis",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "283984",
-    "type": "movie",
-    "title": "Fate/stay night: Heaven's Feel I. Presage Flower",
-    "content": "Official Crunchyroll Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xfZ2u86Tui0aTKcPYcKGStzxWZv.jpg",
-    "trailerId": "4rTEWyfE_nY",
-    "trailerUrl": "https://www.youtube.com/embed/4rTEWyfE_nY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
