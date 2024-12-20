@@ -50,16 +50,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "210879",
-    "type": "tv",
-    "title": "Rurouni Kenshin",
-    "content": "-Kyoto Disturbance- Episode 36 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
-    "trailerId": "4ZD7ym1ZQ20",
-    "trailerUrl": "https://www.youtube.com/embed/4ZD7ym1ZQ20",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
@@ -117,16 +107,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ogQ2crsIIxsu4QOGWLIAVgdCT4r.jpg",
     "trailerId": "T6H9KiUL0xE",
     "trailerUrl": "https://www.youtube.com/embed/T6H9KiUL0xE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "205050",
-    "type": "tv",
-    "title": "Shangri-La Frontier",
-    "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yErVUZkLVak2ICxFC7mMfl3vcNP.jpg",
-    "trailerId": "VA0rTiDlm8w",
-    "trailerUrl": "https://www.youtube.com/embed/VA0rTiDlm8w",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -200,6 +180,36 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "912649",
+    "type": "movie",
+    "title": "Venom: The Last Dance",
+    "content": "Welcome to the Nice List",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "trailerId": "Op8P4xzbmhg",
+    "trailerUrl": "https://www.youtube.com/embed/Op8P4xzbmhg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "549509",
+    "type": "movie",
+    "title": "The Brutalist",
+    "content": "Official Trailer 2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sftjavfNJzYxkpkSAqHnvHwviCo.jpg",
+    "trailerId": "GdRXPAHIEW4",
+    "trailerUrl": "https://www.youtube.com/embed/GdRXPAHIEW4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "210879",
+    "type": "tv",
+    "title": "Rurouni Kenshin",
+    "content": "-Kyoto Disturbance- Episode 36 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "trailerId": "4ZD7ym1ZQ20",
+    "trailerUrl": "https://www.youtube.com/embed/4ZD7ym1ZQ20",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "195670",
     "type": "tv",
     "title": "XO, Kitty",
@@ -237,6 +247,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
     "trailerId": "ElEWRHnJvK8",
     "trailerUrl": "https://www.youtube.com/embed/ElEWRHnJvK8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "205050",
+    "type": "tv",
+    "title": "Shangri-La Frontier",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yErVUZkLVak2ICxFC7mMfl3vcNP.jpg",
+    "trailerId": "VA0rTiDlm8w",
+    "trailerUrl": "https://www.youtube.com/embed/VA0rTiDlm8w",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -314,7 +334,7 @@
     "type": "movie",
     "title": "Red One",
     "content": "Streaming December 12",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bHkn3yuOFdu5LJcq67Odofhx6cb.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cjEcqdRdPQJhYre3HUAc5538Gk8.jpg",
     "trailerId": "c1nIlvynTC4",
     "trailerUrl": "https://www.youtube.com/embed/c1nIlvynTC4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -357,6 +377,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u18xsYOYPDlQjs9kHNiY9zQ4GmG.jpg",
     "trailerId": "fWrR5IMpVsY",
     "trailerUrl": "https://www.youtube.com/embed/fWrR5IMpVsY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "272306",
+    "type": "tv",
+    "title": "Fast Friends",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/A75BXCWkI8z64VzGpP582omYokf.jpg",
+    "trailerId": "LCK15428jFA",
+    "trailerUrl": "https://www.youtube.com/embed/LCK15428jFA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -444,7 +474,7 @@
     "type": "tv",
     "title": "Dexter: Original Sin",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ZF50MDUq3MPYaISI77DFiYrYZh.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uKiqi5Ms0ve475gC7za51l7ksz2.jpg",
     "trailerId": "Bw8ZdQpVtdU",
     "trailerUrl": "https://www.youtube.com/embed/Bw8ZdQpVtdU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -457,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
     "trailerId": "pRT14QHa7V8",
     "trailerUrl": "https://www.youtube.com/embed/pRT14QHa7V8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "260566",
-    "type": "tv",
-    "title": "Rugged Rugby: Conquer or Die",
-    "content": "Official Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wv2YKfs9QPqHref6cbkwfW3By0K.jpg",
-    "trailerId": "imEhFkTl90g",
-    "trailerUrl": "https://www.youtube.com/embed/imEhFkTl90g",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -500,21 +520,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "912649",
-    "type": "movie",
-    "title": "Venom: The Last Dance",
-    "content": "Welcome to the Nice List",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-    "trailerId": "Op8P4xzbmhg",
-    "trailerUrl": "https://www.youtube.com/embed/Op8P4xzbmhg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "9739",
     "type": "movie",
     "title": "Demolition Man",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cO5tOuyaW1WA3QaDuqps6HMGI81.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4pl165EUdvveHCr4J4YcHVA1MnD.jpg",
     "trailerId": "JdXYTDqeXe4",
     "trailerUrl": "https://www.youtube.com/embed/JdXYTDqeXe4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -573,7 +583,7 @@
     "id": "5967",
     "type": "movie",
     "title": "The Umbrellas of Cherbourg",
-    "content": "THE UMBRELLAS OF CHERBOURG - 4K Restoration Trailer",
+    "content": "4K Restoration Trailer [Subtitled]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
     "trailerId": "7H-fl3njp5s",
     "trailerUrl": "https://www.youtube.com/embed/7H-fl3njp5s",
@@ -584,7 +594,7 @@
     "type": "movie",
     "title": "The Horse Soldiers",
     "content": "Classic Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9ny2f4aVGSvuV3yUKlFAQ26677Y.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oquDYG2NRGc5A9KwUz79UI9zDKY.jpg",
     "trailerId": "h6YCA-9F9ew",
     "trailerUrl": "https://www.youtube.com/embed/h6YCA-9F9ew",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -623,7 +633,7 @@
     "id": "1151244",
     "type": "movie",
     "title": "Vermiglio",
-    "content": "VERMIGLIO - Official Trailer",
+    "content": "Official US Trailer [Subtitled]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mxfUKewelcGm61cN9Yx5lYzCMze.jpg",
     "trailerId": "701RfY55ppQ",
     "trailerUrl": "https://www.youtube.com/embed/701RfY55ppQ",
