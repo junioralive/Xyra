@@ -280,6 +280,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "157744",
+    "type": "tv",
+    "title": "1923",
+    "content": "Season 2 Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9I6LgZ5110ycg4pyobJxGTFWFCF.jpg",
+    "trailerId": "-NTnA_zH2QM",
+    "trailerUrl": "https://www.youtube.com/embed/-NTnA_zH2QM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "205050",
     "type": "tv",
     "title": "Shangri-La Frontier",
@@ -317,16 +327,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9iw4a6AQkxUO3EuRn59Vgrqf0zO.jpg",
     "trailerId": "5x8DpKkkUno",
     "trailerUrl": "https://www.youtube.com/embed/5x8DpKkkUno",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1376359",
-    "type": "movie",
-    "title": "Your Friend, Nate Bargatze",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/betlIOPGesaCPpFrjeezEHtAh6e.jpg",
-    "trailerId": "GxrrH8gra_k",
-    "trailerUrl": "https://www.youtube.com/embed/GxrrH8gra_k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -654,7 +654,7 @@
     "type": "movie",
     "title": "Queer",
     "content": "Daniel Craig is...",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rmLujmM5xHqKNXsnGfOBc5zWxQX.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Af7CLwRZQW6EPxQ3qibJ8Hpw4QB.jpg",
     "trailerId": "vKDj_kM9xfI",
     "trailerUrl": "https://www.youtube.com/embed/vKDj_kM9xfI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
