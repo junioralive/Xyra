@@ -14,7 +14,7 @@
     "type": "movie",
     "title": "Wicked",
     "content": "Yours To Own",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uVlUu174iiKhsUGqnOSy46eIIMU.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
     "trailerId": "9M7qNJjty90",
     "trailerUrl": "https://www.youtube.com/embed/9M7qNJjty90",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -184,7 +184,7 @@
     "type": "movie",
     "title": "Nosferatu",
     "content": "\u201cThirst\u201d",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uWOJbarUXfVf6B4o0368dh138eR.jpg",
     "trailerId": "Dqts3wKStHY",
     "trailerUrl": "https://www.youtube.com/embed/Dqts3wKStHY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -350,6 +350,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "215943",
+    "type": "tv",
+    "title": "The Traitors",
+    "content": "Season 3 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2u9x8UYEmUodMMkFZolBHQL3wQn.jpg",
+    "trailerId": "wRrDWrPl5E0",
+    "trailerUrl": "https://www.youtube.com/embed/wRrDWrPl5E0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "139798",
     "type": "tv",
     "title": "Single's Inferno",
@@ -390,6 +400,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "81337",
+    "type": "tv",
+    "title": "I Am a Killer",
+    "content": "Season 6 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x9rh1VOgqoP9fdgB0TJCWwPFgau.jpg",
+    "trailerId": "ZMpeBnE-ZHg",
+    "trailerUrl": "https://www.youtube.com/embed/ZMpeBnE-ZHg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "236994",
     "type": "tv",
     "title": "Dragon Ball DAIMA",
@@ -424,7 +444,7 @@
     "type": "tv",
     "title": "SAS Rogue Heroes",
     "content": "Season 2 Official MGM+ Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vjuDzuL40aLupeCNM3XNUErBEao.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hGdTq9BX3DB2gwGGFMLTdipCBPk.jpg",
     "trailerId": "DpsnuR9O_jE",
     "trailerUrl": "https://www.youtube.com/embed/DpsnuR9O_jE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -440,23 +460,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "207863",
-    "type": "tv",
-    "title": "Mayfair Witches",
-    "content": "Is It Worth Your Soul? - Season 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dST2cvC7nBMMmLSONfmSo3drIJI.jpg",
-    "trailerId": "09UpMhK0TXs",
-    "trailerUrl": "https://www.youtube.com/embed/09UpMhK0TXs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "112581",
-    "type": "tv",
-    "title": "The Rig",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bGMLZoRtfIY0OxtCOpZiwkUzeQl.jpg",
-    "trailerId": "tLSp1yRk_sY",
-    "trailerUrl": "https://www.youtube.com/embed/tLSp1yRk_sY",
+    "id": "9271",
+    "type": "movie",
+    "title": "Virtuosity",
+    "content": "Vinegar Syndrome Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wH3rho5l3w0hV8XWQzl14DWduRU.jpg",
+    "trailerId": "45riYi75C8w",
+    "trailerUrl": "https://www.youtube.com/embed/45riYi75C8w",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -554,7 +564,7 @@
     "type": "movie",
     "title": "Werewolves",
     "content": "UK Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/abSLxmkkXb3W2TXk8E9KbR7KQRj.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
     "trailerId": "HSM0IAuU7Ps",
     "trailerUrl": "https://www.youtube.com/embed/HSM0IAuU7Ps",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -597,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
     "trailerId": "Op8P4xzbmhg",
     "trailerUrl": "https://www.youtube.com/embed/Op8P4xzbmhg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "34996",
-    "type": "movie",
-    "title": "The Addiction",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uexVCPZzbJnPC585scm67N54lXE.jpg",
-    "trailerId": "pgydfbvmwr0",
-    "trailerUrl": "https://www.youtube.com/embed/pgydfbvmwr0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
