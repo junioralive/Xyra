@@ -270,23 +270,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "205050",
+    "id": "95269",
     "type": "tv",
-    "title": "Shangri-La Frontier",
-    "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yErVUZkLVak2ICxFC7mMfl3vcNP.jpg",
-    "trailerId": "VA0rTiDlm8w",
-    "trailerUrl": "https://www.youtube.com/embed/VA0rTiDlm8w",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "154526",
-    "type": "tv",
-    "title": "MF GHOST",
-    "content": "2nd Season Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qEqLerjgjX9BL1fsqRc4MoWzqIU.jpg",
-    "trailerId": "ZIA9Di0IwdE",
-    "trailerUrl": "https://www.youtube.com/embed/ZIA9Di0IwdE",
+    "title": "Toilet-Bound Hanako-kun",
+    "content": "Season 2 Official Trailer 2 [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ifJacgrENUweJF5Kq8h2NYfShzd.jpg",
+    "trailerId": "0pRRgTl7QbE",
+    "trailerUrl": "https://www.youtube.com/embed/0pRRgTl7QbE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -307,6 +297,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9iw4a6AQkxUO3EuRn59Vgrqf0zO.jpg",
     "trailerId": "5x8DpKkkUno",
     "trailerUrl": "https://www.youtube.com/embed/5x8DpKkkUno",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1376359",
+    "type": "movie",
+    "title": "Your Friend, Nate Bargatze",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/betlIOPGesaCPpFrjeezEHtAh6e.jpg",
+    "trailerId": "GxrrH8gra_k",
+    "trailerUrl": "https://www.youtube.com/embed/GxrrH8gra_k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -350,13 +350,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "215943",
+    "id": "195670",
     "type": "tv",
-    "title": "The Traitors",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2u9x8UYEmUodMMkFZolBHQL3wQn.jpg",
-    "trailerId": "wRrDWrPl5E0",
-    "trailerUrl": "https://www.youtube.com/embed/wRrDWrPl5E0",
+    "title": "XO, Kitty",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oSfzTNyCzpErgEVKQbAsa5QLznD.jpg",
+    "trailerId": "qkaNg-0RIsM",
+    "trailerUrl": "https://www.youtube.com/embed/qkaNg-0RIsM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -370,43 +370,33 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "86031",
+    "id": "205050",
     "type": "tv",
-    "title": "Dr. STONE",
-    "content": "Science Future Official Trailer 2 [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
-    "trailerId": "pkMgTN4Joi4",
-    "trailerUrl": "https://www.youtube.com/embed/pkMgTN4Joi4",
+    "title": "Shangri-La Frontier",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yErVUZkLVak2ICxFC7mMfl3vcNP.jpg",
+    "trailerId": "VA0rTiDlm8w",
+    "trailerUrl": "https://www.youtube.com/embed/VA0rTiDlm8w",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "95269",
+    "id": "74440",
     "type": "tv",
-    "title": "Toilet-Bound Hanako-kun",
-    "content": "Season 2 Official Trailer 2 [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ifJacgrENUweJF5Kq8h2NYfShzd.jpg",
-    "trailerId": "0pRRgTl7QbE",
-    "trailerUrl": "https://www.youtube.com/embed/0pRRgTl7QbE",
+    "title": "Harley Quinn",
+    "content": "Season 5 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sNHoOagykUU0WpVBa162w1NP0mP.jpg",
+    "trailerId": "0FrB7mJoesg",
+    "trailerUrl": "https://www.youtube.com/embed/0FrB7mJoesg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "121509",
+    "id": "123548",
     "type": "tv",
-    "title": "The Upshaws",
-    "content": "Part 6 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2etWIt4JMD4wHzJIZVi7YeI5UZa.jpg",
-    "trailerId": "kzAR2iZad1Q",
-    "trailerUrl": "https://www.youtube.com/embed/kzAR2iZad1Q",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "81337",
-    "type": "tv",
-    "title": "I Am a Killer",
-    "content": "Season 6 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x9rh1VOgqoP9fdgB0TJCWwPFgau.jpg",
-    "trailerId": "ZMpeBnE-ZHg",
-    "trailerUrl": "https://www.youtube.com/embed/ZMpeBnE-ZHg",
+    "title": "Castlevania: Nocturne",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
+    "trailerId": "tQt-irbJtq8",
+    "trailerUrl": "https://www.youtube.com/embed/tQt-irbJtq8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -427,6 +417,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/drGvQCVeAUzfgn2qGQQys67WtNp.jpg",
     "trailerId": "0P3Deu8fQ1Y",
     "trailerUrl": "https://www.youtube.com/embed/0P3Deu8fQ1Y",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "95396",
+    "type": "tv",
+    "title": "Severance",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5OsiT39OiZNdD0v2LiAcI2TpSYj.jpg",
+    "trailerId": "_UXKlYvLGJY",
+    "trailerUrl": "https://www.youtube.com/embed/_UXKlYvLGJY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -564,7 +564,7 @@
     "type": "movie",
     "title": "Werewolves",
     "content": "UK Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fzjH7kt1017R9EckLDmWmH5pGhD.jpg",
     "trailerId": "HSM0IAuU7Ps",
     "trailerUrl": "https://www.youtube.com/embed/HSM0IAuU7Ps",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -604,7 +604,7 @@
     "type": "movie",
     "title": "Venom: The Last Dance",
     "content": "Welcome to the Nice List",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3sh2UA2Q2l7fihgoj1LhFFPTlIM.jpg",
     "trailerId": "Op8P4xzbmhg",
     "trailerUrl": "https://www.youtube.com/embed/Op8P4xzbmhg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
