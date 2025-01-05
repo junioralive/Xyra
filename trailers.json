@@ -170,16 +170,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "15226",
-    "type": "tv",
-    "title": "C.I.D.",
-    "content": "NEW ! C.I.D. Ep 02 | Abhijeet \u0915\u094b Flight \u0915\u0947 \u092c\u0940\u091a \u092e\u0947\u0902 \u0915\u093f\u0938\u0928\u0947 \u0915\u093f\u092f\u093e \u0927\u092e\u0915\u0940 \u092d\u0930\u093e Call? | Teaser | New Season",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1gZrOa2E9DOohEvSLLBJqus2zGu.jpg",
-    "trailerId": "yXosQsNVgSs",
-    "trailerUrl": "https://www.youtube.com/embed/yXosQsNVgSs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "37854",
     "type": "tv",
     "title": "One Piece",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
     "trailerId": "9vBWprVAzqI",
     "trailerUrl": "https://www.youtube.com/embed/9vBWprVAzqI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "127532",
+    "type": "tv",
+    "title": "Solo Leveling",
+    "content": "Season 2 -Arise from the Shadow- Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
+    "trailerId": "byJ7pxxhaDY",
+    "trailerUrl": "https://www.youtube.com/embed/byJ7pxxhaDY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -277,16 +277,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4ItXEyVPj6wb9AdhsltcqYE6f5f.jpg",
     "trailerId": "J5s-ZwSnw1M",
     "trailerUrl": "https://www.youtube.com/embed/J5s-ZwSnw1M",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "127532",
-    "type": "tv",
-    "title": "Solo Leveling",
-    "content": "Season 2 -Arise from the Shadow- Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
-    "trailerId": "byJ7pxxhaDY",
-    "trailerUrl": "https://www.youtube.com/embed/byJ7pxxhaDY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
