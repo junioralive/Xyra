@@ -3,10 +3,30 @@
     "id": "762509",
     "type": "movie",
     "title": "Mufasa: The Lion King",
-    "content": "In Theaters Now",
+    "content": "#1 In America & The World, Again!",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-    "trailerId": "KzjAIi_km08",
-    "trailerUrl": "https://www.youtube.com/embed/KzjAIi_km08",
+    "trailerId": "40UrwXbOKkQ",
+    "trailerUrl": "https://www.youtube.com/embed/40UrwXbOKkQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "661539",
+    "type": "movie",
+    "title": "A Complete Unknown",
+    "content": "Fearless",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4WHRiFgbsAuSJ79fyr8pTXkj4G2.jpg",
+    "trailerId": "8m2LsvyQYWk",
+    "trailerUrl": "https://www.youtube.com/embed/8m2LsvyQYWk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "939243",
+    "type": "movie",
+    "title": "Sonic the Hedgehog 3",
+    "content": "BRING IT ON!!!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "trailerId": "PU6ELRodxFo",
+    "trailerUrl": "https://www.youtube.com/embed/PU6ELRodxFo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -17,16 +37,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/H39NvEXz23GE9iYQ4qqV4w1zWn.jpg",
     "trailerId": "yK0NNuUvfTc",
     "trailerUrl": "https://www.youtube.com/embed/yK0NNuUvfTc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "939243",
-    "type": "movie",
-    "title": "Sonic the Hedgehog 3",
-    "content": "GAME ON!!!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-    "trailerId": "Y7Vrwppm90U",
-    "trailerUrl": "https://www.youtube.com/embed/Y7Vrwppm90U",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -47,16 +57,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
     "trailerId": "Swm7m1xGNwg",
     "trailerUrl": "https://www.youtube.com/embed/Swm7m1xGNwg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "661539",
-    "type": "movie",
-    "title": "A Complete Unknown",
-    "content": "BOB!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4WHRiFgbsAuSJ79fyr8pTXkj4G2.jpg",
-    "trailerId": "DuEam_Mwkps",
-    "trailerUrl": "https://www.youtube.com/embed/DuEam_Mwkps",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -203,10 +203,10 @@
     "id": "95396",
     "type": "tv",
     "title": "Severance",
-    "content": "Dylan G. is a class clown with claws.",
+    "content": "Your outie requests answers.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5OsiT39OiZNdD0v2LiAcI2TpSYj.jpg",
-    "trailerId": "BdepFuMaMSI",
-    "trailerUrl": "https://www.youtube.com/embed/BdepFuMaMSI",
+    "trailerId": "RL8ic1iArko",
+    "trailerUrl": "https://www.youtube.com/embed/RL8ic1iArko",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -214,7 +214,7 @@
     "type": "tv",
     "title": "Raw",
     "content": "LIVE on Netflix Starting January 6",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/384Lam787FIDBnwjwQBvC8gjB2d.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eGPH1IwktalozwCmeLTp3aPbHGC.jpg",
     "trailerId": "Yb6Xjez65II",
     "trailerUrl": "https://www.youtube.com/embed/Yb6Xjez65II",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -330,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "139798",
+    "type": "tv",
+    "title": "Single's Inferno",
+    "content": "Season 4 Official Trailer [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
+    "trailerId": "8wvckN7oHCI",
+    "trailerUrl": "https://www.youtube.com/embed/8wvckN7oHCI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "154822",
     "type": "tv",
     "title": "When the Stars Gossip",
@@ -367,16 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oSfzTNyCzpErgEVKQbAsa5QLznD.jpg",
     "trailerId": "qkaNg-0RIsM",
     "trailerUrl": "https://www.youtube.com/embed/qkaNg-0RIsM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "139798",
-    "type": "tv",
-    "title": "Single's Inferno",
-    "content": "Season 4 Official Teaser [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bkz7rStamWJxC3lp9TUpU9GR18S.jpg",
-    "trailerId": "f5mDfUGHseg",
-    "trailerUrl": "https://www.youtube.com/embed/f5mDfUGHseg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -420,11 +420,21 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "226706",
+    "type": "tv",
+    "title": "The Curious Case of Natalia Grace",
+    "content": "The Final Chapter Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wdZxm1K8EnW5E8yOvxXpRMPUEcq.jpg",
+    "trailerId": "CCdr2eUE7BU",
+    "trailerUrl": "https://www.youtube.com/embed/CCdr2eUE7BU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "8514",
     "type": "tv",
     "title": "RuPaul's Drag Race",
     "content": "RuPaul's Drag Race Season 17 Official Trailer \ud83c\udfc1",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u18xsYOYPDlQjs9kHNiY9zQ4GmG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jnXJGSKOr72NizN62TXP2CyQt6j.jpg",
     "trailerId": "fWrR5IMpVsY",
     "trailerUrl": "https://www.youtube.com/embed/fWrR5IMpVsY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
