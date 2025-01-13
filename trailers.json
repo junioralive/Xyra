@@ -3,10 +3,50 @@
     "id": "939243",
     "type": "movie",
     "title": "Sonic the Hedgehog 3",
-    "content": "Get your game faces on",
+    "content": "Let\u2019s GOOOO!!!",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-    "trailerId": "4faWGPRQ1zM",
-    "trailerUrl": "https://www.youtube.com/embed/4faWGPRQ1zM",
+    "trailerId": "H7F8_8QfadY",
+    "trailerUrl": "https://www.youtube.com/embed/H7F8_8QfadY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1084199",
+    "type": "movie",
+    "title": "Companion",
+    "content": "The girlies are raising the bar.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+    "trailerId": "vm0HvpRTL3s",
+    "trailerUrl": "https://www.youtube.com/embed/vm0HvpRTL3s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "762509",
+    "type": "movie",
+    "title": "Mufasa: The Lion King",
+    "content": "In Theaters Now",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+    "trailerId": "j65r9kIJzxY",
+    "trailerUrl": "https://www.youtube.com/embed/j65r9kIJzxY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1202235",
+    "type": "movie",
+    "title": "Daaku Maharaaj",
+    "content": "Daaku Maharaaj Trailer | Nandamuri Balakrishna | Bobby Kolli | Thaman S | S Naga Vamsi",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fWLfoaen7tv3mUT65KWHg7zCFYn.jpg",
+    "trailerId": "jSvmAwDFm10",
+    "trailerUrl": "https://www.youtube.com/embed/jSvmAwDFm10",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "210879",
+    "type": "tv",
+    "title": "Rurouni Kenshin",
+    "content": "-Kyoto Disturbance- English Dub Official Trailer #3",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "trailerId": "Gbg8SmgQFCQ",
+    "trailerUrl": "https://www.youtube.com/embed/Gbg8SmgQFCQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -15,18 +55,18 @@
     "title": "Flight Risk",
     "content": "Mel Gibson\u2019s \u2018More is More\u2019",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3RRIFxy4RXdf0nvgUoc6joTgIYw.jpg",
-    "trailerId": "-rca0ucR16E",
-    "trailerUrl": "https://www.youtube.com/embed/-rca0ucR16E",
+    "trailerId": "1n5se-qHN7Q",
+    "trailerUrl": "https://www.youtube.com/embed/1n5se-qHN7Q",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1084199",
+    "id": "549509",
     "type": "movie",
-    "title": "Companion",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sc1abgWNXc29wSBaerrjGBih06l.jpg",
-    "trailerId": "Qr_kX0D3DNA",
-    "trailerUrl": "https://www.youtube.com/embed/Qr_kX0D3DNA",
+    "title": "The Brutalist",
+    "content": "Winner of Three Golden Globes",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+    "trailerId": "rfymHQJq_ds",
+    "trailerUrl": "https://www.youtube.com/embed/rfymHQJq_ds",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -57,16 +97,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4WHRiFgbsAuSJ79fyr8pTXkj4G2.jpg",
     "trailerId": "uFhrJyLH5Bk",
     "trailerUrl": "https://www.youtube.com/embed/uFhrJyLH5Bk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "762509",
-    "type": "movie",
-    "title": "Mufasa: The Lion King",
-    "content": "#1 Movie In America Again!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
-    "trailerId": "y_iHpB0BDJA",
-    "trailerUrl": "https://www.youtube.com/embed/y_iHpB0BDJA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -170,43 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "56570",
+    "id": "38464",
     "type": "tv",
-    "title": "Outlander",
-    "content": "\u2018A Heavy Price for Freedom\u2019 Ep. 15 Preview - Season 7",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hC6Uy57eFBUWZVrdnnODEc0XpTj.jpg",
-    "trailerId": "hfo5vmhVZyo",
-    "trailerUrl": "https://www.youtube.com/embed/hfo5vmhVZyo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "30984",
-    "type": "tv",
-    "title": "Bleach",
-    "content": "Part 4 Trailer - Thousand-Year Blood War - The Calamity PV",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
-    "trailerId": "HL3eTEn0KXE",
-    "trailerUrl": "https://www.youtube.com/embed/HL3eTEn0KXE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1261148",
-    "type": "movie",
-    "title": "Almarhum",
-    "content": "ALMARHUM - Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/83xeZxAUzv1AEm74lGx0jdbVMAc.jpg",
-    "trailerId": "lj86ILDCfjw",
-    "trailerUrl": "https://www.youtube.com/embed/lj86ILDCfjw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "210879",
-    "type": "tv",
-    "title": "Rurouni Kenshin",
-    "content": "-Kyoto Disturbance- Episode 37 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
-    "trailerId": "e_wOZQjbAPY",
-    "trailerUrl": "https://www.youtube.com/embed/e_wOZQjbAPY",
+    "title": "Blue Exorcist",
+    "content": "-The Blue Night Saga- Episode #2 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
+    "trailerId": "Z-6ayj9qQ_c",
+    "trailerUrl": "https://www.youtube.com/embed/Z-6ayj9qQ_c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -280,6 +280,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "30984",
+    "type": "tv",
+    "title": "Bleach",
+    "content": "Part 4 Trailer - Thousand-Year Blood War - The Calamity PV",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+    "trailerId": "HL3eTEn0KXE",
+    "trailerUrl": "https://www.youtube.com/embed/HL3eTEn0KXE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "4656",
     "type": "tv",
     "title": "Raw",
@@ -330,13 +340,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "77169",
+    "id": "210899",
     "type": "tv",
-    "title": "Cobra Kai",
-    "content": "Season 6 Part 3 Date Announcement",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mQJVtl7SYjNLwjsUZZsITmAxtdU.jpg",
-    "trailerId": "T0fjgHDBirw",
-    "trailerUrl": "https://www.youtube.com/embed/T0fjgHDBirw",
+    "title": "UniteUp!",
+    "content": "UniteUp! -Uni:Birth- Episode #1 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/axAMkNIcbyHVJj3B04LElzNmsFd.jpg",
+    "trailerId": "I_7ApXrzUzc",
+    "trailerUrl": "https://www.youtube.com/embed/I_7ApXrzUzc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -430,16 +440,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "38464",
-    "type": "tv",
-    "title": "Blue Exorcist",
-    "content": "-The Blue Night Saga- Main Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
-    "trailerId": "9vBWprVAzqI",
-    "trailerUrl": "https://www.youtube.com/embed/9vBWprVAzqI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "127532",
     "type": "tv",
     "title": "Solo Leveling",
@@ -447,16 +447,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
     "trailerId": "byJ7pxxhaDY",
     "trailerUrl": "https://www.youtube.com/embed/byJ7pxxhaDY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "210899",
-    "type": "tv",
-    "title": "UniteUp!",
-    "content": "-Uni:Birth- Main Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/axAMkNIcbyHVJj3B04LElzNmsFd.jpg",
-    "trailerId": "bo88JQeK8wk",
-    "trailerUrl": "https://www.youtube.com/embed/bo88JQeK8wk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
