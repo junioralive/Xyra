@@ -200,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "210879",
-    "type": "tv",
-    "title": "Rurouni Kenshin",
-    "content": "-Kyoto Disturbance- Episode 38 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
-    "trailerId": "JjOkprA_lME",
-    "trailerUrl": "https://www.youtube.com/embed/JjOkprA_lME",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "11020",
     "type": "movie",
     "title": "Picnic at Hanging Rock",
@@ -360,6 +350,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "93405",
+    "type": "tv",
+    "title": "Squid Game",
+    "content": "Season 3 coming in 2025",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/87mebbBtoWzHV0kILgV6M7yIfun.jpg",
+    "trailerId": "VVEV69Vowro",
+    "trailerUrl": "https://www.youtube.com/embed/VVEV69Vowro",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "210879",
+    "type": "tv",
+    "title": "Rurouni Kenshin",
+    "content": "-Kyoto Disturbance- Episode 38 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "trailerId": "JjOkprA_lME",
+    "trailerUrl": "https://www.youtube.com/embed/JjOkprA_lME",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "123548",
     "type": "tv",
     "title": "Castlevania: Nocturne",
@@ -410,16 +420,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "158756",
-    "type": "tv",
-    "title": "Shoresy",
-    "content": "Crave | Shoresy S4 Trailer | January 24",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kVTCihn63jOLCihHsRPwaLwCSJd.jpg",
-    "trailerId": "bdK_dxr1J-o",
-    "trailerUrl": "https://www.youtube.com/embed/bdK_dxr1J-o",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "154822",
     "type": "tv",
     "title": "When the Stars Gossip",
@@ -427,6 +427,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sP0R5F8fkVM0eHcRFXr012rzNAM.jpg",
     "trailerId": "ASd_GLr3ZFY",
     "trailerUrl": "https://www.youtube.com/embed/ASd_GLr3ZFY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "210916",
+    "type": "tv",
+    "title": "The Recruit",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rey2eh6752C2UbGYRileKk1PVTo.jpg",
+    "trailerId": "czt_Mh_qdsw",
+    "trailerUrl": "https://www.youtube.com/embed/czt_Mh_qdsw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
