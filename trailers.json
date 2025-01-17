@@ -90,6 +90,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1333100",
+    "type": "movie",
+    "title": "Attack on Titan: THE LAST ATTACK",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ziaO3q13RLl8uJcpFMsfDwaRPIU.jpg",
+    "trailerId": "_ypUKBQCFsE",
+    "trailerUrl": "https://www.youtube.com/embed/_ypUKBQCFsE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1084199",
     "type": "movie",
     "title": "Companion",
@@ -134,7 +144,7 @@
     "type": "movie",
     "title": "A Working Man",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xBrx6O1RIhjtWmVthZIANuQz7Z2.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5dRQd041lUSupX1aunzhGx8kd8h.jpg",
     "trailerId": "zTbgNC42Ops",
     "trailerUrl": "https://www.youtube.com/embed/zTbgNC42Ops",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -190,13 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1013850",
-    "type": "movie",
-    "title": "A Real Pain",
-    "content": "Official Hulu Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
-    "trailerId": "E_sjoa8aHpc",
-    "trailerUrl": "https://www.youtube.com/embed/E_sjoa8aHpc",
+    "id": "78191",
+    "type": "tv",
+    "title": "You",
+    "content": "Season 5 Date Announcement",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ZNFu0hkSVtAI6LRWGIlCPNd1Tj.jpg",
+    "trailerId": "xcicf6XmtnM",
+    "trailerUrl": "https://www.youtube.com/embed/xcicf6XmtnM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -270,6 +280,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1233243",
+    "type": "movie",
+    "title": "The Last Redemption",
+    "content": "UK Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yjqUa6yohr56Uep18W0zsgbMGtl.jpg",
+    "trailerId": "-pGDK0AjkTY",
+    "trailerUrl": "https://www.youtube.com/embed/-pGDK0AjkTY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "100088",
     "type": "tv",
     "title": "The Last of Us",
@@ -277,6 +297,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z7z6zTfEeasEov6Y2ezVOxW5tsb.jpg",
     "trailerId": "ylovT43x3yo",
     "trailerUrl": "https://www.youtube.com/embed/ylovT43x3yo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "990204",
+    "type": "movie",
+    "title": "Street Trash",
+    "content": "Blu-ray Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dLTRfeMseMZNylf7ezaHdwuVPAg.jpg",
+    "trailerId": "sSsmGGQ2GcI",
+    "trailerUrl": "https://www.youtube.com/embed/sSsmGGQ2GcI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -327,36 +357,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/joysWMV1N8gag5HgGueYXk4zEJP.jpg",
     "trailerId": "dv0A5zqv0SE",
     "trailerUrl": "https://www.youtube.com/embed/dv0A5zqv0SE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "39844",
-    "type": "movie",
-    "title": "Deranged",
-    "content": "Vinegar Syndrome Promo Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Zd4348R7I8ii27TDs7XKAN5c6y.jpg",
-    "trailerId": "MFMcB9CXjns",
-    "trailerUrl": "https://www.youtube.com/embed/MFMcB9CXjns",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "9271",
-    "type": "movie",
-    "title": "Virtuosity",
-    "content": "Vinegar Syndrome Promo Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wH3rho5l3w0hV8XWQzl14DWduRU.jpg",
-    "trailerId": "45riYi75C8w",
-    "trailerUrl": "https://www.youtube.com/embed/45riYi75C8w",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "93405",
-    "type": "tv",
-    "title": "Squid Game",
-    "content": "Season 3 coming in 2025",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/87mebbBtoWzHV0kILgV6M7yIfun.jpg",
-    "trailerId": "VVEV69Vowro",
-    "trailerUrl": "https://www.youtube.com/embed/VVEV69Vowro",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -570,6 +570,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "39844",
+    "type": "movie",
+    "title": "Deranged",
+    "content": "Vinegar Syndrome Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Zd4348R7I8ii27TDs7XKAN5c6y.jpg",
+    "trailerId": "MFMcB9CXjns",
+    "trailerUrl": "https://www.youtube.com/embed/MFMcB9CXjns",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "9271",
+    "type": "movie",
+    "title": "Virtuosity",
+    "content": "Vinegar Syndrome Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wH3rho5l3w0hV8XWQzl14DWduRU.jpg",
+    "trailerId": "45riYi75C8w",
+    "trailerUrl": "https://www.youtube.com/embed/45riYi75C8w",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1100099",
     "type": "movie",
     "title": "We Live in Time",
@@ -687,36 +707,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3QeuagbU1YARTkGrPS4dvYSQGZi.jpg",
     "trailerId": "8zu7kPlYO3Y",
     "trailerUrl": "https://www.youtube.com/embed/8zu7kPlYO3Y",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "604685",
-    "type": "movie",
-    "title": "Den of Thieves 2: Pantera",
-    "content": "Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q3Rgy4pQlPBou8ilYaVdHmjylyV.jpg",
-    "trailerId": "rzCNYieVIQU",
-    "trailerUrl": "https://www.youtube.com/embed/rzCNYieVIQU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "842328",
-    "type": "movie",
-    "title": "Wish You Were Here",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fBvBufYLNLcDpEBs07Hv1arRY98.jpg",
-    "trailerId": "pr_nVsfoUm8",
-    "trailerUrl": "https://www.youtube.com/embed/pr_nVsfoUm8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "426063",
-    "type": "movie",
-    "title": "Nosferatu",
-    "content": "\u201cThirst\u201d",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uWOJbarUXfVf6B4o0368dh138eR.jpg",
-    "trailerId": "Dqts3wKStHY",
-    "trailerUrl": "https://www.youtube.com/embed/Dqts3wKStHY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
