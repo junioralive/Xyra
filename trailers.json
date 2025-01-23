@@ -380,6 +380,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "154521",
+    "type": "tv",
+    "title": "The Kardashians",
+    "content": "Season 6 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qRHu9tSD2CKf10IlFr5FztO4Rxh.jpg",
+    "trailerId": "xALD2a7A4zc",
+    "trailerUrl": "https://www.youtube.com/embed/xALD2a7A4zc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207347",
     "type": "tv",
     "title": "Blue Box",
@@ -477,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rey2eh6752C2UbGYRileKk1PVTo.jpg",
     "trailerId": "czt_Mh_qdsw",
     "trailerUrl": "https://www.youtube.com/embed/czt_Mh_qdsw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "260471",
-    "type": "tv",
-    "title": "Shifting Gears",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x3dyx5hVfjTgfiRB24vf28Jagxr.jpg",
-    "trailerId": "j0WSd4qds4A",
-    "trailerUrl": "https://www.youtube.com/embed/j0WSd4qds4A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
