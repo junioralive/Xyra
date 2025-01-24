@@ -130,16 +130,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1232546",
-    "type": "movie",
-    "title": "Until Dawn",
-    "content": "Red Band Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qFsIZpc8phOMpcBClLpGhwSoEeB.jpg",
-    "trailerId": "I8CGfo1PxBQ",
-    "trailerUrl": "https://www.youtube.com/embed/I8CGfo1PxBQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "939243",
     "type": "movie",
     "title": "Sonic the Hedgehog 3",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNEj1N4ff4ZX25KYWBKu62ihLPE.jpg",
     "trailerId": "zKUJ2QDL4Dw",
     "trailerUrl": "https://www.youtube.com/embed/zKUJ2QDL4Dw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1155281",
+    "type": "movie",
+    "title": "Creation of the Gods II: Demon Force",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h0BUSRZlU7Oy0bBBa1pQfTp9P2I.jpg",
+    "trailerId": "GR1LszelGoU",
+    "trailerUrl": "https://www.youtube.com/embed/GR1LszelGoU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -310,6 +310,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1417623",
+    "type": "movie",
+    "title": "Slide",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qHocH7TYMJ22XE8a4mvQRjynFNt.jpg",
+    "trailerId": "tSnJvp4Y0b0",
+    "trailerUrl": "https://www.youtube.com/embed/tSnJvp4Y0b0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207332",
     "type": "tv",
     "title": "SAKAMOTO DAYS",
@@ -337,16 +347,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iIcEswHTHaQOChtSIoylfNGjVz5.jpg",
     "trailerId": "iuP1MN6RNJU",
     "trailerUrl": "https://www.youtube.com/embed/iuP1MN6RNJU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1406359",
-    "type": "movie",
-    "title": "Roy Wood Jr.: Lonely Flowers",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3TVnpHApS9RzPDckr2qiHhFm9c9.jpg",
-    "trailerId": "GdHTTxd--Z4",
-    "trailerUrl": "https://www.youtube.com/embed/GdHTTxd--Z4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -444,7 +444,7 @@
     "type": "tv",
     "title": "Shoresy",
     "content": "Crave | Shoresy S4 Trailer | January 24",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kVTCihn63jOLCihHsRPwaLwCSJd.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5wNVlqh3ePhLB5tEJwenNUwZGZE.jpg",
     "trailerId": "bdK_dxr1J-o",
     "trailerUrl": "https://www.youtube.com/embed/bdK_dxr1J-o",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -540,16 +540,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1416841",
-    "type": "movie",
-    "title": "Elite Force: B.R.I. - Body Recovery Immmusination",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cz3VITsuZ0TIF2JAQovJYX8R9gI.jpg",
-    "trailerId": "uZozKReznuk",
-    "trailerUrl": "https://www.youtube.com/embed/uZozKReznuk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "27958",
     "type": "movie",
     "title": "Cruising",
@@ -570,16 +560,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "49361",
-    "type": "movie",
-    "title": "Don't Torture a Duckling",
-    "content": "Original Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tRijtOcDQv4luBnoCrlUqEYwPSc.jpg",
-    "trailerId": "UQqu4MlEfMo",
-    "trailerUrl": "https://www.youtube.com/embed/UQqu4MlEfMo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1138194",
     "type": "movie",
     "title": "Heretic",
@@ -587,6 +567,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ag66gJCiZ06q1GSJuQlhGLi3Udx.jpg",
     "trailerId": "Swm7m1xGNwg",
     "trailerUrl": "https://www.youtube.com/embed/Swm7m1xGNwg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "39844",
+    "type": "movie",
+    "title": "Deranged",
+    "content": "Vinegar Syndrome Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Zd4348R7I8ii27TDs7XKAN5c6y.jpg",
+    "trailerId": "MFMcB9CXjns",
+    "trailerUrl": "https://www.youtube.com/embed/MFMcB9CXjns",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
