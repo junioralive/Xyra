@@ -210,6 +210,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "226826",
+    "type": "tv",
+    "title": "Tribunal Justice",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yR8RoVxKsWIkmisr3rDFbEHIsYL.jpg",
+    "trailerId": "AJiA_Qo7UBE",
+    "trailerUrl": "https://www.youtube.com/embed/AJiA_Qo7UBE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "284",
     "type": "movie",
     "title": "The Apartment",
@@ -224,7 +234,7 @@
     "type": "movie",
     "title": "Nightbitch",
     "content": "Me & My Dawgz",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/H39NvEXz23GE9iYQ4qqV4w1zWn.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ICMZZVcwboF8Z9V7aaJY3CVh9w.jpg",
     "trailerId": "qIeelDbFl3o",
     "trailerUrl": "https://www.youtube.com/embed/qIeelDbFl3o",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -357,26 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
     "trailerId": "fPopd3ZOGUY",
     "trailerUrl": "https://www.youtube.com/embed/fPopd3ZOGUY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "108978",
-    "type": "tv",
-    "title": "Reacher",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m5CggjJuFc08QCuKz54znHP6spJ.jpg",
-    "trailerId": "mCFXvDeUoi0",
-    "trailerUrl": "https://www.youtube.com/embed/mCFXvDeUoi0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "226826",
-    "type": "tv",
-    "title": "Tribunal Justice",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yR8RoVxKsWIkmisr3rDFbEHIsYL.jpg",
-    "trailerId": "AJiA_Qo7UBE",
-    "trailerUrl": "https://www.youtube.com/embed/AJiA_Qo7UBE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
