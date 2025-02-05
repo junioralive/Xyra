@@ -10,6 +10,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "617126",
+    "type": "movie",
+    "title": "The Fantastic Four: First Steps",
+    "content": "Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/unthV1mq9llhEinIMPcCUImFodt.jpg",
+    "trailerId": "AzMo-FgRp64",
+    "trailerUrl": "https://www.youtube.com/embed/AzMo-FgRp64",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "950396",
     "type": "movie",
     "title": "The Gorge",
@@ -190,13 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "426063",
+    "id": "636279",
     "type": "movie",
-    "title": "Nosferatu",
-    "content": "Watch at Home Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
-    "trailerId": "vAEM5mDrhSc",
-    "trailerUrl": "https://www.youtube.com/embed/vAEM5mDrhSc",
+    "title": "Bogot\u00e1: City of the Lost",
+    "content": "Official Clip [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zDn58IGLtNxDrEnEkO7JM814HiF.jpg",
+    "trailerId": "KP_aRbYjaPo",
+    "trailerUrl": "https://www.youtube.com/embed/KP_aRbYjaPo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -267,16 +277,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u31nZb99GBAAzbUxP7BhtrPK9YC.jpg",
     "trailerId": "XwQRkOK5KC4",
     "trailerUrl": "https://www.youtube.com/embed/XwQRkOK5KC4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "636279",
-    "type": "movie",
-    "title": "Bogot\u00e1: City of the Lost",
-    "content": "Official Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zDn58IGLtNxDrEnEkO7JM814HiF.jpg",
-    "trailerId": "7UP25X3xRA0",
-    "trailerUrl": "https://www.youtube.com/embed/7UP25X3xRA0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -404,7 +404,7 @@
     "type": "tv",
     "title": "The Kardashians",
     "content": "Season 6 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hEUigxkQ6JTsKDUab8TL8trGOAc.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6I42RBhmK89wdymE1ReNUuHk358.jpg",
     "trailerId": "xALD2a7A4zc",
     "trailerUrl": "https://www.youtube.com/embed/xALD2a7A4zc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -537,6 +537,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qD5tjxgmCIx1At1NzxTlVp2hwHz.jpg",
     "trailerId": "Qg4QQ7K4qRQ",
     "trailerUrl": "https://www.youtube.com/embed/Qg4QQ7K4qRQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "426063",
+    "type": "movie",
+    "title": "Nosferatu",
+    "content": "Watch at Home Now",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg",
+    "trailerId": "vAEM5mDrhSc",
+    "trailerUrl": "https://www.youtube.com/embed/vAEM5mDrhSc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
