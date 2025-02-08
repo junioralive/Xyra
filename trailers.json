@@ -1,12 +1,32 @@
 [
   {
+    "id": "127532",
+    "type": "tv",
+    "title": "Solo Leveling",
+    "content": "Season 2 -Arise from the Shadow- Dub Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
+    "trailerId": "VEa-32eURrc",
+    "trailerUrl": "https://www.youtube.com/embed/VEa-32eURrc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "138503",
     "type": "tv",
     "title": "Your Friendly Neighborhood Spider-Man",
-    "content": "Love meeting fans.",
+    "content": "Suits",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7CaXcLBWf41nHyX33DmpIpcOSg4.jpg",
-    "trailerId": "2QwG92P7Aa4",
-    "trailerUrl": "https://www.youtube.com/embed/2QwG92P7Aa4",
+    "trailerId": "lqDZOS3BmzU",
+    "trailerUrl": "https://www.youtube.com/embed/lqDZOS3BmzU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "236994",
+    "type": "tv",
+    "title": "Dragon Ball DAIMA",
+    "content": "Climax Trailer [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oUmWLyeko3kYdUr8DBLIsxwcugl.jpg",
+    "trailerId": "U3oMwgVpXXU",
+    "trailerUrl": "https://www.youtube.com/embed/U3oMwgVpXXU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -94,7 +114,7 @@
     "type": "movie",
     "title": "Captain America: Brave New World",
     "content": "In Theaters In 10 Days",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3nPDlMUEOLsJcdzSKsR6sKYBDEI.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rw9fSaQ4jkm4tDwn5qIXWBRmNEs.jpg",
     "trailerId": "fRg-T-6rDUg",
     "trailerUrl": "https://www.youtube.com/embed/fRg-T-6rDUg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -180,23 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "65334",
+    "id": "38464",
     "type": "tv",
-    "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "content": "Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ogMd4e3A0uSNwZADzgC23zCByoi.jpg",
-    "trailerId": "IlSaQPBavE8",
-    "trailerUrl": "https://www.youtube.com/embed/IlSaQPBavE8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1233413",
-    "type": "movie",
-    "title": "Sinners",
-    "content": "Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7QWkHecbYo6HHui0uYRtWlIMpIN.jpg",
-    "trailerId": "7joulECTx_U",
-    "trailerUrl": "https://www.youtube.com/embed/7joulECTx_U",
+    "title": "Blue Exorcist",
+    "content": "-The Blue Night Saga- Official English Dub Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
+    "trailerId": "7KuY34OgC5M",
+    "trailerUrl": "https://www.youtube.com/embed/7KuY34OgC5M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -290,43 +300,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "111803",
+    "id": "65334",
     "type": "tv",
-    "title": "The White Lotus",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u31nZb99GBAAzbUxP7BhtrPK9YC.jpg",
-    "trailerId": "XwQRkOK5KC4",
-    "trailerUrl": "https://www.youtube.com/embed/XwQRkOK5KC4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "996821",
-    "type": "movie",
-    "title": "You're Cordially Invited",
-    "content": "Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xaNBpBkONtupAVJqQBIW5EZa7xi.jpg",
-    "trailerId": "FTEqcrgsmzg",
-    "trailerUrl": "https://www.youtube.com/embed/FTEqcrgsmzg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "102904",
-    "type": "tv",
-    "title": "Sweet Magnolias",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wt60Q4doM2vrubiCsutwaeWncLL.jpg",
-    "trailerId": "44inavuvxEw",
-    "trailerUrl": "https://www.youtube.com/embed/44inavuvxEw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "158756",
-    "type": "tv",
-    "title": "Shoresy",
-    "content": "Season 4 Hulu Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5wNVlqh3ePhLB5tEJwenNUwZGZE.jpg",
-    "trailerId": "RTkUypPS6A4",
-    "trailerUrl": "https://www.youtube.com/embed/RTkUypPS6A4",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "content": "Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ogMd4e3A0uSNwZADzgC23zCByoi.jpg",
+    "trailerId": "IlSaQPBavE8",
+    "trailerUrl": "https://www.youtube.com/embed/IlSaQPBavE8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -347,6 +327,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/w0GA9tmKfRgxXj2zPUp0qzDuYjC.jpg",
     "trailerId": "Xrdri8nalPA",
     "trailerUrl": "https://www.youtube.com/embed/Xrdri8nalPA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "111803",
+    "type": "tv",
+    "title": "The White Lotus",
+    "content": "Season 3 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u31nZb99GBAAzbUxP7BhtrPK9YC.jpg",
+    "trailerId": "XwQRkOK5KC4",
+    "trailerUrl": "https://www.youtube.com/embed/XwQRkOK5KC4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -397,16 +387,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6I42RBhmK89wdymE1ReNUuHk358.jpg",
     "trailerId": "xALD2a7A4zc",
     "trailerUrl": "https://www.youtube.com/embed/xALD2a7A4zc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "207347",
-    "type": "tv",
-    "title": "Blue Box",
-    "content": "Season 1 Cour 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
-    "trailerId": "PtqwTaKgL7M",
-    "trailerUrl": "https://www.youtube.com/embed/PtqwTaKgL7M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -480,23 +460,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1388808",
+    "id": "1244958",
     "type": "movie",
-    "title": "Into the Deep",
-    "content": "UK Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h8TPPusskiVqwiQGEiUP7f0z8v6.jpg",
-    "trailerId": "aYYyAmvkSfQ",
-    "trailerUrl": "https://www.youtube.com/embed/aYYyAmvkSfQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "8843",
-    "type": "movie",
-    "title": "The Cell",
+    "title": "Jazzy",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wMvqec4N7Na5DHdyQugh7w0UpBF.jpg",
-    "trailerId": "ZhH3CHunglk",
-    "trailerUrl": "https://www.youtube.com/embed/ZhH3CHunglk",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3J8tZ3l1GCmEFTNXdjICfs58QR0.jpg",
+    "trailerId": "yYbBMiR1PFg",
+    "trailerUrl": "https://www.youtube.com/embed/yYbBMiR1PFg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
