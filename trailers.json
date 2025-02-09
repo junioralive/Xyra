@@ -30,6 +30,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "936108",
+    "type": "movie",
+    "title": "Smurfs",
+    "content": "Big Game Spot",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNt7YgBBta7reMIMJn78xUU53T5.jpg",
+    "trailerId": "CrQazuepe1g",
+    "trailerUrl": "https://www.youtube.com/embed/CrQazuepe1g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "245927",
     "type": "tv",
     "title": "Paradise",
@@ -154,7 +164,7 @@
     "type": "movie",
     "title": "Mickey 17",
     "content": "Only in Theaters March 7",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5jMhKdrFdfn8h8Q0Z9ID8vdveB2.jpg",
     "trailerId": "j_DdE9ufKkA",
     "trailerUrl": "https://www.youtube.com/embed/j_DdE9ufKkA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -190,23 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "93405",
-    "type": "tv",
-    "title": "Squid Game",
-    "content": "Nothing can prepare you for the final season of Squid Game! Squid Game Season 3 premieres June 27.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
-    "trailerId": "H1f9CgIaQCc",
-    "trailerUrl": "https://www.youtube.com/embed/H1f9CgIaQCc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "38464",
     "type": "tv",
     "title": "Blue Exorcist",
-    "content": "-The Blue Night Saga- Official English Dub Trailer",
+    "content": "-The Blue Night Saga- Episode #6 Preview [Subtitled]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wJzHFl5mq6JFbD6equTleJuzlnk.jpg",
-    "trailerId": "7KuY34OgC5M",
-    "trailerUrl": "https://www.youtube.com/embed/7KuY34OgC5M",
+    "trailerId": "RdxdHgIleOs",
+    "trailerUrl": "https://www.youtube.com/embed/RdxdHgIleOs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -460,13 +460,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1244958",
+    "id": "1388808",
     "type": "movie",
-    "title": "Jazzy",
+    "title": "Into the Deep",
+    "content": "UK Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h8TPPusskiVqwiQGEiUP7f0z8v6.jpg",
+    "trailerId": "aYYyAmvkSfQ",
+    "trailerUrl": "https://www.youtube.com/embed/aYYyAmvkSfQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "8843",
+    "type": "movie",
+    "title": "The Cell",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3J8tZ3l1GCmEFTNXdjICfs58QR0.jpg",
-    "trailerId": "yYbBMiR1PFg",
-    "trailerUrl": "https://www.youtube.com/embed/yYbBMiR1PFg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wMvqec4N7Na5DHdyQugh7w0UpBF.jpg",
+    "trailerId": "ZhH3CHunglk",
+    "trailerUrl": "https://www.youtube.com/embed/ZhH3CHunglk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -477,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qD5tjxgmCIx1At1NzxTlVp2hwHz.jpg",
     "trailerId": "Qg4QQ7K4qRQ",
     "trailerUrl": "https://www.youtube.com/embed/Qg4QQ7K4qRQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1025491",
-    "type": "movie",
-    "title": "Freud's Last Session",
-    "content": "TV Spot",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pg01mUOLX6bmkmQyQownrPDXbm.jpg",
-    "trailerId": "ZTDvpbxxht8",
-    "trailerUrl": "https://www.youtube.com/embed/ZTDvpbxxht8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -547,26 +547,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
     "trailerId": "BL-u4_fLUj0",
     "trailerUrl": "https://www.youtube.com/embed/BL-u4_fLUj0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1389524",
-    "type": "movie",
-    "title": "Twin Flame",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nYawxaSCdKX2qTTxXqieiARR93m.jpg",
-    "trailerId": "4miAoJlESPM",
-    "trailerUrl": "https://www.youtube.com/embed/4miAoJlESPM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "970450",
-    "type": "movie",
-    "title": "Werewolves",
-    "content": "UK Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cA88pwGnHa64BBcU3R1oCcJH9Qc.jpg",
-    "trailerId": "Pza0D7WxSdg",
-    "trailerUrl": "https://www.youtube.com/embed/Pza0D7WxSdg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
