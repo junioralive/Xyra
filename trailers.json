@@ -44,7 +44,7 @@
     "type": "movie",
     "title": "Captain America: Brave New World",
     "content": "#1 Movie in the World",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8eifdha9GQeZAkexgtD45546XKx.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
     "trailerId": "f3jP5zH3TB4",
     "trailerUrl": "https://www.youtube.com/embed/f3jP5zH3TB4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -687,16 +687,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Ab5UQH6dgydWMJvpoMmaDznSzqX.jpg",
     "trailerId": "N3ENzFoWYeY",
     "trailerUrl": "https://www.youtube.com/embed/N3ENzFoWYeY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1224993",
-    "type": "movie",
-    "title": "Dark Nuns",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fmAtnEeYvxeHpBWuQjZxTh5SCkg.jpg",
-    "trailerId": "YdOQ0kKtyrY",
-    "trailerUrl": "https://www.youtube.com/embed/YdOQ0kKtyrY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
