@@ -4,9 +4,29 @@
     "type": "movie",
     "title": "Dog Man",
     "content": "On Digital February 18, Blu-Ray & DVD April 1",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iXU87IdtNsYt7n6OigPJBDdbFf1.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uhMfSyi3xwghWrT31p6bfN49Ppz.jpg",
     "trailerId": "vvarnaXN7-s",
     "trailerUrl": "https://www.youtube.com/embed/vvarnaXN7-s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "696506",
+    "type": "movie",
+    "title": "Mickey 17",
+    "content": "It\u2019ll be a fight to the death.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
+    "trailerId": "IepgAuVHw7Y",
+    "trailerUrl": "https://www.youtube.com/embed/IepgAuVHw7Y",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "870028",
+    "type": "movie",
+    "title": "The Accountant 2",
+    "content": "Official Vertical Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/abznrQ6EAxV7vZglaS5umsrTNOS.jpg",
+    "trailerId": "ju-KSxVlysw",
+    "trailerUrl": "https://www.youtube.com/embed/ju-KSxVlysw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -17,16 +37,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rCTLaPwuApDx8vLGjYZ9pRl7zRB.jpg",
     "trailerId": "zs6BCQuWt_4",
     "trailerUrl": "https://www.youtube.com/embed/zs6BCQuWt_4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "696506",
-    "type": "movie",
-    "title": "Mickey 17",
-    "content": "Work has been killing him lately",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
-    "trailerId": "qX2W4oIqgvg",
-    "trailerUrl": "https://www.youtube.com/embed/qX2W4oIqgvg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -77,16 +87,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4WHRiFgbsAuSJ79fyr8pTXkj4G2.jpg",
     "trailerId": "rsDFi_jEhdQ",
     "trailerUrl": "https://www.youtube.com/embed/rsDFi_jEhdQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "870028",
-    "type": "movie",
-    "title": "The Accountant 2",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/abznrQ6EAxV7vZglaS5umsrTNOS.jpg",
-    "trailerId": "3wRCOqyDI6E",
-    "trailerUrl": "https://www.youtube.com/embed/3wRCOqyDI6E",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -360,6 +360,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "262664",
+    "type": "tv",
+    "title": "Exclusive Love",
+    "content": "\u3010\u7368\u4f54\u63a5\u73ed\u4eba\u30118\u5206\u9418\u7cbe\u5f69\u7247\u82b1\u6436\u5148\u770b\uff5cLINE TV \u5171\u4eab\u8ffd\u5287\u751f\u6d3b",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pYJnv0aGsNaDibDVFm0I1OnKwRl.jpg",
+    "trailerId": "P14AL7XTSrQ",
+    "trailerUrl": "https://www.youtube.com/embed/P14AL7XTSrQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "158756",
     "type": "tv",
     "title": "Shoresy",
@@ -370,21 +380,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "278639",
-    "type": "tv",
-    "title": "Extracted",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yz7miKQT0HNeLpoK4DpmIUbeufn.jpg",
-    "trailerId": "V3kXk5e6FNM",
-    "trailerUrl": "https://www.youtube.com/embed/V3kXk5e6FNM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "219053",
     "type": "tv",
     "title": "Too Hot to Handle: Germany",
     "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8t1BMAPSBNGOcyWT1lb44AFYdSK.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4m1guHlI0yVzMghmkc3qwn4vFen.jpg",
     "trailerId": "yARU85LrScU",
     "trailerUrl": "https://www.youtube.com/embed/yARU85LrScU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -654,7 +654,7 @@
     "type": "movie",
     "title": "Companion",
     "content": "The anticipation is over.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9p2tVEEWw1M92Pt63Vbq7EjBpvk.jpg",
     "trailerId": "CHzD83EGlDM",
     "trailerUrl": "https://www.youtube.com/embed/CHzD83EGlDM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
