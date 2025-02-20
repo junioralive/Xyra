@@ -370,6 +370,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "246246",
+    "type": "tv",
+    "title": "Beauty in Black",
+    "content": "Part 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
+    "trailerId": "blIm8p6u_i4",
+    "trailerUrl": "https://www.youtube.com/embed/blIm8p6u_i4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "262664",
     "type": "tv",
     "title": "Exclusive Love",
