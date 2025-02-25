@@ -23,7 +23,7 @@
     "id": "822119",
     "type": "movie",
     "title": "Captain America: Brave New World",
-    "content": "#1 Movie in America, 2 Weeks In a Row",
+    "content": "#1 Movie in America, 2 Weeks in a Row",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qfAfE5auxsuxhxPpnETRAyTP5ff.jpg",
     "trailerId": "QQb2ORZP8CQ",
     "trailerUrl": "https://www.youtube.com/embed/QQb2ORZP8CQ",
@@ -354,7 +354,7 @@
     "type": "tv",
     "title": "Win or Lose",
     "content": "Now Available",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tuToCybeasRLXrzQLre9eSutS5b.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s03jH9op4p00HR0eD68q0uG9nZW.jpg",
     "trailerId": "HgJebfrPjuk",
     "trailerUrl": "https://www.youtube.com/embed/HgJebfrPjuk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -520,6 +520,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1084199",
+    "type": "movie",
+    "title": "Companion",
+    "content": "0:15 Over",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sc1abgWNXc29wSBaerrjGBih06l.jpg",
+    "trailerId": "KsovBd4l9-8",
+    "trailerUrl": "https://www.youtube.com/embed/KsovBd4l9-8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "710295",
     "type": "movie",
     "title": "Wolf Man",
@@ -547,16 +557,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
     "trailerId": "jM3jrHGAsIE",
     "trailerUrl": "https://www.youtube.com/embed/jM3jrHGAsIE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1084199",
-    "type": "movie",
-    "title": "Companion",
-    "content": "The anticipation is over.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sc1abgWNXc29wSBaerrjGBih06l.jpg",
-    "trailerId": "CHzD83EGlDM",
-    "trailerUrl": "https://www.youtube.com/embed/CHzD83EGlDM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
