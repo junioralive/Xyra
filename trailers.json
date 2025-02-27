@@ -3,7 +3,7 @@
     "id": "696506",
     "type": "movie",
     "title": "Mickey 17",
-    "content": "If you\u2019re not dying to see Mickey 17, then you\u2019re not living.",
+    "content": "If you're not dying to see Mickey 17, then you're not living.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
     "trailerId": "pYP2ZmY33bw",
     "trailerUrl": "https://www.youtube.com/embed/pYP2ZmY33bw",
@@ -400,6 +400,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "283272",
+    "type": "tv",
+    "title": "The Fox Hollow Murders: Playground of a Serial Killer",
+    "content": "OFFICIAL\u00a0TRAILER:\u00a0\u2018The Fox Hollow Murders: Playground of a Serial Killer\u2019 | February 18 | Hulu",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ZyJBgwRgCvvpFS09IbGajvUlw5.jpg",
+    "trailerId": "WnFl99T6IoQ",
+    "trailerUrl": "https://www.youtube.com/embed/WnFl99T6IoQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "124394",
     "type": "tv",
     "title": "Power Book III: Raising Kanan",
@@ -414,7 +424,7 @@
     "type": "tv",
     "title": "Graveyard",
     "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/AbkH3o6CpX5VmNnaSkavae7C4C1.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g9Qn9LBk9fKKgxHtPFqkKnglsm8.jpg",
     "trailerId": "Wd3-NiNJyB0",
     "trailerUrl": "https://www.youtube.com/embed/Wd3-NiNJyB0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -477,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7rqkQ2P0Q8QOXL0ITZctnzSx2Jl.jpg",
     "trailerId": "be_Ou-GoWXM",
     "trailerUrl": "https://www.youtube.com/embed/be_Ou-GoWXM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "60694",
-    "type": "tv",
-    "title": "Last Week Tonight with John Oliver",
-    "content": "Season 12 Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/w0GA9tmKfRgxXj2zPUp0qzDuYjC.jpg",
-    "trailerId": "Xrdri8nalPA",
-    "trailerUrl": "https://www.youtube.com/embed/Xrdri8nalPA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -647,26 +647,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rDYSuBYKR4US3A0XfuCiFzVq5CJ.jpg",
     "trailerId": "Fr2nWWF2eN0",
     "trailerUrl": "https://www.youtube.com/embed/Fr2nWWF2eN0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "980477",
-    "type": "movie",
-    "title": "Ne Zha 2",
-    "content": "International Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2g0iU9jt32nwHmjyTJDRvnpVEZ8.jpg",
-    "trailerId": "nsXQijb0F4I",
-    "trailerUrl": "https://www.youtube.com/embed/nsXQijb0F4I",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1127767",
-    "type": "movie",
-    "title": "Riff Raff",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2iWhyNilvmt21TGL0Rm6UNEgwQH.jpg",
-    "trailerId": "ChN_VoZ2sZ0",
-    "trailerUrl": "https://www.youtube.com/embed/ChN_VoZ2sZ0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
