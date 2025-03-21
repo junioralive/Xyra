@@ -200,6 +200,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "210879",
+    "type": "tv",
+    "title": "Rurouni Kenshin",
+    "content": "-Kyoto Disturbance- Episode 47 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
+    "trailerId": "sYSIsY8zIDo",
+    "trailerUrl": "https://www.youtube.com/embed/sYSIsY8zIDo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "283387",
     "type": "tv",
     "title": "Everybody's Live with John Mulaney",
@@ -267,16 +277,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zdy3h2sMppVp1Q41HpLiyF5w7es.jpg",
     "trailerId": "xLTJ6-8e46M",
     "trailerUrl": "https://www.youtube.com/embed/xLTJ6-8e46M",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "210879",
-    "type": "tv",
-    "title": "Rurouni Kenshin",
-    "content": "-Kyoto Disturbance- Episode 46 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xV0Xro8G20SgxYfGrXun26k7eVp.jpg",
-    "trailerId": "TbPDGGblTa0",
-    "trailerUrl": "https://www.youtube.com/embed/TbPDGGblTa0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -377,6 +377,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fGQCss2nAosaRfaa4NXyr0ZfiEB.jpg",
     "trailerId": "aH5VpNnMqAw",
     "trailerUrl": "https://www.youtube.com/embed/aH5VpNnMqAw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "237512",
+    "type": "tv",
+    "title": "Jurassic World: Chaos Theory",
+    "content": "Season 3 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7y31JWag4vsWtXZvcjmLUDJ6NSp.jpg",
+    "trailerId": "5gpNHQPCR24",
+    "trailerUrl": "https://www.youtube.com/embed/5gpNHQPCR24",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
