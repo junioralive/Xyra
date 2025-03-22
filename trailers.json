@@ -114,7 +114,7 @@
     "type": "movie",
     "title": "Revelations",
     "content": "Final Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dNvquSTmwheJjyLZalYj3NkXbfe.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vuDzQwwkyGJ0CIk1x8pO9rAq7HE.jpg",
     "trailerId": "5XcVSWOKVsY",
     "trailerUrl": "https://www.youtube.com/embed/5XcVSWOKVsY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -197,6 +197,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sNx1A3822kEbqeUxvo5A08o4N7o.jpg",
     "trailerId": "nRaFFlW-OqQ",
     "trailerUrl": "https://www.youtube.com/embed/nRaFFlW-OqQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "65930",
+    "type": "tv",
+    "title": "My Hero Academia",
+    "content": "Final Season Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6wSSyRNeF9vBJ1h29nuw3vG9hZI.jpg",
+    "trailerId": "ErlRR6b7A-E",
+    "trailerUrl": "https://www.youtube.com/embed/ErlRR6b7A-E",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -307,16 +317,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
     "trailerId": "AyOaLsNXlF8",
     "trailerUrl": "https://www.youtube.com/embed/AyOaLsNXlF8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "246246",
-    "type": "tv",
-    "title": "Beauty in Black",
-    "content": "Season 2 Announcement",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ywJcUIMTCjstPLvvyIiPWP3G3m3.jpg",
-    "trailerId": "gwJFObv8LBk",
-    "trailerUrl": "https://www.youtube.com/embed/gwJFObv8LBk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -474,7 +474,7 @@
     "type": "movie",
     "title": "Baby Invasion",
     "content": "Baby Invasion available now on Apple, Amazon, and EDGLRD.COM",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/65MjUv58XqVWyXl4ACH6D7KHG4R.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n1MGryL6i8sEzQgAhuwxxCQk428.jpg",
     "trailerId": "poi718hkcYE",
     "trailerUrl": "https://www.youtube.com/embed/poi718hkcYE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -674,7 +674,7 @@
     "type": "movie",
     "title": "Black Bag",
     "content": "Deadly 30",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xD4VusMgiDCqvAsdOdwHItOdaXS.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
     "trailerId": "o43faZjJjYs",
     "trailerUrl": "https://www.youtube.com/embed/o43faZjJjYs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
