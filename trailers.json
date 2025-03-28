@@ -10,11 +10,21 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "762509",
+    "type": "movie",
+    "title": "Mufasa: The Lion King",
+    "content": "\"Feel It\"",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "trailerId": "dfLM5lka_5Q",
+    "trailerUrl": "https://www.youtube.com/embed/dfLM5lka_5Q",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
     "content": "Official Trailer Online Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kn7eOP9nba9Dgh3mWbvTCWcu8jr.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/meIhAEsNJQ3hL8d7sJp4Kk1Sm2v.jpg",
     "trailerId": "XETfXtXGP5k",
     "trailerUrl": "https://www.youtube.com/embed/XETfXtXGP5k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -33,7 +43,7 @@
     "id": "1087891",
     "type": "movie",
     "title": "The Amateur",
-    "content": "The Amateur | Only In Theaters April 11",
+    "content": "Only In Theaters April 11",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8vVbNSjfcgpYh8lOQbEr8MBSkIu.jpg",
     "trailerId": "115ADeUZ9lc",
     "trailerUrl": "https://www.youtube.com/embed/115ADeUZ9lc",
@@ -57,16 +67,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lwfbwY5QjUtM3slQoGZUPhuS0eD.jpg",
     "trailerId": "gWTt8J5_8yk",
     "trailerUrl": "https://www.youtube.com/embed/gWTt8J5_8yk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "762509",
-    "type": "movie",
-    "title": "Mufasa: The Lion King",
-    "content": "Places to go, kingdoms to see!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
-    "trailerId": "dZSgv-6bdhg",
-    "trailerUrl": "https://www.youtube.com/embed/dZSgv-6bdhg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
