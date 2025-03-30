@@ -213,7 +213,7 @@
     "id": "78191",
     "type": "tv",
     "title": "You",
-    "content": "Series Trailer",
+    "content": "YOU | Series Trailer | Netflix",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gzOIymABxmetAECXtazEYCpMmfb.jpg",
     "trailerId": "v99ooSjCVhg",
     "trailerUrl": "https://www.youtube.com/embed/v99ooSjCVhg",
@@ -247,6 +247,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/a6ptrTUH1c5OdWanjyYtAkOuYD0.jpg",
     "trailerId": "3NUizzImhig",
     "trailerUrl": "https://www.youtube.com/embed/3NUizzImhig",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "10086",
+    "type": "movie",
+    "title": "Man Bites Dog",
+    "content": "Original Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7QLGk7qKm66dtjTtpVeAIRocoan.jpg",
+    "trailerId": "3HFuTY3HpV8",
+    "trailerUrl": "https://www.youtube.com/embed/3HFuTY3HpV8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -307,16 +317,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
     "trailerId": "AHpi1JmG274",
     "trailerUrl": "https://www.youtube.com/embed/AHpi1JmG274",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "17937",
-    "type": "tv",
-    "title": "Ghost Adventures",
-    "content": "Sneak Peak: New Season",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
-    "trailerId": "bpL08l_WwDI",
-    "trailerUrl": "https://www.youtube.com/embed/bpL08l_WwDI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -527,16 +527,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
     "trailerId": "W0ZFkibrq0U",
     "trailerUrl": "https://www.youtube.com/embed/W0ZFkibrq0U",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "5968",
-    "type": "movie",
-    "title": "The Woman in Red",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rSeq6k5OlrDEBaa1nJSzq2J8upZ.jpg",
-    "trailerId": "45ofiq9cWiY",
-    "trailerUrl": "https://www.youtube.com/embed/45ofiq9cWiY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
