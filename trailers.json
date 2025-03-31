@@ -140,16 +140,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1249213",
-    "type": "movie",
-    "title": "Drop",
-    "content": "15 DropIsReviewVertical",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pg8DVHZCUhwdrSX6Pb0Ut4ST6GM.jpg",
-    "trailerId": "iax24I09UWg",
-    "trailerUrl": "https://www.youtube.com/embed/iax24I09UWg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "202555",
     "type": "tv",
     "title": "Daredevil: Born Again",
@@ -194,9 +184,19 @@
     "type": "tv",
     "title": "When Life Gives You Tangerines",
     "content": "Volume 4 Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mwczMJeoQrsPERcyP1e900jo3Jv.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5yk3QwnQxzwKfhU1tlDkV2PSIBz.jpg",
     "trailerId": "suxklHratKI",
     "trailerUrl": "https://www.youtube.com/embed/suxklHratKI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "127532",
+    "type": "tv",
+    "title": "Solo Leveling",
+    "content": "Season 2 -Arise from the Shadow- HYPE TRAILER",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
+    "trailerId": "IDQjoTkgSK8",
+    "trailerUrl": "https://www.youtube.com/embed/IDQjoTkgSK8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -250,16 +250,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "127532",
-    "type": "tv",
-    "title": "Solo Leveling",
-    "content": "Season 2 -Arise from the Shadow- HYPE TRAILER",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/odVlTMqPPiMksmxpN9cCbPCjUPP.jpg",
-    "trailerId": "IDQjoTkgSK8",
-    "trailerUrl": "https://www.youtube.com/embed/IDQjoTkgSK8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "207332",
     "type": "tv",
     "title": "SAKAMOTO DAYS",
@@ -267,6 +257,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
     "trailerId": "gLBCpN0evko",
     "trailerUrl": "https://www.youtube.com/embed/gLBCpN0evko",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "4482",
+    "type": "tv",
+    "title": "Bewitched",
+    "content": "Seasons 3 & 4 | Limited Edition Blu-ray Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yMYSrL0YI5hgDnBlEBRlKRI1Hsw.jpg",
+    "trailerId": "CyFUZI4228s",
+    "trailerUrl": "https://www.youtube.com/embed/CyFUZI4228s",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -307,16 +307,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h8Lxf8gCI6uQqmnoWfQxjaJgrul.jpg",
     "trailerId": "AHpi1JmG274",
     "trailerUrl": "https://www.youtube.com/embed/AHpi1JmG274",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "17937",
-    "type": "tv",
-    "title": "Ghost Adventures",
-    "content": "Sneak Peak: New Season",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u64huzTnF3jEYUXJ4BDlpHy2L3K.jpg",
-    "trailerId": "bpL08l_WwDI",
-    "trailerUrl": "https://www.youtube.com/embed/bpL08l_WwDI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
