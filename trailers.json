@@ -20,6 +20,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1035259",
+    "type": "movie",
+    "title": "The Naked Gun",
+    "content": "Official Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g5BaB7tcZufpVBFN9E21kfILFeq.jpg",
+    "trailerId": "_8-N8IIq_8I",
+    "trailerUrl": "https://www.youtube.com/embed/_8-N8IIq_8I",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1071585",
     "type": "movie",
     "title": "M3GAN 2.0",
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "202555",
-    "type": "tv",
-    "title": "Daredevil: Born Again",
-    "content": "Alive",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
-    "trailerId": "_5yR6UZjkyY",
-    "trailerUrl": "https://www.youtube.com/embed/_5yR6UZjkyY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1877",
     "type": "tv",
     "title": "Phineas and Ferb",
@@ -230,16 +230,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1276073",
-    "type": "movie",
-    "title": "Bullet Train Explosion",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/75TivzDRNgcmPvsHnAtrBtGkCVq.jpg",
-    "trailerId": "bYopWaT8Sr0",
-    "trailerUrl": "https://www.youtube.com/embed/bYopWaT8Sr0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "4954",
     "type": "movie",
     "title": "Drop Zone",
@@ -247,6 +237,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qmdtL1TFMWnel4QnxcwmZQ5Gwgz.jpg",
     "trailerId": "nPShJKV8Xgg",
     "trailerUrl": "https://www.youtube.com/embed/nPShJKV8Xgg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "10990",
+    "type": "movie",
+    "title": "Mulholland Falls",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3RbfSjGLDKHSvoUEVxPZHODJMXS.jpg",
+    "trailerId": "4KQ4kqppxSs",
+    "trailerUrl": "https://www.youtube.com/embed/4KQ4kqppxSs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -273,7 +273,7 @@
     "id": "78191",
     "type": "tv",
     "title": "You",
-    "content": "Series Trailer",
+    "content": "YOU | Series Trailer | Netflix",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gzOIymABxmetAECXtazEYCpMmfb.jpg",
     "trailerId": "v99ooSjCVhg",
     "trailerUrl": "https://www.youtube.com/embed/v99ooSjCVhg",
@@ -297,6 +297,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4Mt7WHox67uJ1yErwTBFcV8KWgG.jpg",
     "trailerId": "3NUizzImhig",
     "trailerUrl": "https://www.youtube.com/embed/3NUizzImhig",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "202555",
+    "type": "tv",
+    "title": "Daredevil: Born Again",
+    "content": "Alive",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
+    "trailerId": "_5yR6UZjkyY",
+    "trailerUrl": "https://www.youtube.com/embed/_5yR6UZjkyY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -347,6 +357,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kBS4aJKA0ila8J7iR2qpJO097kQ.jpg",
     "trailerId": "EB6LIVsq55k",
     "trailerUrl": "https://www.youtube.com/embed/EB6LIVsq55k",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "99073",
+    "type": "tv",
+    "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/45feYn6zwVrwLcBtiaLOXzavtOT.jpg",
+    "trailerId": "UmjXZxKwpP0",
+    "trailerUrl": "https://www.youtube.com/embed/UmjXZxKwpP0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -417,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oilobjVpXlSaDDj67raoNqdHrfB.jpg",
     "trailerId": "TvN19xMrVwc",
     "trailerUrl": "https://www.youtube.com/embed/TvN19xMrVwc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "237512",
-    "type": "tv",
-    "title": "Jurassic World: Chaos Theory",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7y31JWag4vsWtXZvcjmLUDJ6NSp.jpg",
-    "trailerId": "5gpNHQPCR24",
-    "trailerUrl": "https://www.youtube.com/embed/5gpNHQPCR24",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
