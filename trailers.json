@@ -44,7 +44,7 @@
     "type": "movie",
     "title": "Mission: Impossible - The Final Reckoning",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3VkPqpjKikQg2M2n6xgTfR9xr7E.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/e8tfjwOu1mIGqdq2yAaJQ0OMoyr.jpg",
     "trailerId": "fsQgc9pCyDU",
     "trailerUrl": "https://www.youtube.com/embed/fsQgc9pCyDU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -380,6 +380,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "83867",
+    "type": "tv",
+    "title": "Star Wars: Andor",
+    "content": "Final Season Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ajztm40qDPqMONaSJhQ2PaNe2Xd.jpg",
+    "trailerId": "duN-KQgOjYs",
+    "trailerUrl": "https://www.youtube.com/embed/duN-KQgOjYs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "99073",
     "type": "tv",
     "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
@@ -487,16 +497,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5U0dYTkHXPhoExNnEm5iKrpDqtr.jpg",
     "trailerId": "ue_GjpV8nrc",
     "trailerUrl": "https://www.youtube.com/embed/ue_GjpV8nrc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "124101",
-    "type": "tv",
-    "title": "Hacks",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qeqJI8LRIdbV2kZT3rtOaHOnLuY.jpg",
-    "trailerId": "hOwKjb_EHJA",
-    "trailerUrl": "https://www.youtube.com/embed/hOwKjb_EHJA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -644,7 +644,7 @@
     "type": "movie",
     "title": "In the Lost Lands",
     "content": "Prepare For Survival",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eOKpbUpd178x9Z2grd3vC74kkkU.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/moBMnKXein5JHjDR5wEwRhanZUK.jpg",
     "trailerId": "da2PBvAqao8",
     "trailerUrl": "https://www.youtube.com/embed/da2PBvAqao8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
