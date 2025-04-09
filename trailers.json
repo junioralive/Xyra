@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "Warfare",
     "content": "Official Featurette",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6Wsz7jJ3ARNtlXAV7c3bJGDlsf9.jpg",
     "trailerId": "APF86peawgs",
     "trailerUrl": "https://www.youtube.com/embed/APF86peawgs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -450,16 +450,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "282666",
-    "type": "tv",
-    "title": "GUILTY GEAR STRIVE: DUAL RULERS",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7EDiFma8CrnbT9F05xNd50CZZrr.jpg",
-    "trailerId": "CcMgvwfQPHY",
-    "trailerUrl": "https://www.youtube.com/embed/CcMgvwfQPHY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "274671",
     "type": "tv",
     "title": "The Beginning After the End",
@@ -467,6 +457,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/epPoqwhas9lhZasJ9yVYJod2GQa.jpg",
     "trailerId": "LwCJhJbpg4Q",
     "trailerUrl": "https://www.youtube.com/embed/LwCJhJbpg4Q",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "261868",
+    "type": "tv",
+    "title": "Witch Watch",
+    "content": "Official Trailer 3 [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yTfaG7igCJa324DU0QaxCTzYBXF.jpg",
+    "trailerId": "mLOi_84AlOg",
+    "trailerUrl": "https://www.youtube.com/embed/mLOi_84AlOg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
