@@ -230,6 +230,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "247767",
+    "type": "tv",
+    "title": "The Studio",
+    "content": "For the film bro in your life.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6KQVvPTKxtt6IymDorMB04Hkj3g.jpg",
+    "trailerId": "YHCbHia62Ck",
+    "trailerUrl": "https://www.youtube.com/embed/YHCbHia62Ck",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "363088",
     "type": "movie",
     "title": "Ant-Man and the Wasp",
@@ -254,7 +264,7 @@
     "type": "movie",
     "title": "Titanic: The Digital Resurrection",
     "content": "Titanic: The Digital Resurrection | Official Trailer | National Geographic",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tXJwsqVttZBTuuTI9iG2SilfOJT.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nXy0EcIOwXJU8ZqVy44AuPhboqf.jpg",
     "trailerId": "Ywm0RERswmY",
     "trailerUrl": "https://www.youtube.com/embed/Ywm0RERswmY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -280,6 +290,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "12162",
+    "type": "movie",
+    "title": "The Hurt Locker",
+    "content": "Official Australian Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9UAhRDffrWkOwxqzqAF6ls1iEZ8.jpg",
+    "trailerId": "4mgWq9wZs2o",
+    "trailerUrl": "https://www.youtube.com/embed/4mgWq9wZs2o",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "241883",
     "type": "tv",
     "title": "The Gardener",
@@ -297,26 +317,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/41neXsH222hV2zrsTyw8h7javon.jpg",
     "trailerId": "oUIK01ek-Ko",
     "trailerUrl": "https://www.youtube.com/embed/oUIK01ek-Ko",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "226637",
-    "type": "tv",
-    "title": "High Potential",
-    "content": "Official UK Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fGZH7czsIFgf291AI0RLkHnGsRY.jpg",
-    "trailerId": "B5Hn1higb_8",
-    "trailerUrl": "https://www.youtube.com/embed/B5Hn1higb_8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "422",
-    "type": "movie",
-    "title": "8\u00bd",
-    "content": "35mm Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
-    "trailerId": "yruJBocWfn4",
-    "trailerUrl": "https://www.youtube.com/embed/yruJBocWfn4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,13 +340,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "247767",
+    "id": "154494",
     "type": "tv",
-    "title": "The Studio",
-    "content": "For the film bro in your life.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6KQVvPTKxtt6IymDorMB04Hkj3g.jpg",
-    "trailerId": "YHCbHia62Ck",
-    "trailerUrl": "https://www.youtube.com/embed/YHCbHia62Ck",
+    "title": "Lycoris Recoil",
+    "content": "Lycoris Recoil -Friends are thieves of time.- Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
+    "trailerId": "5gQn5UwJSfA",
+    "trailerUrl": "https://www.youtube.com/embed/5gQn5UwJSfA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -397,16 +397,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kOcTSsKjC1h9Ez8l7yzKPZ4XF9t.jpg",
     "trailerId": "SiqYgJXp_Kc",
     "trailerUrl": "https://www.youtube.com/embed/SiqYgJXp_Kc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "261091",
-    "type": "tv",
-    "title": "The Shiunji Family Children",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tjQrXMEWxAkA5Uo7261NDZfoyn1.jpg",
-    "trailerId": "kcLW6u9KrUI",
-    "trailerUrl": "https://www.youtube.com/embed/kcLW6u9KrUI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -557,16 +547,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eSxvC0Qw0A9AfI355MF9dSItrfR.jpg",
     "trailerId": "MTWGd-63sIM",
     "trailerUrl": "https://www.youtube.com/embed/MTWGd-63sIM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "10135",
-    "type": "movie",
-    "title": "Road House",
-    "content": "Original Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fBORcwQlM9zCD5iqHxEl8VmxElu.jpg",
-    "trailerId": "xbN9m-1vIZc",
-    "trailerUrl": "https://www.youtube.com/embed/xbN9m-1vIZc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
