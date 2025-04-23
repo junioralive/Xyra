@@ -74,7 +74,7 @@
     "type": "movie",
     "title": "A Minecraft Movie",
     "content": "In Cinemas Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/56lv8d5yst1SBhw1uR3iGFd1R43.jpg",
     "trailerId": "9LE_8pKtIvE",
     "trailerUrl": "https://www.youtube.com/embed/9LE_8pKtIvE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -94,7 +94,7 @@
     "type": "movie",
     "title": "Until Dawn",
     "content": "\u028el\u01dd\u028col, isn\u2019t it?",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z5gEVVNjvCbz3lT33fnQNYgQKak.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n48dcVVxc3Mcq2l2Y3NTxLRJ7wJ.jpg",
     "trailerId": "4jY21Db-DPk",
     "trailerUrl": "https://www.youtube.com/embed/4jY21Db-DPk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -587,16 +587,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/om7apkYMeZMsZ60RsR9DGitTkPy.jpg",
     "trailerId": "J-uXYWEXgLw",
     "trailerUrl": "https://www.youtube.com/embed/J-uXYWEXgLw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "2666",
-    "type": "movie",
-    "title": "Dark City",
-    "content": "Original Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cS992RPEJQ4S45IiNSLqlMl2ins.jpg",
-    "trailerId": "30mmoegSQCs",
-    "trailerUrl": "https://www.youtube.com/embed/30mmoegSQCs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
