@@ -30,6 +30,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1242898",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "content": "Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/15SmfUxqEj7ZpdqyJTqQldRYOtr.jpg",
+    "trailerId": "oFkbsEKaoSE",
+    "trailerUrl": "https://www.youtube.com/embed/oFkbsEKaoSE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "574475",
     "type": "movie",
     "title": "Final Destination: Bloodlines",
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1100988",
-    "type": "movie",
-    "title": "28 Years Later",
-    "content": "New Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bPry9bdXbbEH1Q5TFKNK8AGc4DE.jpg",
-    "trailerId": "IYGG55qwQZQ",
-    "trailerUrl": "https://www.youtube.com/embed/IYGG55qwQZQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "37735",
     "type": "movie",
     "title": "Easy A",
@@ -210,20 +210,20 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "86831",
+    "id": "194766",
     "type": "tv",
-    "title": "Love, Death & Robots",
-    "content": "Volume 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nBrkOZyI75artyizuBFeya48KbO.jpg",
-    "trailerId": "p6XL6W_7_GA",
-    "trailerUrl": "https://www.youtube.com/embed/p6XL6W_7_GA",
+    "title": "The Summer I Turned Pretty",
+    "content": "Season 3 Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v2cbezJaQ5wNBHSuxPslVoe15jI.jpg",
+    "trailerId": "yr7NbcCPYjk",
+    "trailerUrl": "https://www.youtube.com/embed/yr7NbcCPYjk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
     "id": "119051",
     "type": "tv",
     "title": "Wednesday",
-    "content": "Wednesday: Season 2 | Official Teaser Trailer | Netflix",
+    "content": "Season 2 Official Teaser Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "uQx8jKiIDTI",
     "trailerUrl": "https://www.youtube.com/embed/uQx8jKiIDTI",
@@ -267,6 +267,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hrsRczdsAHBLTDzlIqt82bxY0Tt.jpg",
     "trailerId": "4b5up-F44dI",
     "trailerUrl": "https://www.youtube.com/embed/4b5up-F44dI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "233256",
+    "type": "tv",
+    "title": "The Stolen Girl",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dDx7bjxtJcMwUhowCn7VhPwLEzp.jpg",
+    "trailerId": "5dJUiN7_Zm4",
+    "trailerUrl": "https://www.youtube.com/embed/5dJUiN7_Zm4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,16 +350,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1075456",
-    "type": "movie",
-    "title": "O'Dessa",
-    "content": "Power",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7z2lSLmiJ5jNeYCoXmton86BapN.jpg",
-    "trailerId": "EH_9kcAsiOo",
-    "trailerUrl": "https://www.youtube.com/embed/EH_9kcAsiOo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "239770",
     "type": "tv",
     "title": "Doctor Who",
@@ -397,16 +397,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tTjjeBYWe6v6pLCegN4MYnaQsoq.jpg",
     "trailerId": "uARkluKxbY8",
     "trailerUrl": "https://www.youtube.com/embed/uARkluKxbY8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "154494",
-    "type": "tv",
-    "title": "Lycoris Recoil",
-    "content": "Lycoris Recoil -Friends are thieves of time.- Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
-    "trailerId": "5gQn5UwJSfA",
-    "trailerUrl": "https://www.youtube.com/embed/5gQn5UwJSfA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -467,6 +457,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tMG8CERbBIGmDAGm5IetMy5m8hF.jpg",
     "trailerId": "6CaHP5P4wUc",
     "trailerUrl": "https://www.youtube.com/embed/6CaHP5P4wUc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "130237",
+    "type": "tv",
+    "title": "Aharen-san wa Hakarenai",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/umSMlEN5RIYzlLvSFI2nfme1W02.jpg",
+    "trailerId": "VY2KPeCfTZ4",
+    "trailerUrl": "https://www.youtube.com/embed/VY2KPeCfTZ4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -534,7 +534,7 @@
     "type": "movie",
     "title": "Locked",
     "content": "Watch Eddie's Wild Ride",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ewDxmREWXzgdi7IPndTvqEpTglF.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
     "trailerId": "PIKJ_8XIo-0",
     "trailerUrl": "https://www.youtube.com/embed/PIKJ_8XIo-0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
