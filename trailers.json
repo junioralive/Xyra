@@ -334,7 +334,7 @@
     "type": "tv",
     "title": "Weak Hero",
     "content": "Class 2 Official Trailer [EN SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qpDzeZ41Sr7P59RSh9U4SVnMRUs.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cLTAda6fMRirkCY1xfO4pmcHVkk.jpg",
     "trailerId": "Sqc6447v_xg",
     "trailerUrl": "https://www.youtube.com/embed/Sqc6447v_xg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -530,6 +530,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1241934",
+    "type": "movie",
+    "title": "Mob Cops",
+    "content": "UK Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hzgVGLCwoslCYYleVmIZWcxkvp0.jpg",
+    "trailerId": "psLfVyZ6STA",
+    "trailerUrl": "https://www.youtube.com/embed/psLfVyZ6STA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1244944",
     "type": "movie",
     "title": "The Woman in the Yard",
@@ -560,6 +570,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1249213",
+    "type": "movie",
+    "title": "Drop",
+    "content": "Exclusively in theaters Friday",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2CcMG34v4PCynvxwmBUwVtNqsKL.jpg",
+    "trailerId": "Dc7Odmh5M1g",
+    "trailerUrl": "https://www.youtube.com/embed/Dc7Odmh5M1g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1353117",
     "type": "movie",
     "title": "Home Sweet Home: Rebirth",
@@ -573,7 +593,7 @@
     "id": "395817",
     "type": "movie",
     "title": "The Thicket",
-    "content": "The Thicket | 2025 | @SignatureUK Trailer | Peter Dinklage, Juliette Lewis Western Thriller",
+    "content": "UK Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/awNgj3l5f1X6A0oCBnFl99X2K9R.jpg",
     "trailerId": "X2Ff_QHDNVo",
     "trailerUrl": "https://www.youtube.com/embed/X2Ff_QHDNVo",
@@ -587,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r4X2xRrWleVgx0kahP27xRmm3ia.jpg",
     "trailerId": "PIKJ_8XIo-0",
     "trailerUrl": "https://www.youtube.com/embed/PIKJ_8XIo-0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "12162",
-    "type": "movie",
-    "title": "The Hurt Locker",
-    "content": "Official Australian Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9UAhRDffrWkOwxqzqAF6ls1iEZ8.jpg",
-    "trailerId": "4mgWq9wZs2o",
-    "trailerUrl": "https://www.youtube.com/embed/4mgWq9wZs2o",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -657,16 +667,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
     "trailerId": "APF86peawgs",
     "trailerUrl": "https://www.youtube.com/embed/APF86peawgs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1249213",
-    "type": "movie",
-    "title": "Drop",
-    "content": "Exclusively in theaters Friday",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2CcMG34v4PCynvxwmBUwVtNqsKL.jpg",
-    "trailerId": "Dc7Odmh5M1g",
-    "trailerUrl": "https://www.youtube.com/embed/Dc7Odmh5M1g",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
