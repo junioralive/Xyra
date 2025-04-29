@@ -80,16 +80,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "119051",
-    "type": "tv",
-    "title": "Wednesday",
-    "content": "Season 2 Official Teaser Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
-    "trailerId": "uQx8jKiIDTI",
-    "trailerUrl": "https://www.youtube.com/embed/uQx8jKiIDTI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "65334",
     "type": "tv",
     "title": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -164,7 +154,7 @@
     "type": "movie",
     "title": "A Minecraft Movie",
     "content": "In Cinemas Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/56lv8d5yst1SBhw1uR3iGFd1R43.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "trailerId": "9LE_8pKtIvE",
     "trailerUrl": "https://www.youtube.com/embed/9LE_8pKtIvE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -200,6 +190,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1234821",
+    "type": "movie",
+    "title": "Jurassic World Rebirth",
+    "content": "Most Dangerous",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xyAvU9WrfQLCCU2VxLF4t7EMXEF.jpg",
+    "trailerId": "MLFIvultgBA",
+    "trailerUrl": "https://www.youtube.com/embed/MLFIvultgBA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "37735",
     "type": "movie",
     "title": "Easy A",
@@ -227,6 +227,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v2cbezJaQ5wNBHSuxPslVoe15jI.jpg",
     "trailerId": "yr7NbcCPYjk",
     "trailerUrl": "https://www.youtube.com/embed/yr7NbcCPYjk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "119051",
+    "type": "tv",
+    "title": "Wednesday",
+    "content": "Season 2 Official Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "trailerId": "uQx8jKiIDTI",
+    "trailerUrl": "https://www.youtube.com/embed/uQx8jKiIDTI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -490,6 +500,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "687",
+    "type": "movie",
+    "title": "Dead Man Walking",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8ehJKWn16Snw0JHJuhUb0kD7Nsm.jpg",
+    "trailerId": "CB89rktO_Ws",
+    "trailerUrl": "https://www.youtube.com/embed/CB89rktO_Ws",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "9874",
     "type": "movie",
     "title": "Cobra",
@@ -547,16 +567,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
     "trailerId": "XxRXimrUhd0",
     "trailerUrl": "https://www.youtube.com/embed/XxRXimrUhd0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "8348",
-    "type": "movie",
-    "title": "Thunderbolt and Lightfoot",
-    "content": "Classic Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gZeAboSvbuqTsKyhjDUHpHAUqBl.jpg",
-    "trailerId": "Gjk-fB8fM0A",
-    "trailerUrl": "https://www.youtube.com/embed/Gjk-fB8fM0A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
