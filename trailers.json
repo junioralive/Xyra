@@ -230,6 +230,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "238339",
+    "type": "tv",
+    "title": "The Narrow Road to the Deep North",
+    "content": "Love and Loss",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z0YsekF4CnFVya7HEfQKKIrbPJt.jpg",
+    "trailerId": "qYeNa4-Rnl4",
+    "trailerUrl": "https://www.youtube.com/embed/qYeNa4-Rnl4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "16859",
     "type": "movie",
     "title": "Kiki's Delivery Service",
@@ -273,7 +283,7 @@
     "id": "119051",
     "type": "tv",
     "title": "Wednesday",
-    "content": "Wednesday: Season 2 | Official Teaser Trailer | Netflix",
+    "content": "Season 2 Official Teaser Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "uQx8jKiIDTI",
     "trailerUrl": "https://www.youtube.com/embed/uQx8jKiIDTI",
@@ -420,13 +430,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "154494",
+    "id": "235355",
     "type": "tv",
-    "title": "Lycoris Recoil",
-    "content": "Lycoris Recoil -Friends are thieves of time.- Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
-    "trailerId": "5gQn5UwJSfA",
-    "trailerUrl": "https://www.youtube.com/embed/5gQn5UwJSfA",
+    "title": "Resident Playbook",
+    "content": "Official Clip [EN SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oP0G8S4sbzTd9INC5L55l0L9oaP.jpg",
+    "trailerId": "NWqm_D9wEhM",
+    "trailerUrl": "https://www.youtube.com/embed/NWqm_D9wEhM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
