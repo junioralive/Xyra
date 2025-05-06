@@ -334,7 +334,7 @@
     "type": "movie",
     "title": "Another Simple Favor",
     "content": "Girlfriend Stuff",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/b6e5Nss2QNoQM4wJv2VppChswNP.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z3edlTX9YDBrVMoYupMsc8qdiUw.jpg",
     "trailerId": "dPSMMPEfVzU",
     "trailerUrl": "https://www.youtube.com/embed/dPSMMPEfVzU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -460,13 +460,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "235355",
+    "id": "154494",
     "type": "tv",
-    "title": "Resident Playbook",
-    "content": "Official Clip [EN SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oP0G8S4sbzTd9INC5L55l0L9oaP.jpg",
-    "trailerId": "NWqm_D9wEhM",
-    "trailerUrl": "https://www.youtube.com/embed/NWqm_D9wEhM",
+    "title": "Lycoris Recoil",
+    "content": "Lycoris Recoil -Friends are thieves of time.- Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xIBS2ZIvQZbf6xBMzCi3ml2FSyp.jpg",
+    "trailerId": "5gQn5UwJSfA",
+    "trailerUrl": "https://www.youtube.com/embed/5gQn5UwJSfA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
