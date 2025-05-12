@@ -14,7 +14,7 @@
     "type": "tv",
     "title": "The Last of Us",
     "content": "Season 2 Episode 6 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
     "trailerId": "_ThU28a1xfs",
     "trailerUrl": "https://www.youtube.com/embed/_ThU28a1xfs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -190,13 +190,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "425274",
+    "id": "1078605",
     "type": "movie",
-    "title": "Now You See Me: Now You Don't",
+    "title": "Weapons",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tvDx5r5D4lrNKD2PavLhx2sFnT6.jpg",
-    "trailerId": "-E3lMRx7HRQ",
-    "trailerUrl": "https://www.youtube.com/embed/-E3lMRx7HRQ",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/97l7szJv1HfSIzN7zY9pKBvfVPT.jpg",
+    "trailerId": "OpThntO9ixc",
+    "trailerUrl": "https://www.youtube.com/embed/OpThntO9ixc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -627,16 +627,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/P4bGyJQF0shAcRku3I2perNUQR.jpg",
     "trailerId": "RdBiTjy7AEI",
     "trailerUrl": "https://www.youtube.com/embed/RdBiTjy7AEI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "23048",
-    "type": "movie",
-    "title": "Hot Tub Time Machine",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aMnBqdlb0CMZLsvEghYw9doOSHX.jpg",
-    "trailerId": "CZoViO13tq8",
-    "trailerUrl": "https://www.youtube.com/embed/CZoViO13tq8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
