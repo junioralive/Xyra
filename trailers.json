@@ -263,7 +263,7 @@
     "id": "93405",
     "type": "tv",
     "title": "Squid Game",
-    "content": "Squid Game: Season 3 | Official Teaser | Netflix",
+    "content": "Season 3 Official Teaser",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
     "trailerId": "Lb6v6AUFWrM",
     "trailerUrl": "https://www.youtube.com/embed/Lb6v6AUFWrM",
@@ -360,13 +360,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "238339",
+    "id": "261868",
     "type": "tv",
-    "title": "The Narrow Road to the Deep North",
-    "content": "Love and Loss",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z0YsekF4CnFVya7HEfQKKIrbPJt.jpg",
-    "trailerId": "qYeNa4-Rnl4",
-    "trailerUrl": "https://www.youtube.com/embed/qYeNa4-Rnl4",
+    "title": "Witch Watch",
+    "content": "Official Trailer (English Dub)",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yTfaG7igCJa324DU0QaxCTzYBXF.jpg",
+    "trailerId": "0D5vUtCLHrM",
+    "trailerUrl": "https://www.youtube.com/embed/0D5vUtCLHrM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -420,6 +420,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "221122",
+    "type": "tv",
+    "title": "FBI TRUE",
+    "content": "Season 7 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fTiEqkbnUL9LzlXmRtgX1y67HfR.jpg",
+    "trailerId": "HqXeAPebMrM",
+    "trailerUrl": "https://www.youtube.com/embed/HqXeAPebMrM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "88989",
     "type": "tv",
     "title": "Nine Perfect Strangers",
@@ -427,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/RzCw9LQyAcoa9mn4xkEAyuvhgr.jpg",
     "trailerId": "-pmLKfq8u3s",
     "trailerUrl": "https://www.youtube.com/embed/-pmLKfq8u3s",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "261868",
-    "type": "tv",
-    "title": "Witch Watch",
-    "content": "Official Trailer (English Dub)",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yTfaG7igCJa324DU0QaxCTzYBXF.jpg",
-    "trailerId": "0D5vUtCLHrM",
-    "trailerUrl": "https://www.youtube.com/embed/0D5vUtCLHrM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -510,23 +510,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "279216",
+    "id": "249822",
     "type": "tv",
-    "title": "The Dinner Table Detective",
-    "content": "Watch Now [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2JOmSm7WWPzBILS8jODRqbllnf8.jpg",
-    "trailerId": "w2-hmy2zR0M",
-    "trailerUrl": "https://www.youtube.com/embed/w2-hmy2zR0M",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "72071",
-    "type": "tv",
-    "title": "The Chi",
-    "content": "Season 7 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ulXewCeBreYuw1fpjpibYQ66RRv.jpg",
-    "trailerId": "4CEoeFJQdkQ",
-    "trailerUrl": "https://www.youtube.com/embed/4CEoeFJQdkQ",
+    "title": "Malditos",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bfw1Z9J9PXAtW6FTKKYQ2pu0yhV.jpg",
+    "trailerId": "B-SpQfHRQio",
+    "trailerUrl": "https://www.youtube.com/embed/B-SpQfHRQio",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
