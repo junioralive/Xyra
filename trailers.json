@@ -203,7 +203,7 @@
     "id": "881366",
     "type": "movie",
     "title": "The End",
-    "content": "THE END | Official Trailer #2",
+    "content": "Official Trailer #2",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
     "trailerId": "sxhkBd7HXTg",
     "trailerUrl": "https://www.youtube.com/embed/sxhkBd7HXTg",
@@ -293,7 +293,7 @@
     "id": "93405",
     "type": "tv",
     "title": "Squid Game",
-    "content": "Squid Game: Season 3 | Official Teaser | Netflix",
+    "content": "Season 3 Official Teaser",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
     "trailerId": "Lb6v6AUFWrM",
     "trailerUrl": "https://www.youtube.com/embed/Lb6v6AUFWrM",
@@ -524,7 +524,7 @@
     "type": "movie",
     "title": "A Minecraft Movie",
     "content": "Minecraft Movie: Block Party Edition",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qdKGpTHVaaKaFTnRynQDg4qHdEv.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
     "trailerId": "WHEYp5hEIpo",
     "trailerUrl": "https://www.youtube.com/embed/WHEYp5hEIpo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -687,16 +687,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rdxdvXQGqCj2Vb7SvTL8gdxlSzI.jpg",
     "trailerId": "RwXDphhQ9Tg",
     "trailerUrl": "https://www.youtube.com/embed/RwXDphhQ9Tg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1087891",
-    "type": "movie",
-    "title": "The Amateur",
-    "content": "Cinematic Male",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yMoEGh8kDEwqsoJumnQLwFJ9V6h.jpg",
-    "trailerId": "ypJusSVniXM",
-    "trailerUrl": "https://www.youtube.com/embed/ypJusSVniXM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
