@@ -293,10 +293,20 @@
     "id": "93405",
     "type": "tv",
     "title": "Squid Game",
-    "content": "Season 3 Official Teaser",
+    "content": "Squid Game: Season 3 | Official Teaser | Netflix",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
     "trailerId": "Lb6v6AUFWrM",
     "trailerUrl": "https://www.youtube.com/embed/Lb6v6AUFWrM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "251883",
+    "type": "tv",
+    "title": "Thank You, Next",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sdl9K3IZDo6Z2pqIUiNUz2YyNDJ.jpg",
+    "trailerId": "LTa5YUebctA",
+    "trailerUrl": "https://www.youtube.com/embed/LTa5YUebctA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pa4hvR4bHNub3OnQZcjCQIK9OpB.jpg",
     "trailerId": "uI-iPz5qt-0",
     "trailerUrl": "https://www.youtube.com/embed/uI-iPz5qt-0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "391",
-    "type": "movie",
-    "title": "A Fistful of Dollars",
-    "content": "Official Sizzle",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
-    "trailerId": "f_oZUWAdEe8",
-    "trailerUrl": "https://www.youtube.com/embed/f_oZUWAdEe8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -517,6 +517,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ctepmnTOnVKRLQXX4VdD2AsJFnv.jpg",
     "trailerId": "zVbWe0_491c",
     "trailerUrl": "https://www.youtube.com/embed/zVbWe0_491c",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "391",
+    "type": "movie",
+    "title": "A Fistful of Dollars",
+    "content": "Official Sizzle",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
+    "trailerId": "f_oZUWAdEe8",
+    "trailerUrl": "https://www.youtube.com/embed/f_oZUWAdEe8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
