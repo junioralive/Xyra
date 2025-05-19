@@ -200,6 +200,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "938",
+    "type": "movie",
+    "title": "For a Few Dollars More",
+    "content": "Official Sizzle",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg",
+    "trailerId": "xZm8i5sGlWI",
+    "trailerUrl": "https://www.youtube.com/embed/xZm8i5sGlWI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "881366",
     "type": "movie",
     "title": "The End",
@@ -273,7 +283,7 @@
     "id": "93405",
     "type": "tv",
     "title": "Squid Game",
-    "content": "Season 3 Official Teaser",
+    "content": "Squid Game: Season 3 | Official Teaser | Netflix",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
     "trailerId": "Lb6v6AUFWrM",
     "trailerUrl": "https://www.youtube.com/embed/Lb6v6AUFWrM",
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
     "trailerId": "f_oZUWAdEe8",
     "trailerUrl": "https://www.youtube.com/embed/f_oZUWAdEe8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "224819",
-    "type": "tv",
-    "title": "Dear Hongrang",
-    "content": "Official Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eElF5eTwJyXh6hFEFa8LDMEmnHz.jpg",
-    "trailerId": "BfCrKi-ifl4",
-    "trailerUrl": "https://www.youtube.com/embed/BfCrKi-ifl4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -550,16 +550,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "8879",
-    "type": "movie",
-    "title": "Pale Rider",
-    "content": "4K Ultra HD Movie Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lSH1j2uChyuxKmslXRf1AGyi43p.jpg",
-    "trailerId": "lCVgv2Gsc9E",
-    "trailerUrl": "https://www.youtube.com/embed/lCVgv2Gsc9E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "950387",
     "type": "movie",
     "title": "A Minecraft Movie",
@@ -660,6 +650,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "896536",
+    "type": "movie",
+    "title": "The Legend of Ochi",
+    "content": "Earth Day - Official Promo",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
+    "trailerId": "Kkyx4kBohQU",
+    "trailerUrl": "https://www.youtube.com/embed/Kkyx4kBohQU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1481554",
     "type": "movie",
     "title": "23 (Iravai Moodu)",
@@ -697,16 +697,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
     "trailerId": "njUvSy3n9QQ",
     "trailerUrl": "https://www.youtube.com/embed/njUvSy3n9QQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "896536",
-    "type": "movie",
-    "title": "The Legend of Ochi",
-    "content": "Earth Day - Official Promo",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yMatVGaUxw3Vi3Z0RsLetvcSYko.jpg",
-    "trailerId": "Kkyx4kBohQU",
-    "trailerUrl": "https://www.youtube.com/embed/Kkyx4kBohQU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
