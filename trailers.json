@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "The Phoenician Scheme",
     "content": "Wes Anderson brings his new acclaimed film to the big screen.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y04uJzLEVW8q0PcKSZmktRmsuj1.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qocKcY8QVgWiG4HKD7CP5yApXDr.jpg",
     "trailerId": "5JrRNk6JV8c",
     "trailerUrl": "https://www.youtube.com/embed/5JrRNk6JV8c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -57,6 +57,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5IbxcBXZ5EhVAttfNDMPncikudr.jpg",
     "trailerId": "Yqhyyla8ZbI",
     "trailerUrl": "https://www.youtube.com/embed/Yqhyyla8ZbI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1022787",
+    "type": "movie",
+    "title": "Elio",
+    "content": "ONE MONTH TO GO",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
+    "trailerId": "3bP7_XL_GB0",
+    "trailerUrl": "https://www.youtube.com/embed/3bP7_XL_GB0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/j0NUh5irX7q2jIRtbLo8TZyRn6y.jpg",
     "trailerId": "9mHFuIJDSpM",
     "trailerUrl": "https://www.youtube.com/embed/9mHFuIJDSpM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "950387",
-    "type": "movie",
-    "title": "A Minecraft Movie",
-    "content": "Lava Chicken! A Minecraft Movie is available now!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-    "trailerId": "kiu5cufbwDY",
-    "trailerUrl": "https://www.youtube.com/embed/kiu5cufbwDY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -530,6 +530,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "950387",
+    "type": "movie",
+    "title": "A Minecraft Movie",
+    "content": "Lava Chicken! A Minecraft Movie is available now!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "trailerId": "kiu5cufbwDY",
+    "trailerUrl": "https://www.youtube.com/embed/kiu5cufbwDY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "447273",
     "type": "movie",
     "title": "Snow White",
@@ -557,6 +567,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/guTNnSWS3CaH71jasY8W1FMptjG.jpg",
     "trailerId": "RLu49mRcmYs",
     "trailerUrl": "https://www.youtube.com/embed/RLu49mRcmYs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1239481",
+    "type": "movie",
+    "title": "Raqqa: Spy vs. Spy",
+    "content": "Trailer [Dubbed]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pYe8myfqBXypkm77jROAbTigEb.jpg",
+    "trailerId": "clpF53fTifo",
+    "trailerUrl": "https://www.youtube.com/embed/clpF53fTifo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
