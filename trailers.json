@@ -160,6 +160,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1060046",
+    "type": "movie",
+    "title": "HIT: The Third Case",
+    "content": "HIT: The Third Case | Hindi Trailer | Nani, Srinidhi Shetty | Netflix India",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lRPq7QMrrNvSTKMWyAwMupuWAfr.jpg",
+    "trailerId": "VOScrKrY2fM",
+    "trailerUrl": "https://www.youtube.com/embed/VOScrKrY2fM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1151031",
     "type": "movie",
     "title": "Bring Her Back",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
     "trailerId": "zUrIPVwMoZ0",
     "trailerUrl": "https://www.youtube.com/embed/zUrIPVwMoZ0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1245165",
-    "type": "movie",
-    "title": "Graduation Trip: Mallorca",
-    "content": "Trailer [Dubbed]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z5caDtY3tn6rwbzB8iIA8PFCqYN.jpg",
-    "trailerId": "H1lyNOlvFkI",
-    "trailerUrl": "https://www.youtube.com/embed/H1lyNOlvFkI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -250,16 +250,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "11524",
-    "type": "movie",
-    "title": "Thief",
-    "content": "Original Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gdntMCBO69lLW3eRsqd5dj4sB4J.jpg",
-    "trailerId": "PQdgQs7ozdw",
-    "trailerUrl": "https://www.youtube.com/embed/PQdgQs7ozdw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "136315",
     "type": "tv",
     "title": "The Bear",
@@ -287,6 +277,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2sxiysM6O0FAxeR2CEIeKSv9IkA.jpg",
     "trailerId": "zpxuWj91dqU",
     "trailerUrl": "https://www.youtube.com/embed/zpxuWj91dqU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1245165",
+    "type": "movie",
+    "title": "Graduation Trip: Mallorca",
+    "content": "Trailer [Dubbed]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z5caDtY3tn6rwbzB8iIA8PFCqYN.jpg",
+    "trailerId": "H1lyNOlvFkI",
+    "trailerUrl": "https://www.youtube.com/embed/H1lyNOlvFkI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
