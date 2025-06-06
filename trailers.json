@@ -30,13 +30,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "842924",
+    "id": "967941",
     "type": "movie",
-    "title": "The Life of Chuck",
-    "content": "Official Trailer #2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
-    "trailerId": "jlN1Mmj6YNo",
-    "trailerUrl": "https://www.youtube.com/embed/jlN1Mmj6YNo",
+    "title": "Wicked: For Good",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/akbvdHWIKrCUiKccGzKKKCRwuMs.jpg",
+    "trailerId": "vt98AlBDI9Y",
+    "trailerUrl": "https://www.youtube.com/embed/vt98AlBDI9Y",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -77,6 +77,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qocKcY8QVgWiG4HKD7CP5yApXDr.jpg",
     "trailerId": "KAx4yqMCq5M",
     "trailerUrl": "https://www.youtube.com/embed/KAx4yqMCq5M",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "793058",
+    "type": "movie",
+    "title": "Hi-Five",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/imAihjOnerraFPxAeKOlugUu1YE.jpg",
+    "trailerId": "QLv_ARaBAH4",
+    "trailerUrl": "https://www.youtube.com/embed/QLv_ARaBAH4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lRPq7QMrrNvSTKMWyAwMupuWAfr.jpg",
     "trailerId": "VOScrKrY2fM",
     "trailerUrl": "https://www.youtube.com/embed/VOScrKrY2fM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1285965",
-    "type": "movie",
-    "title": "Dangerous Animals",
-    "content": "Australian Spot",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/baAFsaYx5dZvb4g8NyE7iDh8p6q.jpg",
-    "trailerId": "QglGnsd6R0s",
-    "trailerUrl": "https://www.youtube.com/embed/QglGnsd6R0s",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -600,6 +600,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "881366",
+    "type": "movie",
+    "title": "The End",
+    "content": "Official Trailer #2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fnuftuStugg1sbEOeefQKQu7EE6.jpg",
+    "trailerId": "sxhkBd7HXTg",
+    "trailerUrl": "https://www.youtube.com/embed/sxhkBd7HXTg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "950387",
     "type": "movie",
     "title": "A Minecraft Movie",
@@ -653,10 +663,40 @@
     "id": "1278950",
     "type": "movie",
     "title": "The Ritual",
-    "content": "Real Emma Schmidt - This Friday",
+    "content": "In Theaters Today",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/11vyKM09CHxWDjivjl4tldTllzG.jpg",
-    "trailerId": "tDhfPoz-0ZQ",
-    "trailerUrl": "https://www.youtube.com/embed/tDhfPoz-0ZQ",
+    "trailerId": "D689rldUws4",
+    "trailerUrl": "https://www.youtube.com/embed/D689rldUws4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "713364",
+    "type": "movie",
+    "title": "Clown in a Cornfield",
+    "content": "In Cinemas Everywhere FRIDAY",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8FLzVS8AlhyAMSgzcsZukCKG15c.jpg",
+    "trailerId": "edkm08HKzSg",
+    "trailerUrl": "https://www.youtube.com/embed/edkm08HKzSg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1126915",
+    "type": "movie",
+    "title": "Tornado",
+    "content": "this film can't come soon enough",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/a94Wn2XksIELb1vSJSMksu1T5G9.jpg",
+    "trailerId": "OQWJ3ftS8p4",
+    "trailerUrl": "https://www.youtube.com/embed/OQWJ3ftS8p4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1285965",
+    "type": "movie",
+    "title": "Dangerous Animals",
+    "content": "Australian Spot",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/baAFsaYx5dZvb4g8NyE7iDh8p6q.jpg",
+    "trailerId": "QglGnsd6R0s",
+    "trailerUrl": "https://www.youtube.com/embed/QglGnsd6R0s",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -707,16 +747,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uLJhJsLHchuhNoqrfwf5F3Tmpsg.jpg",
     "trailerId": "IkmP1aPiUns",
     "trailerUrl": "https://www.youtube.com/embed/IkmP1aPiUns",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1309962",
-    "type": "movie",
-    "title": "Magic Farm",
-    "content": "A misguided American media team turns to Argentine locals for help in MAGIC FARM",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xpOTsP15Qh3r1TEc8v3FnFGCQfU.jpg",
-    "trailerId": "MpU8jdddCKM",
-    "trailerUrl": "https://www.youtube.com/embed/MpU8jdddCKM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
