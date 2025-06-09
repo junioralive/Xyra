@@ -134,19 +134,9 @@
     "type": "movie",
     "title": "Jurassic World Rebirth",
     "content": "Jurassic World Rebirth roars into theaters in ONE MONTH!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xyAvU9WrfQLCCU2VxLF4t7EMXEF.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iYzeuRxYDxUNaVpfe76m2LsJju1.jpg",
     "trailerId": "3E4DKbPCmQA",
     "trailerUrl": "https://www.youtube.com/embed/3E4DKbPCmQA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "37854",
-    "type": "tv",
-    "title": "One Piece",
-    "content": "Episode 1132 Preview - A Pledge to Finny - Kuma Becomes a Father [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-    "trailerId": "F6yk7nHlXHM",
-    "trailerUrl": "https://www.youtube.com/embed/F6yk7nHlXHM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -190,13 +180,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "241554",
-    "type": "tv",
-    "title": "Murderbot",
-    "content": "The Rise and Fall of Sanctuary Moon Opening Title Sequence",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
-    "trailerId": "MW29FeIcKVU",
-    "trailerUrl": "https://www.youtube.com/embed/MW29FeIcKVU",
+    "id": "822119",
+    "type": "movie",
+    "title": "Captain America: Brave New World",
+    "content": "Now Streaming Only on Disney+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8eifdha9GQeZAkexgtD45546XKx.jpg",
+    "trailerId": "SOwJjV6Y_l0",
+    "trailerUrl": "https://www.youtube.com/embed/SOwJjV6Y_l0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1060046",
+    "type": "movie",
+    "title": "HIT: The Third Case",
+    "content": "HIT: The Third Case | Hindi Trailer | Nani, Srinidhi Shetty | Netflix India",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lRPq7QMrrNvSTKMWyAwMupuWAfr.jpg",
+    "trailerId": "VOScrKrY2fM",
+    "trailerUrl": "https://www.youtube.com/embed/VOScrKrY2fM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -260,23 +260,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "822119",
-    "type": "movie",
-    "title": "Captain America: Brave New World",
-    "content": "Now Streaming Only on Disney+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8eifdha9GQeZAkexgtD45546XKx.jpg",
-    "trailerId": "SOwJjV6Y_l0",
-    "trailerUrl": "https://www.youtube.com/embed/SOwJjV6Y_l0",
+    "id": "213402",
+    "type": "tv",
+    "title": "Campfire Cooking in Another World with My Absurd Skill",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4A74F9J4HBQYDcudi1tyb3Mz0zS.jpg",
+    "trailerId": "yeYZJipfWjk",
+    "trailerUrl": "https://www.youtube.com/embed/yeYZJipfWjk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1060046",
-    "type": "movie",
-    "title": "HIT: The Third Case",
-    "content": "HIT: The Third Case | Hindi Trailer | Nani, Srinidhi Shetty | Netflix India",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lRPq7QMrrNvSTKMWyAwMupuWAfr.jpg",
-    "trailerId": "VOScrKrY2fM",
-    "trailerUrl": "https://www.youtube.com/embed/VOScrKrY2fM",
+    "id": "241554",
+    "type": "tv",
+    "title": "Murderbot",
+    "content": "The Rise and Fall of Sanctuary Moon Opening Title Sequence",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nn9vM29SKN227zupaOOmaJz5SA0.jpg",
+    "trailerId": "MW29FeIcKVU",
+    "trailerUrl": "https://www.youtube.com/embed/MW29FeIcKVU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -357,16 +357,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg",
     "trailerId": "ZG5oMij_26s",
     "trailerUrl": "https://www.youtube.com/embed/ZG5oMij_26s",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "962",
-    "type": "movie",
-    "title": "The Gold Rush",
-    "content": "New 100th Anniversary Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
-    "trailerId": "DJwOpY84Oq4",
-    "trailerUrl": "https://www.youtube.com/embed/DJwOpY84Oq4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -454,7 +444,7 @@
     "type": "tv",
     "title": "Our Unwritten Seoul",
     "content": "Official Clip [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oGhjj5VMz4a4socjv0ODP3cfLke.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m0VuPoWQhbgMjVIwAdZmmHgHQrl.jpg",
     "trailerId": "lsDGSricQ60",
     "trailerUrl": "https://www.youtube.com/embed/lsDGSricQ60",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -587,6 +577,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d5aBTObiUzqGZMohXtQKY4FMGvb.jpg",
     "trailerId": "E5IzKXas1RY",
     "trailerUrl": "https://www.youtube.com/embed/E5IzKXas1RY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "962",
+    "type": "movie",
+    "title": "The Gold Rush",
+    "content": "New 100th Anniversary Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hZHeDPQGNKN9NN9GuW7qVbM2tDx.jpg",
+    "trailerId": "DJwOpY84Oq4",
+    "trailerUrl": "https://www.youtube.com/embed/DJwOpY84Oq4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
