@@ -324,19 +324,19 @@
     "type": "movie",
     "title": "Surviving Ohio State",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cFpZTCRy5x2byXD20nGTInjGKTO.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2UYgT5DXKRnDi7pnWAuu3QAJWxB.jpg",
     "trailerId": "iSP3PUHmCvc",
     "trailerUrl": "https://www.youtube.com/embed/iSP3PUHmCvc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1474447",
-    "type": "movie",
-    "title": "To Barcelona, with Love",
-    "content": "Sneak Peek",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ibkLfCqFHXZsl76F8oupENBdfgi.jpg",
-    "trailerId": "U9bPCJWiSwo",
-    "trailerUrl": "https://www.youtube.com/embed/U9bPCJWiSwo",
+    "id": "250670",
+    "type": "tv",
+    "title": "Maxton Hall - The World Between Us",
+    "content": "S2 Teaser Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hWT0aaKZN5qF1WECiI4fwluiqbQ.jpg",
+    "trailerId": "VaDS1tLN0ck",
+    "trailerUrl": "https://www.youtube.com/embed/VaDS1tLN0ck",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -347,16 +347,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wX3twEPd6RCkQly9JVEkw4a6Qbi.jpg",
     "trailerId": "Er18gmgqy2k",
     "trailerUrl": "https://www.youtube.com/embed/Er18gmgqy2k",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "228658",
-    "type": "tv",
-    "title": "Kerala Crime Files",
-    "content": "Kerala Crime Files Season 2 | Trailer 2 | JioHotstar | June 20",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wkG8OvhFVxzQP79nhUJ1faKJSSB.jpg",
-    "trailerId": "eYuv-NB7xcI",
-    "trailerUrl": "https://www.youtube.com/embed/eYuv-NB7xcI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -447,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lqaT9mIxcVJs9QSUf0hdy0zW68C.jpg",
     "trailerId": "dc7uoFY4Qbg",
     "trailerUrl": "https://www.youtube.com/embed/dc7uoFY4Qbg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "213338",
-    "type": "tv",
-    "title": "The Buccaneers",
-    "content": "Official Season 2 Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iAnNhCoBKUXWoTxgmGYrv2Qc8Dm.jpg",
-    "trailerId": "3p6ZMqvw3XY",
-    "trailerUrl": "https://www.youtube.com/embed/3p6ZMqvw3XY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -607,16 +587,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
     "trailerId": "vFRm6xPDLFc",
     "trailerUrl": "https://www.youtube.com/embed/vFRm6xPDLFc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1239655",
-    "type": "movie",
-    "title": "Friendship",
-    "content": "Second Chance - 15",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
-    "trailerId": "nsp29f9mLnY",
-    "trailerUrl": "https://www.youtube.com/embed/nsp29f9mLnY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
