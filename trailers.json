@@ -110,16 +110,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1035259",
-    "type": "movie",
-    "title": "The Naked Gun",
-    "content": "Beware of the Chili Dog.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6sUDlthpHGCKR9VOiMyE3FbkCA4.jpg",
-    "trailerId": "5H4LaU9puPA",
-    "trailerUrl": "https://www.youtube.com/embed/5H4LaU9puPA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kyBOGOBUMdGWOhzECuosPSzoMpi.jpg",
     "trailerId": "hke5kqaisFI",
     "trailerUrl": "https://www.youtube.com/embed/hke5kqaisFI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1087891",
+    "type": "movie",
+    "title": "The Amateur",
+    "content": "Buy It Now Only On Digital",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6e8Ldi2Wo5W5iF8PEhb1K3dC8TK.jpg",
+    "trailerId": "572dT4184Ag",
+    "trailerUrl": "https://www.youtube.com/embed/572dT4184Ag",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -450,13 +450,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1087891",
+    "id": "1046758",
     "type": "movie",
-    "title": "The Amateur",
-    "content": "Buy It Now Only On Digital",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6e8Ldi2Wo5W5iF8PEhb1K3dC8TK.jpg",
-    "trailerId": "572dT4184Ag",
-    "trailerUrl": "https://www.youtube.com/embed/572dT4184Ag",
+    "title": "Sew Torn",
+    "content": "Available Now on Digital Platforms",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qs7JANX6vjjWkZZIPRT7YD0Ej0j.jpg",
+    "trailerId": "it655-Vk9YY",
+    "trailerUrl": "https://www.youtube.com/embed/it655-Vk9YY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -480,13 +480,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1063307",
+    "id": "1493425",
     "type": "movie",
-    "title": "Pavements",
-    "content": "Official Streaming Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ayQhlLDXyXigLkn1U41oZmDWoPV.jpg",
-    "trailerId": "ui1uCTDHtLo",
-    "trailerUrl": "https://www.youtube.com/embed/ui1uCTDHtLo",
+    "title": "Morgan: Killer Doll",
+    "content": "MORGAN: KILLER DOLL | Official Trailer | The Asylum",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jfSjAU29orZXCDgX8uNInR2GRhK.jpg",
+    "trailerId": "-u-m9wdxBBM",
+    "trailerUrl": "https://www.youtube.com/embed/-u-m9wdxBBM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -527,16 +527,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/elZZLzhDzjRIIkGcIK0FGmZSUaq.jpg",
     "trailerId": "NSPLdUUAl6U",
     "trailerUrl": "https://www.youtube.com/embed/NSPLdUUAl6U",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "26259",
-    "type": "movie",
-    "title": "Come Drink with Me",
-    "content": "Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tZjnowjkAZrGjiWsmOnP8CIGUuz.jpg",
-    "trailerId": "01Xl296CxQE",
-    "trailerUrl": "https://www.youtube.com/embed/01Xl296CxQE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -617,6 +607,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
     "trailerId": "VLgM2AbN6K8",
     "trailerUrl": "https://www.youtube.com/embed/VLgM2AbN6K8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1063307",
+    "type": "movie",
+    "title": "Pavements",
+    "content": "Official Streaming Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ayQhlLDXyXigLkn1U41oZmDWoPV.jpg",
+    "trailerId": "ui1uCTDHtLo",
+    "trailerUrl": "https://www.youtube.com/embed/ui1uCTDHtLo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
