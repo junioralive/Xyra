@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle Movie 1 - Akaza's Revenge",
     "content": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | DUB TRAILER",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sAACHoOdbeFRhIzY8G1wvSOOlCp.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
     "trailerId": "mufPWqFMpmU",
     "trailerUrl": "https://www.youtube.com/embed/mufPWqFMpmU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -64,7 +64,7 @@
     "type": "movie",
     "title": "28 Years Later",
     "content": "VRB Review 20\"",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2y0I6CDIgq0CsFabMPTJOJNg4Eg.jpg",
     "trailerId": "UMIXZbLDXII",
     "trailerUrl": "https://www.youtube.com/embed/UMIXZbLDXII",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -254,7 +254,7 @@
     "type": "tv",
     "title": "Squid Game",
     "content": "Season 3 Final Games Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xYTnihl7qffiLSZ6yLMSpBkPdXC.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6zpqAdAmOktVVcQXhy85Y1oBu5e.jpg",
     "trailerId": "qBBlHpQBH-8",
     "trailerUrl": "https://www.youtube.com/embed/qBBlHpQBH-8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -327,16 +327,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lAV3JxRj3OJpf1YDmChhdmIdadU.jpg",
     "trailerId": "faL_S-7z4_I",
     "trailerUrl": "https://www.youtube.com/embed/faL_S-7z4_I",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "447273",
-    "type": "movie",
-    "title": "Snow White",
-    "content": "Now Streaming On Disney",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
-    "trailerId": "Z_hW8GWX3Uc",
-    "trailerUrl": "https://www.youtube.com/embed/Z_hW8GWX3Uc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -470,16 +460,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "123249",
-    "type": "tv",
-    "title": "My Dress-Up Darling",
-    "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
-    "trailerId": "TPMfqN5Uo4E",
-    "trailerUrl": "https://www.youtube.com/embed/TPMfqN5Uo4E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "28874",
     "type": "movie",
     "title": "Summer Wars",
@@ -537,6 +517,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
     "trailerId": "mI4L-H0TeNI",
     "trailerUrl": "https://www.youtube.com/embed/mI4L-H0TeNI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "447273",
+    "type": "movie",
+    "title": "Snow White",
+    "content": "Now Streaming On Disney",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tyfO9jHgkhypUFizRVYD0bytPjP.jpg",
+    "trailerId": "Z_hW8GWX3Uc",
+    "trailerUrl": "https://www.youtube.com/embed/Z_hW8GWX3Uc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
