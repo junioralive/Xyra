@@ -74,7 +74,7 @@
     "type": "movie",
     "title": "28 Years Later",
     "content": "VRB Review 20\"",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2y0I6CDIgq0CsFabMPTJOJNg4Eg.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
     "trailerId": "UMIXZbLDXII",
     "trailerUrl": "https://www.youtube.com/embed/UMIXZbLDXII",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -104,7 +104,7 @@
     "type": "movie",
     "title": "Smurfs",
     "content": "Absolutely smurfin\u2019 epic",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4fsyGmrZrCq9ndkoMLXrLPyMSpf.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xljG9yc4HRLfK1y7DBgJfvIexE2.jpg",
     "trailerId": "OjHaB78yVl8",
     "trailerUrl": "https://www.youtube.com/embed/OjHaB78yVl8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -160,6 +160,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1035259",
+    "type": "movie",
+    "title": "The Naked Gun",
+    "content": "Beware of the Chili Dog.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6sUDlthpHGCKR9VOiMyE3FbkCA4.jpg",
+    "trailerId": "5H4LaU9puPA",
+    "trailerUrl": "https://www.youtube.com/embed/5H4LaU9puPA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
     "trailerId": "7rs_HhSA7XY",
     "trailerUrl": "https://www.youtube.com/embed/7rs_HhSA7XY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1083433",
-    "type": "movie",
-    "title": "I Know What You Did Last Summer",
-    "content": "New Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
-    "trailerId": "IceTkSOSNJI",
-    "trailerUrl": "https://www.youtube.com/embed/IceTkSOSNJI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -500,16 +500,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1046758",
-    "type": "movie",
-    "title": "Sew Torn",
-    "content": "Available Now on Digital Platforms",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qs7JANX6vjjWkZZIPRT7YD0Ej0j.jpg",
-    "trailerId": "it655-Vk9YY",
-    "trailerUrl": "https://www.youtube.com/embed/it655-Vk9YY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "541671",
     "type": "movie",
     "title": "Ballerina",
@@ -527,6 +517,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
     "trailerId": "mI4L-H0TeNI",
     "trailerUrl": "https://www.youtube.com/embed/mI4L-H0TeNI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1493425",
+    "type": "movie",
+    "title": "Morgan: Killer Doll",
+    "content": "MORGAN: KILLER DOLL | Official Trailer | The Asylum",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jfSjAU29orZXCDgX8uNInR2GRhK.jpg",
+    "trailerId": "-u-m9wdxBBM",
+    "trailerUrl": "https://www.youtube.com/embed/-u-m9wdxBBM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
