@@ -54,7 +54,7 @@
     "type": "movie",
     "title": "F1 The Movie",
     "content": "Lights out and away we go!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lSbblLngbeZIn6G4WXDcyQ6SLhw.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
     "trailerId": "xGg8rWNkgUs",
     "trailerUrl": "https://www.youtube.com/embed/xGg8rWNkgUs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -104,7 +104,7 @@
     "type": "movie",
     "title": "Smurfs",
     "content": "Absolutely smurfin\u2019 epic",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xljG9yc4HRLfK1y7DBgJfvIexE2.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/t4xcdwNTmoJFVHfw9vHSChRphXO.jpg",
     "trailerId": "OjHaB78yVl8",
     "trailerUrl": "https://www.youtube.com/embed/OjHaB78yVl8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -150,16 +150,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "81723",
-    "type": "tv",
-    "title": "The Gilded Age",
-    "content": "Season 3 Weeks Ahead Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
-    "trailerId": "xT0IAKqCxjw",
-    "trailerUrl": "https://www.youtube.com/embed/xT0IAKqCxjw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1035259",
     "type": "movie",
     "title": "The Naked Gun",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
     "trailerId": "7rs_HhSA7XY",
     "trailerUrl": "https://www.youtube.com/embed/7rs_HhSA7XY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1083433",
+    "type": "movie",
+    "title": "I Know What You Did Last Summer",
+    "content": "New Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/djkxDBzBEL3xShrtpJP17L8V2U3.jpg",
+    "trailerId": "IceTkSOSNJI",
+    "trailerUrl": "https://www.youtube.com/embed/IceTkSOSNJI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -240,6 +240,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "211684",
+    "type": "tv",
+    "title": "The Walking Dead: Daryl Dixon",
+    "content": "Season 3 Tease",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uh74RN8lCY2JyZnbjoCoxzJo6a1.jpg",
+    "trailerId": "xagvgWv4n2k",
+    "trailerUrl": "https://www.youtube.com/embed/xagvgWv4n2k",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "215995",
     "type": "tv",
     "title": "Smoke",
@@ -274,7 +284,7 @@
     "type": "tv",
     "title": "Squid Game",
     "content": "Season 3 Final Games Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6zpqAdAmOktVVcQXhy85Y1oBu5e.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oaGvjB0DvdhXhOAuADfHb261ZHa.jpg",
     "trailerId": "qBBlHpQBH-8",
     "trailerUrl": "https://www.youtube.com/embed/qBBlHpQBH-8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -367,6 +377,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/de6iC707SwuMsE3y2fo5OHCOsvj.jpg",
     "trailerId": "E9jL_0OHiXA",
     "trailerUrl": "https://www.youtube.com/embed/E9jL_0OHiXA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "81723",
+    "type": "tv",
+    "title": "The Gilded Age",
+    "content": "Season 3 Weeks Ahead Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jPcQlhoJ3LrOfKwCvGD58P8rC5b.jpg",
+    "trailerId": "xT0IAKqCxjw",
+    "trailerUrl": "https://www.youtube.com/embed/xT0IAKqCxjw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
