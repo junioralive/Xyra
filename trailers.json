@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "Jaws",
     "content": "50th Anniversary | Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bW6GHF3Yg9fSsJGlRVHXlGY8vaM.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
     "trailerId": "N9hzLQUGr34",
     "trailerUrl": "https://www.youtube.com/embed/N9hzLQUGr34",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -210,6 +210,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "12149",
+    "type": "movie",
+    "title": "Frailty",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hNAkoHuXFUsCHakxMlMsbaflKLN.jpg",
+    "trailerId": "HUfNR_7YxQE",
+    "trailerUrl": "https://www.youtube.com/embed/HUfNR_7YxQE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "20196",
+    "type": "movie",
+    "title": "Mac and Me",
+    "content": "4K UHD + Blu-ray Promo Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2shhKQsnL4DxZvY3m5PkAHnPOLf.jpg",
+    "trailerId": "XjY35XqjVZ8",
+    "trailerUrl": "https://www.youtube.com/embed/XjY35XqjVZ8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "7341",
     "type": "movie",
     "title": "The Rage: Carrie 2",
@@ -217,16 +237,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/AiswLMQwcqzg5aGgOnNwHczA56v.jpg",
     "trailerId": "0dhGX76FhLE",
     "trailerUrl": "https://www.youtube.com/embed/0dhGX76FhLE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "6948",
-    "type": "movie",
-    "title": "The Woods",
-    "content": "Original Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8IuDDi2bNu2at9zU7765gfHBMjE.jpg",
-    "trailerId": "aZckcy6kClQ",
-    "trailerUrl": "https://www.youtube.com/embed/aZckcy6kClQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -274,7 +284,7 @@
     "type": "tv",
     "title": "The Sandman",
     "content": "Meet The Endless - Season 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wX3twEPd6RCkQly9JVEkw4a6Qbi.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg",
     "trailerId": "X-ZxVFtFYfA",
     "trailerUrl": "https://www.youtube.com/embed/X-ZxVFtFYfA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -350,16 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "950387",
-    "type": "movie",
-    "title": "A Minecraft Movie",
-    "content": "Official American Sign Language Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-    "trailerId": "aSh_L6bvaCQ",
-    "trailerUrl": "https://www.youtube.com/embed/aSh_L6bvaCQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "95269",
     "type": "tv",
     "title": "Toilet-Bound Hanako-kun",
@@ -410,13 +410,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "210249",
+    "id": "212766",
     "type": "tv",
-    "title": "Digman!",
-    "content": "Season 2 Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7v2qFq2wwHqZMrV9wphG5aSzI6X.jpg",
-    "trailerId": "KlIGCms7nHI",
-    "trailerUrl": "https://www.youtube.com/embed/KlIGCms7nHI",
+    "title": "New Saga",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
+    "trailerId": "BaomnapVQ-0",
+    "trailerUrl": "https://www.youtube.com/embed/BaomnapVQ-0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -480,13 +480,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1498",
+    "id": "3175",
     "type": "movie",
-    "title": "Teenage Mutant Ninja Turtles",
-    "content": "35th Anniversary Spot",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6teOJJUV5IGaX7ucJv2ONoGGf4e.jpg",
-    "trailerId": "JdPoKIK2WLs",
-    "trailerUrl": "https://www.youtube.com/embed/JdPoKIK2WLs",
+    "title": "Barry Lyndon",
+    "content": "50th Anniversary 4K Restoration | Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/okdg55jhsr9k1F2lxsZoQncrLZL.jpg",
+    "trailerId": "JH8j_1dUlUU",
+    "trailerUrl": "https://www.youtube.com/embed/JH8j_1dUlUU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -497,6 +497,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3ExQ28MVRaBbJFI2br5NjLyXVO1.jpg",
     "trailerId": "X9gsY0g3yVU",
     "trailerUrl": "https://www.youtube.com/embed/X9gsY0g3yVU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1204660",
+    "type": "movie",
+    "title": "The Twin",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fXQCJWVAsyzrPimFLe1o8yFIEpM.jpg",
+    "trailerId": "UcG2I1Yql0I",
+    "trailerUrl": "https://www.youtube.com/embed/UcG2I1Yql0I",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -520,6 +530,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "950387",
+    "type": "movie",
+    "title": "A Minecraft Movie",
+    "content": "Official American Sign Language Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+    "trailerId": "aSh_L6bvaCQ",
+    "trailerUrl": "https://www.youtube.com/embed/aSh_L6bvaCQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "541671",
     "type": "movie",
     "title": "Ballerina",
@@ -527,16 +547,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sItIskd5xpiE64bBWYwZintkGf3.jpg",
     "trailerId": "Oqo_Vqt8vBE",
     "trailerUrl": "https://www.youtube.com/embed/Oqo_Vqt8vBE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "77174",
-    "type": "movie",
-    "title": "ParaNorman",
-    "content": "Re-Release Teaser Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cXPOtGdWhx9MNMOOQCIFjnKBPoi.jpg",
-    "trailerId": "mI4L-H0TeNI",
-    "trailerUrl": "https://www.youtube.com/embed/mI4L-H0TeNI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
