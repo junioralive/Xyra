@@ -354,19 +354,19 @@
     "type": "tv",
     "title": "King of the Hill",
     "content": "S14 - Father's Day",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cvKH046dBo3wvfULb6O6vxI94DW.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/A1xO9Y3k5v0k0fyi9rcyan6HiS2.jpg",
     "trailerId": "d5Gbms79WpE",
     "trailerUrl": "https://www.youtube.com/embed/d5Gbms79WpE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "95269",
+    "id": "86031",
     "type": "tv",
-    "title": "Toilet-Bound Hanako-kun",
-    "content": "Season 2 Part 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ifJacgrENUweJF5Kq8h2NYfShzd.jpg",
-    "trailerId": "68zaWiQFVTM",
-    "trailerUrl": "https://www.youtube.com/embed/68zaWiQFVTM",
+    "title": "Dr. STONE",
+    "content": "SCIENCE FUTURE Part 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+    "trailerId": "W5VvkyJ7XB0",
+    "trailerUrl": "https://www.youtube.com/embed/W5VvkyJ7XB0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -397,6 +397,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rvxt9lJbJziXPr4XcAZgDVRbAu8.jpg",
     "trailerId": "rQ119Lo7aF8",
     "trailerUrl": "https://www.youtube.com/embed/rQ119Lo7aF8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "262377",
+    "type": "tv",
+    "title": "Detectives These Days Are Crazy!",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ezCNm0v2BBgZxUbKqOFjK4e0qbr.jpg",
+    "trailerId": "joAkZeNg9Qk",
+    "trailerUrl": "https://www.youtube.com/embed/joAkZeNg9Qk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -444,7 +454,7 @@
     "type": "tv",
     "title": "Dan Da Dan",
     "content": "Season One - Out Now on Blu-ray",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jlbUx0aHJupDVDlCo0R7UxSaUUd.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
     "trailerId": "aJFe9-2YjZU",
     "trailerUrl": "https://www.youtube.com/embed/aJFe9-2YjZU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -500,13 +510,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1498",
+    "id": "1086548",
     "type": "movie",
-    "title": "Teenage Mutant Ninja Turtles",
-    "content": "35th Anniversary Spot",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6teOJJUV5IGaX7ucJv2ONoGGf4e.jpg",
-    "trailerId": "JdPoKIK2WLs",
-    "trailerUrl": "https://www.youtube.com/embed/JdPoKIK2WLs",
+    "title": "Vera and the Pleasure of Others",
+    "content": "Trailer [Dubbed]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iWb6Kj2qDLPXut8JEvZb2xfwILH.jpg",
+    "trailerId": "fso8Duq2Y3Q",
+    "trailerUrl": "https://www.youtube.com/embed/fso8Duq2Y3Q",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
