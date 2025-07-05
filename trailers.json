@@ -63,7 +63,7 @@
     "id": "578",
     "type": "movie",
     "title": "Jaws",
-    "content": "50th Anniversary | Official Trailer",
+    "content": "50th Anniversary Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3nYlM34QhzdtAvWRV5bN4nLtnTc.jpg",
     "trailerId": "N9hzLQUGr34",
     "trailerUrl": "https://www.youtube.com/embed/N9hzLQUGr34",
@@ -270,6 +270,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "127235",
+    "type": "tv",
+    "title": "Invasion",
+    "content": "Season 3 Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
+    "trailerId": "wEMZAtjXNPo",
+    "trailerUrl": "https://www.youtube.com/embed/wEMZAtjXNPo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "7341",
     "type": "movie",
     "title": "The Rage: Carrie 2",
@@ -350,26 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "90802",
-    "type": "tv",
-    "title": "The Sandman",
-    "content": "Meet The Endless - Season 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg",
-    "trailerId": "X-ZxVFtFYfA",
-    "trailerUrl": "https://www.youtube.com/embed/X-ZxVFtFYfA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "86031",
-    "type": "tv",
-    "title": "Dr. STONE",
-    "content": "SCIENCE FUTURE Part 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
-    "trailerId": "W5VvkyJ7XB0",
-    "trailerUrl": "https://www.youtube.com/embed/W5VvkyJ7XB0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "83095",
     "type": "tv",
     "title": "The Rising of the Shield Hero",
@@ -377,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/de6iC707SwuMsE3y2fo5OHCOsvj.jpg",
     "trailerId": "E9jL_0OHiXA",
     "trailerUrl": "https://www.youtube.com/embed/E9jL_0OHiXA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "239614",
-    "type": "tv",
-    "title": "Such Brave Girls",
-    "content": "Season 2 Official Hulu Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/crXtVaUWKDd2CihDmKGD6dUyMAV.jpg",
-    "trailerId": "Ge4j7Mkt0ew",
-    "trailerUrl": "https://www.youtube.com/embed/Ge4j7Mkt0ew",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -407,6 +387,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xkPGtcMNg7mr1pS8O8FkqaSSGHg.jpg",
     "trailerId": "x_lyzvuPOSs",
     "trailerUrl": "https://www.youtube.com/embed/x_lyzvuPOSs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "286723",
+    "type": "tv",
+    "title": "Welcome to the Outcast's Restaurant!",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/npitfwFysLOv93fypQrgWC7Y2tz.jpg",
+    "trailerId": "wDgtDL2y9NM",
+    "trailerUrl": "https://www.youtube.com/embed/wDgtDL2y9NM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -477,6 +467,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/svdtJsa1ZhZ31zcc5XGEMbbI52j.jpg",
     "trailerId": "u8KPF8H3TAI",
     "trailerUrl": "https://www.youtube.com/embed/u8KPF8H3TAI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "281615",
+    "type": "tv",
+    "title": "The Water Magician",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uwWE59oPx5ph8qVJzr8mbzD60CA.jpg",
+    "trailerId": "vQWodcG5x-I",
+    "trailerUrl": "https://www.youtube.com/embed/vQWodcG5x-I",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -564,7 +564,7 @@
     "type": "movie",
     "title": "The Ritual",
     "content": ":15 Trailer On Digital",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/11vyKM09CHxWDjivjl4tldTllzG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3v1WIfoNIWqXXgLtnbplsddet9j.jpg",
     "trailerId": "KKSbP1DN7Kg",
     "trailerUrl": "https://www.youtube.com/embed/KKSbP1DN7Kg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -584,7 +584,7 @@
     "type": "movie",
     "title": "Tornado",
     "content": "you won't be forgetting K\u014dki's name",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m5cEOU92PWdRnATVG3kEpzzwklo.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wKVHfpDFlD5jYWbpptTQdKnr3mO.jpg",
     "trailerId": "LWqBpXIF3i0",
     "trailerUrl": "https://www.youtube.com/embed/LWqBpXIF3i0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
