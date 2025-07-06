@@ -162,7 +162,7 @@
   {
     "id": "1042834",
     "type": "movie",
-    "title": "Eden",
+    "title": "\u0415den",
     "content": "Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg",
     "trailerId": "EVSyZQ7S8hc",
@@ -197,6 +197,26 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/962KXsr09uK8wrmUg9TjzmE7c4e.jpg",
     "trailerId": "K6lJh9ADfbQ",
     "trailerUrl": "https://www.youtube.com/embed/K6lJh9ADfbQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "65942",
+    "type": "tv",
+    "title": "Re:ZERO -Starting Life in Another World-",
+    "content": "Season 4 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
+    "trailerId": "7Do1apLKbko",
+    "trailerUrl": "https://www.youtube.com/embed/7Do1apLKbko",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "94664",
+    "type": "tv",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "content": "Season 3 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "trailerId": "M-3YqJA6UlM",
+    "trailerUrl": "https://www.youtube.com/embed/M-3YqJA6UlM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -260,16 +280,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "127235",
-    "type": "tv",
-    "title": "Invasion",
-    "content": "Season 3 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
-    "trailerId": "wEMZAtjXNPo",
-    "trailerUrl": "https://www.youtube.com/embed/wEMZAtjXNPo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "7341",
     "type": "movie",
     "title": "The Rage: Carrie 2",
@@ -327,16 +337,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n4GJFGzsc7NinI1VeGDXIcQjtU2.jpg",
     "trailerId": "rc3QleuaQMw",
     "trailerUrl": "https://www.youtube.com/embed/rc3QleuaQMw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "7219",
-    "type": "movie",
-    "title": "Zombie Flesh Eaters",
-    "content": "Official Trailer [Dubbed]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/velHX5SWHVlEDRRljtxSi6YbSju.jpg",
-    "trailerId": "JnDFVqNl2Mw",
-    "trailerUrl": "https://www.youtube.com/embed/JnDFVqNl2Mw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -637,6 +637,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gIwG9UWJLsiSBfaG5GJWGj9ghXD.jpg",
     "trailerId": "weKcp1V0vuE",
     "trailerUrl": "https://www.youtube.com/embed/weKcp1V0vuE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1061474",
+    "type": "movie",
+    "title": "Superman",
+    "content": "Strength",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g62G6aBcAcJv3ClCKmJgmHarHvq.jpg",
+    "trailerId": "edONI3oR8CM",
+    "trailerUrl": "https://www.youtube.com/embed/edONI3oR8CM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
