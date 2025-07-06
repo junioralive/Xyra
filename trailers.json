@@ -74,7 +74,7 @@
     "type": "movie",
     "title": "Thunderbolts*",
     "content": "Buy It Now on Digital",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wSdWEc1G3OUWg8HAzNLqOZ9Gd43.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
     "trailerId": "mbCDMwmiGng",
     "trailerUrl": "https://www.youtube.com/embed/mbCDMwmiGng",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -153,7 +153,7 @@
     "id": "1042834",
     "type": "movie",
     "title": "Eden",
-    "content": "Official Teaser",
+    "content": "Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/umDuQDCGrAFRkGqNEcKv5ap5d7p.jpg",
     "trailerId": "EVSyZQ7S8hc",
     "trailerUrl": "https://www.youtube.com/embed/EVSyZQ7S8hc",
@@ -400,6 +400,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "262377",
+    "type": "tv",
+    "title": "Detectives These Days Are Crazy!",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ezCNm0v2BBgZxUbKqOFjK4e0qbr.jpg",
+    "trailerId": "joAkZeNg9Qk",
+    "trailerUrl": "https://www.youtube.com/embed/joAkZeNg9Qk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "284445",
     "type": "tv",
     "title": "Takopi's Original Sin",
@@ -507,16 +517,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gBdiLRV3OZLfpsLHTsYKzPMFe5q.jpg",
     "trailerId": "ADOXP6jWuKs",
     "trailerUrl": "https://www.youtube.com/embed/ADOXP6jWuKs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "103516",
-    "type": "tv",
-    "title": "Star Trek: Strange New Worlds",
-    "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/627K48naKH2Y3Rz47Ydra4qktdI.jpg",
-    "trailerId": "cwqPH7UhKYI",
-    "trailerUrl": "https://www.youtube.com/embed/cwqPH7UhKYI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
