@@ -414,7 +414,7 @@
     "type": "tv",
     "title": "Takopi's Original Sin",
     "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cdwldPawuTyVLJCzPfy2ZEXFAy8.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6omimfVty4JD3LXzI5LHEGhXjwn.jpg",
     "trailerId": "j7dxZjwIhu0",
     "trailerUrl": "https://www.youtube.com/embed/j7dxZjwIhu0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -534,7 +534,7 @@
     "type": "movie",
     "title": "The Ritual",
     "content": ":15 Trailer On Digital",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3v1WIfoNIWqXXgLtnbplsddet9j.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yAqL0makiGke5yYiVWpmBDSKIVP.jpg",
     "trailerId": "KKSbP1DN7Kg",
     "trailerUrl": "https://www.youtube.com/embed/KKSbP1DN7Kg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -660,6 +660,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1130022",
+    "type": "movie",
+    "title": "Sovereign",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ml9WFOTF3liDw3gfbCJ9c1c4DW9.jpg",
+    "trailerId": "_T4JHPowGbg",
+    "trailerUrl": "https://www.youtube.com/embed/_T4JHPowGbg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1022787",
     "type": "movie",
     "title": "Elio",
@@ -667,6 +677,26 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mBDoBHUZHHy9WG7dRFndjB8adhc.jpg",
     "trailerId": "ka-r6G4wII4",
     "trailerUrl": "https://www.youtube.com/embed/ka-r6G4wII4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1061474",
+    "type": "movie",
+    "title": "Superman",
+    "content": "Strength",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "trailerId": "edONI3oR8CM",
+    "trailerUrl": "https://www.youtube.com/embed/edONI3oR8CM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1338799",
+    "type": "movie",
+    "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
+    "content": "Official English Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
+    "trailerId": "A0p4XMdWvm8",
+    "trailerUrl": "https://www.youtube.com/embed/A0p4XMdWvm8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
