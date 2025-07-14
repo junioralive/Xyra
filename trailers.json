@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "The Fantastic Four: First Steps",
     "content": "Girlfriend",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4b2mLlMMaMcZhvNvmPgwaFqme8Y.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
     "trailerId": "tWvG4-QARUY",
     "trailerUrl": "https://www.youtube.com/embed/tWvG4-QARUY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -120,21 +120,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1242011",
-    "type": "movie",
-    "title": "Together",
-    "content": "Official Photo Album Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/70eJ2fuUFFYjMmkF2b2m5iVb503.jpg",
-    "trailerId": "tST7O8Fq_Vo",
-    "trailerUrl": "https://www.youtube.com/embed/tST7O8Fq_Vo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1175942",
     "type": "movie",
     "title": "The Bad Guys 2",
     "content": "Get Tickets",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qra80oA1Aw1KXj1JS46GLK4m3eE.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
     "trailerId": "2UoS8DeGyTI",
     "trailerUrl": "https://www.youtube.com/embed/2UoS8DeGyTI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -200,6 +190,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1061474",
+    "type": "movie",
+    "title": "Superman",
+    "content": "Now that's a SuperMAN!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "trailerId": "LLnAWM-4WTI",
+    "trailerUrl": "https://www.youtube.com/embed/LLnAWM-4WTI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "81723",
     "type": "tv",
     "title": "The Gilded Age",
@@ -227,16 +227,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fQsIJQxE1D0Y0NpWSKwo489y5px.jpg",
     "trailerId": "eiATK7lur-4",
     "trailerUrl": "https://www.youtube.com/embed/eiATK7lur-4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "207332",
-    "type": "tv",
-    "title": "SAKAMOTO DAYS",
-    "content": "Part 2 Global Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
-    "trailerId": "-gmCvxwqcsw",
-    "trailerUrl": "https://www.youtube.com/embed/-gmCvxwqcsw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,6 +330,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "429",
+    "type": "movie",
+    "title": "The Good, the Bad and the Ugly",
+    "content": "Official Sizzle",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+    "trailerId": "WCnRSl24FPA",
+    "trailerUrl": "https://www.youtube.com/embed/WCnRSl24FPA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "207332",
+    "type": "tv",
+    "title": "SAKAMOTO DAYS",
+    "content": "Part 2 Global Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+    "trailerId": "-gmCvxwqcsw",
+    "trailerUrl": "https://www.youtube.com/embed/-gmCvxwqcsw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "133727",
     "type": "tv",
     "title": "Acapulco",
@@ -350,13 +360,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "66636",
+    "id": "71785",
     "type": "tv",
-    "title": "Love Island",
-    "content": "Season 12 Official Hulu Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c0uMATfJX9sHujAEK4MXQMsgKZU.jpg",
-    "trailerId": "0bztrFjI7no",
-    "trailerUrl": "https://www.youtube.com/embed/0bztrFjI7no",
+    "title": "Mr. Osomatsu",
+    "content": "Season 4 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kdTRIa25We8UDRNuBC9fhXRlHGY.jpg",
+    "trailerId": "L-OVMdfGBdY",
+    "trailerUrl": "https://www.youtube.com/embed/L-OVMdfGBdY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -450,13 +460,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "212766",
+    "id": "280038",
     "type": "tv",
-    "title": "New Saga",
+    "title": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
     "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
-    "trailerId": "BaomnapVQ-0",
-    "trailerUrl": "https://www.youtube.com/embed/BaomnapVQ-0",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/drINdRuh71M8MpoPWcxwpP9yDEU.jpg",
+    "trailerId": "OTL_4Fxwwtw",
+    "trailerUrl": "https://www.youtube.com/embed/OTL_4Fxwwtw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -497,16 +507,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rcY15o06DwI8Agt9lh6i5Ruv6QJ.jpg",
     "trailerId": "X19rPM4_ZfA",
     "trailerUrl": "https://www.youtube.com/embed/X19rPM4_ZfA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "429",
-    "type": "movie",
-    "title": "The Good, the Bad and the Ugly",
-    "content": "Official Sizzle",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
-    "trailerId": "WCnRSl24FPA",
-    "trailerUrl": "https://www.youtube.com/embed/WCnRSl24FPA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -667,16 +667,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
     "trailerId": "HgiEya5fjWo",
     "trailerUrl": "https://www.youtube.com/embed/HgiEya5fjWo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1061474",
-    "type": "movie",
-    "title": "Superman",
-    "content": "Now that's a SuperMAN!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
-    "trailerId": "LLnAWM-4WTI",
-    "trailerUrl": "https://www.youtube.com/embed/LLnAWM-4WTI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
