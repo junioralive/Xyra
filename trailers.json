@@ -130,16 +130,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "278196",
-    "type": "tv",
-    "title": "The Summer Hikaru Died",
-    "content": "Episode 2: Suspicion is out now!! [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jclmJcyV8twDtTtSNJiMVAg6Xyv.jpg",
-    "trailerId": "JZdU0tOaEr4",
-    "trailerUrl": "https://www.youtube.com/embed/JZdU0tOaEr4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1087891",
     "type": "movie",
     "title": "The Amateur",
@@ -197,6 +187,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg",
     "trailerId": "5MeWftNObgs",
     "trailerUrl": "https://www.youtube.com/embed/5MeWftNObgs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "911430",
+    "type": "movie",
+    "title": "F1",
+    "content": "Built for the track. Built for \u200b\u2060IMAX. Don\u2019t miss the #1 Movie in the World.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
+    "trailerId": "f7KR09_ZfKc",
+    "trailerUrl": "https://www.youtube.com/embed/f7KR09_ZfKc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,16 +340,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "66636",
-    "type": "tv",
-    "title": "Love Island",
-    "content": "Season 12 Official Hulu Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c0uMATfJX9sHujAEK4MXQMsgKZU.jpg",
-    "trailerId": "0bztrFjI7no",
-    "trailerUrl": "https://www.youtube.com/embed/0bztrFjI7no",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "71785",
     "type": "tv",
     "title": "Mr. Osomatsu",
@@ -457,6 +447,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/drINdRuh71M8MpoPWcxwpP9yDEU.jpg",
     "trailerId": "OTL_4Fxwwtw",
     "trailerUrl": "https://www.youtube.com/embed/OTL_4Fxwwtw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "212766",
+    "type": "tv",
+    "title": "New Saga",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u9p6IIYllP8gwZB2URx08jIYdvZ.jpg",
+    "trailerId": "BaomnapVQ-0",
+    "trailerUrl": "https://www.youtube.com/embed/BaomnapVQ-0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -640,13 +640,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "911430",
+    "id": "648878",
     "type": "movie",
-    "title": "F1",
-    "content": "Built for the track. Built for \u200b\u2060IMAX. Don\u2019t miss the #1 Movie in the World.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lkDYN0whyE82mcM20rwtwjbniKF.jpg",
-    "trailerId": "f7KR09_ZfKc",
-    "trailerUrl": "https://www.youtube.com/embed/f7KR09_ZfKc",
+    "title": "Eddington",
+    "content": "Louise Cross",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/znr3SYHph3FtTLpcFTeuMAAJ5mP.jpg",
+    "trailerId": "HOpYtPXCgx4",
+    "trailerUrl": "https://www.youtube.com/embed/HOpYtPXCgx4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
