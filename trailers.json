@@ -1,5 +1,15 @@
 [
   {
+    "id": "1035259",
+    "type": "movie",
+    "title": "The Naked Gun",
+    "content": "The New Version",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g5BaB7tcZufpVBFN9E21kfILFeq.jpg",
+    "trailerId": "N178SO519JM",
+    "trailerUrl": "https://www.youtube.com/embed/N178SO519JM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "617126",
     "type": "movie",
     "title": "The Fantastic Four: First Steps",
@@ -17,16 +27,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kCYzOl4OGIXNasu93sUn20kpOdm.jpg",
     "trailerId": "DoLWJY55RjI",
     "trailerUrl": "https://www.youtube.com/embed/DoLWJY55RjI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1035259",
-    "type": "movie",
-    "title": "The Naked Gun",
-    "content": "Dads",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g5BaB7tcZufpVBFN9E21kfILFeq.jpg",
-    "trailerId": "xcW9amQTNEk",
-    "trailerUrl": "https://www.youtube.com/embed/xcW9amQTNEk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "type": "movie",
     "title": "Black Swan",
     "content": "Official IMAX Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
     "trailerId": "2Pxc_5f27Kg",
     "trailerUrl": "https://www.youtube.com/embed/2Pxc_5f27Kg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
