@@ -320,6 +320,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "112211",
+    "type": "tv",
+    "title": "Platonic",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+    "trailerId": "oNSs2vZQlGg",
+    "trailerUrl": "https://www.youtube.com/embed/oNSs2vZQlGg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "280100",
     "type": "tv",
     "title": "ABO Desire",
@@ -397,16 +407,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
     "trailerId": "W5VvkyJ7XB0",
     "trailerUrl": "https://www.youtube.com/embed/W5VvkyJ7XB0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "272556",
-    "type": "tv",
-    "title": "Dealing with Mikadono Sisters Is a Breeze",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yxCKl8PUUDmy0CTbWqBxfhHYRG6.jpg",
-    "trailerId": "SnnMTDSnnbY",
-    "trailerUrl": "https://www.youtube.com/embed/SnnMTDSnnbY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
