@@ -1,10 +1,20 @@
 [
   {
+    "id": "980477",
+    "type": "movie",
+    "title": "Ne Zha 2",
+    "content": "Ne Zha 2 | Official Trailer HD | A24",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+    "trailerId": "ETlOSBR92Fs",
+    "trailerUrl": "https://www.youtube.com/embed/ETlOSBR92Fs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1242898",
     "type": "movie",
     "title": "Predator: Badlands",
     "content": "New Trailer Online Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jqmcJHbIzCDuSclT31H8sttQiaM.jpg",
     "trailerId": "m3yWqsfstmg",
     "trailerUrl": "https://www.youtube.com/embed/m3yWqsfstmg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -150,16 +160,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "44214",
-    "type": "movie",
-    "title": "Black Swan",
-    "content": "Official IMAX Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
-    "trailerId": "2Pxc_5f27Kg",
-    "trailerUrl": "https://www.youtube.com/embed/2Pxc_5f27Kg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "66732",
     "type": "tv",
     "title": "Stranger Things",
@@ -207,6 +207,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
     "trailerId": "5lX-6qixxmY",
     "trailerUrl": "https://www.youtube.com/embed/5lX-6qixxmY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "44214",
+    "type": "movie",
+    "title": "Black Swan",
+    "content": "Official IMAX Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
+    "trailerId": "2Pxc_5f27Kg",
+    "trailerUrl": "https://www.youtube.com/embed/2Pxc_5f27Kg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -290,16 +300,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "643",
-    "type": "movie",
-    "title": "Battleship Potemkin",
-    "content": "2025 UK Re-release Trailer | Music by Pet Shop Boys",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7co64HQ4XDx9s2pITpe9xW8NfTR.jpg",
-    "trailerId": "VC66LgoOlCs",
-    "trailerUrl": "https://www.youtube.com/embed/VC66LgoOlCs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "90282",
     "type": "tv",
     "title": "The Morning Show",
@@ -317,6 +317,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "03u4xyj0TH4",
     "trailerUrl": "https://www.youtube.com/embed/03u4xyj0TH4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1510725",
+    "type": "movie",
+    "title": "Zarna Garg: Practical People Win",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tCFW4YpdDwipNZtkvhzAnrOZze6.jpg",
+    "trailerId": "bKtalPiDPCU",
+    "trailerUrl": "https://www.youtube.com/embed/bKtalPiDPCU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -627,16 +637,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hniP6c6Tss51qKc5vYMycDBDf9P.jpg",
     "trailerId": "ByVgQEZkasw",
     "trailerUrl": "https://www.youtube.com/embed/ByVgQEZkasw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "648878",
-    "type": "movie",
-    "title": "Eddington",
-    "content": "Louise Cross",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y1LSnnLu4fPMHDEv0FbybDKtxWD.jpg",
-    "trailerId": "HOpYtPXCgx4",
-    "trailerUrl": "https://www.youtube.com/embed/HOpYtPXCgx4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
