@@ -54,7 +54,7 @@
     "type": "movie",
     "title": "Weapons",
     "content": "Do you have any leads?",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kCYzOl4OGIXNasu93sUn20kpOdm.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kyqM6padQzZ1eYxv84i9smNvZAG.jpg",
     "trailerId": "DoLWJY55RjI",
     "trailerUrl": "https://www.youtube.com/embed/DoLWJY55RjI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -87,6 +87,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
     "trailerId": "DQDGiv6iY3I",
     "trailerUrl": "https://www.youtube.com/embed/DQDGiv6iY3I",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1007734",
+    "type": "movie",
+    "title": "Nobody 2",
+    "content": "Get Tickets",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wO15XEgeLbeijtf3MQAUqWCxSxc.jpg",
+    "trailerId": "UGOvEad8qd4",
+    "trailerUrl": "https://www.youtube.com/embed/UGOvEad8qd4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -174,7 +184,7 @@
     "type": "movie",
     "title": "Superman",
     "content": "Everybody\u2019s talking about the summer of Superman.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
     "trailerId": "55QuFyVALSo",
     "trailerUrl": "https://www.youtube.com/embed/55QuFyVALSo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cEQMqB3ahd4mfeUN6VGC0ouVnZZ.jpg",
     "trailerId": "2LXgbz8lCWc",
     "trailerUrl": "https://www.youtube.com/embed/2LXgbz8lCWc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1087192",
-    "type": "movie",
-    "title": "How to Train Your Dragon",
-    "content": "Watch At Home Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/etT14XfDEqhQZdD47ywpyihXPyW.jpg",
-    "trailerId": "kby-mkUTu58",
-    "trailerUrl": "https://www.youtube.com/embed/kby-mkUTu58",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -300,6 +300,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "643",
+    "type": "movie",
+    "title": "Battleship Potemkin",
+    "content": "2025 UK Re-release Trailer | Music by Pet Shop Boys",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7co64HQ4XDx9s2pITpe9xW8NfTR.jpg",
+    "trailerId": "VC66LgoOlCs",
+    "trailerUrl": "https://www.youtube.com/embed/VC66LgoOlCs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "90282",
     "type": "tv",
     "title": "The Morning Show",
@@ -350,16 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "90802",
-    "type": "tv",
-    "title": "The Sandman",
-    "content": "Season 2 Volume 2 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/24tNHi5UJHATn61FTo9QiyQzbMH.jpg",
-    "trailerId": "5MeWftNObgs",
-    "trailerUrl": "https://www.youtube.com/embed/5MeWftNObgs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "112211",
     "type": "tv",
     "title": "Platonic",
@@ -407,6 +407,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c0uMATfJX9sHujAEK4MXQMsgKZU.jpg",
     "trailerId": "0bztrFjI7no",
     "trailerUrl": "https://www.youtube.com/embed/0bztrFjI7no",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "90802",
+    "type": "tv",
+    "title": "The Sandman",
+    "content": "Season 2 Volume 2 Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/24tNHi5UJHATn61FTo9QiyQzbMH.jpg",
+    "trailerId": "5MeWftNObgs",
+    "trailerUrl": "https://www.youtube.com/embed/5MeWftNObgs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -487,6 +497,26 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zENqV3Noo68A7dqYygqL3qFFKtm.jpg",
     "trailerId": "N2dj8kzEn_A",
     "trailerUrl": "https://www.youtube.com/embed/N2dj8kzEn_A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "9539",
+    "type": "movie",
+    "title": "Martyrs",
+    "content": "MARTYRS | Masters of Cinema Trailer - New & Exclusive",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
+    "trailerId": "1a9AgSIpobc",
+    "trailerUrl": "https://www.youtube.com/embed/1a9AgSIpobc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1087192",
+    "type": "movie",
+    "title": "How to Train Your Dragon",
+    "content": "Watch At Home Now",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7HqLLVjdjhXS0Qoz1SgZofhkIpE.jpg",
+    "trailerId": "kby-mkUTu58",
+    "trailerUrl": "https://www.youtube.com/embed/kby-mkUTu58",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -610,13 +640,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "970947",
+    "id": "926606",
     "type": "movie",
-    "title": "The Shrouds",
-    "content": "Official International Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wMgT2Q0WcNLYrS46q9WCHImBCEc.jpg",
-    "trailerId": "VfZC602sgMo",
-    "trailerUrl": "https://www.youtube.com/embed/VfZC602sgMo",
+    "title": "The Home",
+    "content": "Evil never gets old. The Home opens FrightFest 6PM 21 Aug.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/IOEXDwaVH2IcSXIZhCg7g572ic.jpg",
+    "trailerId": "98wSVEgTWUc",
+    "trailerUrl": "https://www.youtube.com/embed/98wSVEgTWUc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -637,6 +667,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hniP6c6Tss51qKc5vYMycDBDf9P.jpg",
     "trailerId": "ByVgQEZkasw",
     "trailerUrl": "https://www.youtube.com/embed/ByVgQEZkasw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1242011",
+    "type": "movie",
+    "title": "Together",
+    "content": "Official Photo Album Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
+    "trailerId": "tST7O8Fq_Vo",
+    "trailerUrl": "https://www.youtube.com/embed/tST7O8Fq_Vo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
