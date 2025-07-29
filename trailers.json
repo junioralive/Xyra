@@ -3,10 +3,20 @@
     "id": "83533",
     "type": "movie",
     "title": "Avatar: Fire and Ash",
-    "content": "Avatar: Fire and Ash | Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jITFb2I3GwpQ5DGDvkg2m1Pc3WB.jpg",
     "trailerId": "nb_fFj_0rq8",
     "trailerUrl": "https://www.youtube.com/embed/nb_fFj_0rq8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "936108",
+    "type": "movie",
+    "title": "Smurfs",
+    "content": "How Would Your Friends Describe You?",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
+    "trailerId": "dLiAacOXbfI",
+    "trailerUrl": "https://www.youtube.com/embed/dLiAacOXbfI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -60,16 +70,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "936108",
-    "type": "movie",
-    "title": "Smurfs",
-    "content": "Hangry",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9whEVuKte4Qi0LI4TzPf7glinJW.jpg",
-    "trailerId": "nx1f9Oof3vY",
-    "trailerUrl": "https://www.youtube.com/embed/nx1f9Oof3vY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1175942",
     "type": "movie",
     "title": "The Bad Guys 2",
@@ -87,6 +87,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
     "trailerId": "-dButoJjsw0",
     "trailerUrl": "https://www.youtube.com/embed/-dButoJjsw0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1242011",
+    "type": "movie",
+    "title": "Together",
+    "content": "In UK Cinemas Everywhere August 15",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3NCYVzeqLUKMhf5TaDlHol7BoTn.jpg",
+    "trailerId": "zLcoWwO5lLs",
+    "trailerUrl": "https://www.youtube.com/embed/zLcoWwO5lLs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -130,16 +140,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1242011",
-    "type": "movie",
-    "title": "Together",
-    "content": "Official Trailer #2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3NCYVzeqLUKMhf5TaDlHol7BoTn.jpg",
-    "trailerId": "9bqIwMH3En8",
-    "trailerUrl": "https://www.youtube.com/embed/9bqIwMH3En8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "980477",
     "type": "movie",
     "title": "Ne Zha 2",
@@ -157,6 +157,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jqmcJHbIzCDuSclT31H8sttQiaM.jpg",
     "trailerId": "m3yWqsfstmg",
     "trailerUrl": "https://www.youtube.com/embed/m3yWqsfstmg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "574475",
+    "type": "movie",
+    "title": "Final Destination Bloodlines",
+    "content": "Stream on HBO Max August 1",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+    "trailerId": "YBv7CPxD8fI",
+    "trailerUrl": "https://www.youtube.com/embed/YBv7CPxD8fI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9LALiE3I9dInFmMlI1BvzlhFMmP.jpg",
     "trailerId": "3VBvWqk1F9E",
     "trailerUrl": "https://www.youtube.com/embed/3VBvWqk1F9E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1131759",
-    "type": "movie",
-    "title": "Omniscient Reader: The Prophecy",
-    "content": "What if your favorite novel became reality? [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
-    "trailerId": "EyoPb17WYUs",
-    "trailerUrl": "https://www.youtube.com/embed/EyoPb17WYUs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -247,6 +247,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/AfGp6Ev3BVdEd7L99kGQzOzsqRb.jpg",
     "trailerId": "B1KJ9XeZuxA",
     "trailerUrl": "https://www.youtube.com/embed/B1KJ9XeZuxA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "16288",
+    "type": "movie",
+    "title": "Creepshow 2",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oBiTGKXTNboNSCiyOmadFL7H4qe.jpg",
+    "trailerId": "H8l077UCW-Q",
+    "trailerUrl": "https://www.youtube.com/embed/H8l077UCW-Q",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -310,6 +320,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1507445",
+    "type": "movie",
+    "title": "Faith in the Flames: The Nichole Jolly Story",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/f2Ks5ZvQyRRBUyyO5F9LI9ySRLN.jpg",
+    "trailerId": "d7P9IUdb_uE",
+    "trailerUrl": "https://www.youtube.com/embed/d7P9IUdb_uE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "11583",
     "type": "movie",
     "title": "The First Great Train Robbery",
@@ -357,26 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
     "trailerId": "-gmCvxwqcsw",
     "trailerUrl": "https://www.youtube.com/embed/-gmCvxwqcsw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "643",
-    "type": "movie",
-    "title": "Battleship Potemkin",
-    "content": "2025 UK Re-release Trailer | Music by Pet Shop Boys",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7co64HQ4XDx9s2pITpe9xW8NfTR.jpg",
-    "trailerId": "VC66LgoOlCs",
-    "trailerUrl": "https://www.youtube.com/embed/VC66LgoOlCs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "238084",
-    "type": "tv",
-    "title": "Trigger",
-    "content": "Official Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2jiEkTXR7oiQNDfdday8AM9J5qF.jpg",
-    "trailerId": "2JUx8MqpRuM",
-    "trailerUrl": "https://www.youtube.com/embed/2JUx8MqpRuM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -660,16 +660,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1233413",
-    "type": "movie",
-    "title": "Sinners",
-    "content": "Black American Sign Language Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-    "trailerId": "l2h2lC0vlX4",
-    "trailerUrl": "https://www.youtube.com/embed/l2h2lC0vlX4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1158149",
     "type": "movie",
     "title": "Et Tu",
@@ -714,7 +704,7 @@
     "type": "movie",
     "title": "Jurassic World Rebirth",
     "content": "Dinosaurs. Dinosaurs. Dinosaurs.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
     "trailerId": "78Ok9CV88ZA",
     "trailerUrl": "https://www.youtube.com/embed/78Ok9CV88ZA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
