@@ -390,16 +390,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "114695",
-    "type": "tv",
-    "title": "Marvel Studios Legends",
-    "content": "Wakanda's War Dogs | Marvel Studios' Legends",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2jPv3B0ikeGjEYZKDX8vJGXJrvh.jpg",
-    "trailerId": "3rEo4MmMA-k",
-    "trailerUrl": "https://www.youtube.com/embed/3rEo4MmMA-k",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "241388",
     "type": "tv",
     "title": "Eyes of Wakanda",
@@ -467,6 +457,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s2GQUEJApbOVZL3vASbm5FWGdYN.jpg",
     "trailerId": "J_kzMlwTD6U",
     "trailerUrl": "https://www.youtube.com/embed/J_kzMlwTD6U",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "213249",
+    "type": "tv",
+    "title": "Sausage Party: Foodtopia",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rZEAjnN7sH7gmCKvFirwL18Zdhc.jpg",
+    "trailerId": "6Ee3_UzpBeo",
+    "trailerUrl": "https://www.youtube.com/embed/6Ee3_UzpBeo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -714,7 +714,7 @@
     "type": "movie",
     "title": "Superman",
     "content": "Everybody\u2019s talking about the summer of Superman.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
     "trailerId": "55QuFyVALSo",
     "trailerUrl": "https://www.youtube.com/embed/55QuFyVALSo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
