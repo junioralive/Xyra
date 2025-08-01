@@ -220,6 +220,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "110492",
+    "type": "tv",
+    "title": "Peacemaker",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
+    "trailerId": "f6AZTfI54OU",
+    "trailerUrl": "https://www.youtube.com/embed/f6AZTfI54OU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "56570",
     "type": "tv",
     "title": "Outlander",
@@ -277,16 +287,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
     "trailerId": "uAJYyEbb_B8",
     "trailerUrl": "https://www.youtube.com/embed/uAJYyEbb_B8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "253372",
-    "type": "tv",
-    "title": "The Institute",
-    "content": "Critics Spot",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
-    "trailerId": "3VBvWqk1F9E",
-    "trailerUrl": "https://www.youtube.com/embed/3VBvWqk1F9E",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -384,7 +384,7 @@
     "type": "tv",
     "title": "Eyes of Wakanda",
     "content": "Streaming August 1",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3vD7swDFYkctqAHbK7NeQaVnEBI.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
     "trailerId": "H9tYTDHL4Fg",
     "trailerUrl": "https://www.youtube.com/embed/H9tYTDHL4Fg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -427,6 +427,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/us2E4vqo5zJrUledrNX1KTpk3gT.jpg",
     "trailerId": "QjtqKSsFMQw",
     "trailerUrl": "https://www.youtube.com/embed/QjtqKSsFMQw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "253372",
+    "type": "tv",
+    "title": "The Institute",
+    "content": "Critics Spot",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mcU5nwUqPJB6GeElDhKA68LKhqD.jpg",
+    "trailerId": "3VBvWqk1F9E",
+    "trailerUrl": "https://www.youtube.com/embed/3VBvWqk1F9E",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
