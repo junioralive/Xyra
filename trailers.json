@@ -440,6 +440,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "207484",
+    "type": "tv",
+    "title": "Outlander: Blood of My Blood",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kDScEKTlQFPkAK9eEu5xNbZJKmj.jpg",
+    "trailerId": "9hvjJEXoIhs",
+    "trailerUrl": "https://www.youtube.com/embed/9hvjJEXoIhs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207332",
     "type": "tv",
     "title": "SAKAMOTO DAYS",
@@ -684,7 +694,7 @@
     "type": "movie",
     "title": "Jurassic World Rebirth",
     "content": "Dinosaurs. Dinosaurs. Dinosaurs.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/peAzdLKtT6VDWIfPQO9LJD1NCG4.jpg",
     "trailerId": "78Ok9CV88ZA",
     "trailerUrl": "https://www.youtube.com/embed/78Ok9CV88ZA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
