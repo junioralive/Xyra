@@ -1,5 +1,15 @@
 [
   {
+    "id": "617126",
+    "type": "movie",
+    "title": "The Fantastic 4: First Steps",
+    "content": "Herald",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "trailerId": "OzNf4q-SzaI",
+    "trailerUrl": "https://www.youtube.com/embed/OzNf4q-SzaI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1136867",
     "type": "movie",
     "title": "Materialists",
@@ -40,21 +50,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "617126",
-    "type": "movie",
-    "title": "The Fantastic 4: First Steps",
-    "content": "It\u2019s always been them.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-    "trailerId": "ZehXXhTjHFo",
-    "trailerUrl": "https://www.youtube.com/embed/ZehXXhTjHFo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "37854",
     "type": "tv",
     "title": "One Piece",
     "content": "Episode 1139 Preview - Destroy Egghead - The Buster Call is Invoked [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
     "trailerId": "lxlBKpTRSN4",
     "trailerUrl": "https://www.youtube.com/embed/lxlBKpTRSN4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -144,7 +144,7 @@
     "type": "tv",
     "title": "Chief of War",
     "content": "Series Premiere Now Streaming. Ke Kahe Nei",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yoAsDxFuqvvqZl5Dsdn7SniLhku.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mwVrLbaue8AqjFtF6lY6aakTtfb.jpg",
     "trailerId": "D22sG_a4Bvw",
     "trailerUrl": "https://www.youtube.com/embed/D22sG_a4Bvw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -237,6 +237,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3Wej7JW8Ikrzbm6h0lmSdeOYMmu.jpg",
     "trailerId": "QVucTi58nA8",
     "trailerUrl": "https://www.youtube.com/embed/QVucTi58nA8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "205715",
+    "type": "tv",
+    "title": "Gen V",
+    "content": "Season 2 - Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg",
+    "trailerId": "6WxofgjVpXg",
+    "trailerUrl": "https://www.youtube.com/embed/6WxofgjVpXg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,16 +350,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "284054",
-    "type": "movie",
-    "title": "Black Panther",
-    "content": "Strength. Secrecy. Legacy.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
-    "trailerId": "5lX-6qixxmY",
-    "trailerUrl": "https://www.youtube.com/embed/5lX-6qixxmY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "82739",
     "type": "tv",
     "title": "Rascal Does Not Dream of Bunny Girl Senpai",
@@ -397,6 +397,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wiKWTM2DTrkEIxbTWCv4XRXckBf.jpg",
     "trailerId": "QjtqKSsFMQw",
     "trailerUrl": "https://www.youtube.com/embed/QjtqKSsFMQw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "227975",
+    "type": "tv",
+    "title": "Fatal Seduction",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/138GLKdHorsdiG2pqHrIMw05Nc8.jpg",
+    "trailerId": "MkfeAkXzj5A",
+    "trailerUrl": "https://www.youtube.com/embed/MkfeAkXzj5A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -484,19 +494,9 @@
     "type": "tv",
     "title": "Wednesday",
     "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4m5JUpg1oUiaVpmgaQjrhs2iQIL.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "03u4xyj0TH4",
     "trailerUrl": "https://www.youtube.com/embed/03u4xyj0TH4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "133727",
-    "type": "tv",
-    "title": "Acapulco",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1zWgb5owPiYWmoJ5SEpv6XJb8CQ.jpg",
-    "trailerId": "HKIXltOph5A",
-    "trailerUrl": "https://www.youtube.com/embed/HKIXltOph5A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -537,6 +537,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
     "trailerId": "I87FKnHFxtk",
     "trailerUrl": "https://www.youtube.com/embed/I87FKnHFxtk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "284054",
+    "type": "movie",
+    "title": "Black Panther",
+    "content": "Strength. Secrecy. Legacy.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "trailerId": "5lX-6qixxmY",
+    "trailerUrl": "https://www.youtube.com/embed/5lX-6qixxmY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -604,7 +614,7 @@
     "type": "movie",
     "title": "Jurassic World Rebirth",
     "content": "Dinosaurs. Dinosaurs. Dinosaurs.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8fA0Gr4vJNPOd0jyqWKU7ef8DoH.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fQOV47FHTJdaSuSUNlzP3zXUZWE.jpg",
     "trailerId": "78Ok9CV88ZA",
     "trailerUrl": "https://www.youtube.com/embed/78Ok9CV88ZA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -617,6 +627,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yAqL0makiGke5yYiVWpmBDSKIVP.jpg",
     "trailerId": "GH5JslStSlA",
     "trailerUrl": "https://www.youtube.com/embed/GH5JslStSlA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "12477",
+    "type": "movie",
+    "title": "Grave of the Fireflies",
+    "content": "Ghibli Fest 2025 Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+    "trailerId": "QZbcx0WNrMU",
+    "trailerUrl": "https://www.youtube.com/embed/QZbcx0WNrMU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -650,11 +670,21 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1319895",
+    "type": "movie",
+    "title": "Hostile Takeover",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nZsKWhwhUL3Eg88SkIaJjuIZzpN.jpg",
+    "trailerId": "zie6QBbTK5s",
+    "trailerUrl": "https://www.youtube.com/embed/zie6QBbTK5s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1319969",
     "type": "movie",
     "title": "Sketch",
     "content": "Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/w8Zi7isEbHWFN1MvNTUttGMoxcj.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pN8icgN6RuQuvwlkFI8tLggLWqh.jpg",
     "trailerId": "dQxXne4vmjc",
     "trailerUrl": "https://www.youtube.com/embed/dQxXne4vmjc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -680,6 +710,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1400381",
+    "type": "movie",
+    "title": "It's Never Over, Jeff Buckley",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6dYoBvpb7OgoT9QqMhYJfwTWh6M.jpg",
+    "trailerId": "DRrcgLRX8Qc",
+    "trailerUrl": "https://www.youtube.com/embed/DRrcgLRX8Qc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
@@ -690,13 +730,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "648878",
+    "id": "965361",
     "type": "movie",
-    "title": "Eddington",
-    "content": "Louise Cross",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y1LSnnLu4fPMHDEv0FbybDKtxWD.jpg",
-    "trailerId": "HOpYtPXCgx4",
-    "trailerUrl": "https://www.youtube.com/embed/HOpYtPXCgx4",
+    "title": "AngelHeaded Hipster: The Songs of Marc Bolan & T. Rex",
+    "content": "AngelHeaded Hipster | Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dbq4LYd8ljqOzEaTPfsN0Mi4oT7.jpg",
+    "trailerId": "XdQfvctklao",
+    "trailerUrl": "https://www.youtube.com/embed/XdQfvctklao",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
