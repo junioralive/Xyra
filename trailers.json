@@ -74,7 +74,7 @@
     "type": "movie",
     "title": "The Naked Gun",
     "content": "Get yourself a pair and grab tickets to see The Naked Gun \u2014 only in cinemas!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dv5Iu1cI6nsxyPfFusEYbeRkrIJ.jpg",
     "trailerId": "W_NqFZQqKUA",
     "trailerUrl": "https://www.youtube.com/embed/W_NqFZQqKUA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -330,13 +330,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "94954",
-    "type": "tv",
-    "title": "Hazbin Hotel",
-    "content": "Season 2 - Title and Date Reveal",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
-    "trailerId": "CVdPZjMKGRA",
-    "trailerUrl": "https://www.youtube.com/embed/CVdPZjMKGRA",
+    "id": "1513598",
+    "type": "movie",
+    "title": "Stolen: Heist of the Century",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nplAWk6ur80ZeHaTWRTywbULHU3.jpg",
+    "trailerId": "CJ_kYC14TTM",
+    "trailerUrl": "https://www.youtube.com/embed/CJ_kYC14TTM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -454,7 +454,7 @@
     "type": "tv",
     "title": "Platonic",
     "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kbQgUvFE0KGU9IH4fCCEj7384z8.jpg",
     "trailerId": "oNSs2vZQlGg",
     "trailerUrl": "https://www.youtube.com/embed/oNSs2vZQlGg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -590,6 +590,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "9539",
+    "type": "movie",
+    "title": "Martyrs",
+    "content": "Masters of Cinema Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
+    "trailerId": "1a9AgSIpobc",
+    "trailerUrl": "https://www.youtube.com/embed/1a9AgSIpobc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "44214",
     "type": "movie",
     "title": "Black Swan",
@@ -597,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
     "trailerId": "2Pxc_5f27Kg",
     "trailerUrl": "https://www.youtube.com/embed/2Pxc_5f27Kg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1498",
-    "type": "movie",
-    "title": "Teenage Mutant Ninja Turtles",
-    "content": "35th Anniversary Trailer #2 | \"Ultimate Mastery\"",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6teOJJUV5IGaX7ucJv2ONoGGf4e.jpg",
-    "trailerId": "eGX4NvmuJCY",
-    "trailerUrl": "https://www.youtube.com/embed/eGX4NvmuJCY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
