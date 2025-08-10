@@ -50,6 +50,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "157239",
+    "type": "tv",
+    "title": "Alien: Earth",
+    "content": "Critics Review - \"A Thrilling Epic\"",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+    "trailerId": "Gy-OLtHxJ0A",
+    "trailerUrl": "https://www.youtube.com/embed/Gy-OLtHxJ0A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1175942",
     "type": "movie",
     "title": "The Bad Guys 2",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6fRwRD7GdCfg6owzmCT3VgQtowl.jpg",
     "trailerId": "lxlBKpTRSN4",
     "trailerUrl": "https://www.youtube.com/embed/lxlBKpTRSN4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1100988",
-    "type": "movie",
-    "title": "28 Years Later",
-    "content": "One film. 28 Years in the making.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
-    "trailerId": "S4ehyWPWrco",
-    "trailerUrl": "https://www.youtube.com/embed/S4ehyWPWrco",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -497,6 +497,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
     "trailerId": "EcrreL7Z98M",
     "trailerUrl": "https://www.youtube.com/embed/EcrreL7Z98M",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1100988",
+    "type": "movie",
+    "title": "28 Years Later",
+    "content": "One film. 28 Years in the making.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zav0v7gLWMu6pVwgsIAwt11GJ4C.jpg",
+    "trailerId": "S4ehyWPWrco",
+    "trailerUrl": "https://www.youtube.com/embed/S4ehyWPWrco",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
