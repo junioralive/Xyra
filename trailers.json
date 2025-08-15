@@ -3,10 +3,40 @@
     "id": "1078605",
     "type": "movie",
     "title": "Weapons",
-    "content": "Everyone is running to see Weapons.",
+    "content": "Once you see it, you can\u2019t forget it.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
-    "trailerId": "RF4ebCzaN0c",
-    "trailerUrl": "https://www.youtube.com/embed/RF4ebCzaN0c",
+    "trailerId": "NSutu0-zMto",
+    "trailerUrl": "https://www.youtube.com/embed/NSutu0-zMto",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "986056",
+    "type": "movie",
+    "title": "Thunderbolts*",
+    "content": "Stream On Disney+ August 27",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+    "trailerId": "tyMhqYy9F7g",
+    "trailerUrl": "https://www.youtube.com/embed/tyMhqYy9F7g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "157239",
+    "type": "tv",
+    "title": "Alien: Earth",
+    "content": "Season 1, Episode 3 Trailer - Metamorphosis",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+    "trailerId": "QcxQHThLhRA",
+    "trailerUrl": "https://www.youtube.com/embed/QcxQHThLhRA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "119051",
+    "type": "tv",
+    "title": "Wednesday",
+    "content": "Season 2 Part 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ndUVIUfmtJ3vqGGTNQ0me6xbOMG.jpg",
+    "trailerId": "ueCc-AYUMRs",
+    "trailerUrl": "https://www.youtube.com/embed/ueCc-AYUMRs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -24,29 +54,9 @@
     "type": "movie",
     "title": "Jurassic World Rebirth",
     "content": "Watch At Home Tomorrow",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fncHijpWjitFBmj7SX5z148XEhP.jpg",
     "trailerId": "NJ0fzQzKOfg",
     "trailerUrl": "https://www.youtube.com/embed/NJ0fzQzKOfg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "157239",
-    "type": "tv",
-    "title": "Alien: Earth",
-    "content": "Teaser - Coming Up This Season",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
-    "trailerId": "GvN153dN7rE",
-    "trailerUrl": "https://www.youtube.com/embed/GvN153dN7rE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1317288",
-    "type": "movie",
-    "title": "Marty Supreme",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iE0pObau8Faa5n3GqEyVhySE6rs.jpg",
-    "trailerId": "PI6-qKhzTt8",
-    "trailerUrl": "https://www.youtube.com/embed/PI6-qKhzTt8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -57,6 +67,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
     "trailerId": "CqL8PyYWj8A",
     "trailerUrl": "https://www.youtube.com/embed/CqL8PyYWj8A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "44214",
+    "type": "movie",
+    "title": "Black Swan",
+    "content": "The feminine urge to watch Black Swan in IMAX.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qxTw8OKJLRX1Xb5nR5CcIDnLKoq.jpg",
+    "trailerId": "GLbGuSqR6q0",
+    "trailerUrl": "https://www.youtube.com/embed/GLbGuSqR6q0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -124,7 +144,7 @@
     "type": "tv",
     "title": "Eyes of Wakanda",
     "content": "It all begins with that axe.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3vD7swDFYkctqAHbK7NeQaVnEBI.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
     "trailerId": "M9jr2GLHJnI",
     "trailerUrl": "https://www.youtube.com/embed/M9jr2GLHJnI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -177,26 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rz8NcfTRczvn94vpnmMx42zt6EC.jpg",
     "trailerId": "w860o1CceTk",
     "trailerUrl": "https://www.youtube.com/embed/w860o1CceTk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "552524",
-    "type": "movie",
-    "title": "Lilo & Stitch",
-    "content": "a perfect day... of chaos",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-    "trailerId": "3V_v5CUcYA0",
-    "trailerUrl": "https://www.youtube.com/embed/3V_v5CUcYA0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1007734",
-    "type": "movie",
-    "title": "Nobody 2",
-    "content": "Nobody Is...",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wO15XEgeLbeijtf3MQAUqWCxSxc.jpg",
-    "trailerId": "i4PLWaiFSxs",
-    "trailerUrl": "https://www.youtube.com/embed/i4PLWaiFSxs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -330,23 +330,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "2122",
+    "id": "110492",
     "type": "tv",
-    "title": "King of the Hill",
-    "content": "Season 14 - Now Streaming",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
-    "trailerId": "EOtoGRtaaeE",
-    "trailerUrl": "https://www.youtube.com/embed/EOtoGRtaaeE",
+    "title": "Peacemaker",
+    "content": "S2 Official Red Band Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
+    "trailerId": "4JNGVohd9fE",
+    "trailerUrl": "https://www.youtube.com/embed/4JNGVohd9fE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "196890",
+    "id": "273754",
     "type": "tv",
-    "title": "Chief of War",
-    "content": "Series Premiere Now Streaming. Ke Kahe Nei",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7UWoOvJZRqGxURZZQY8MtKGgZ9L.jpg",
-    "trailerId": "D22sG_a4Bvw",
-    "trailerUrl": "https://www.youtube.com/embed/D22sG_a4Bvw",
+    "title": "Necaxa",
+    "content": "Teaser - \"La Patrona\" Leads the Charge",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r1bpP7rDsOuGMVprUAdn5kBnu8T.jpg",
+    "trailerId": "qJS2SpsXlCQ",
+    "trailerUrl": "https://www.youtube.com/embed/qJS2SpsXlCQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -360,6 +360,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "196890",
+    "type": "tv",
+    "title": "Chief of War",
+    "content": "Series Premiere Now Streaming. Ke Kahe Nei",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7UWoOvJZRqGxURZZQY8MtKGgZ9L.jpg",
+    "trailerId": "D22sG_a4Bvw",
+    "trailerUrl": "https://www.youtube.com/embed/D22sG_a4Bvw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "281004",
     "type": "tv",
     "title": "Beyond the Bar",
@@ -367,16 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wdFkh5q3dMoAXQxKlefuWOwaJA5.jpg",
     "trailerId": "8o8uHnAFwcA",
     "trailerUrl": "https://www.youtube.com/embed/8o8uHnAFwcA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "110492",
-    "type": "tv",
-    "title": "Peacemaker",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
-    "trailerId": "f6AZTfI54OU",
-    "trailerUrl": "https://www.youtube.com/embed/f6AZTfI54OU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -450,23 +450,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "277831",
+    "id": "6060",
     "type": "tv",
-    "title": "The Yogurt Shop Murders",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNGYFLFn4WQeXfJ6sXg2rcMceH6.jpg",
-    "trailerId": "3AP_vaXoI40",
-    "trailerUrl": "https://www.youtube.com/embed/3AP_vaXoI40",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "112211",
-    "type": "tv",
-    "title": "Platonic",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kbQgUvFE0KGU9IH4fCCEj7384z8.jpg",
-    "trailerId": "oNSs2vZQlGg",
-    "trailerUrl": "https://www.youtube.com/embed/oNSs2vZQlGg",
+    "title": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+    "content": "Kyunki Saas Bhi Kabhi Bahu Thi | Streaming from 29th July at 10:30 pm | \u200e@starplus | JioHotstar",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gwXnESfjDqop3tDLoGxSwCUP8GD.jpg",
+    "trailerId": "Brv8IoIa_CQ",
+    "trailerUrl": "https://www.youtube.com/embed/Brv8IoIa_CQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -480,6 +470,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "552524",
+    "type": "movie",
+    "title": "Lilo & Stitch",
+    "content": "a perfect day... of chaos",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+    "trailerId": "3V_v5CUcYA0",
+    "trailerUrl": "https://www.youtube.com/embed/3V_v5CUcYA0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "3933",
     "type": "movie",
     "title": "Corpse Bride",
@@ -487,6 +487,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
     "trailerId": "EcrreL7Z98M",
     "trailerUrl": "https://www.youtube.com/embed/EcrreL7Z98M",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "503",
+    "type": "movie",
+    "title": "Poseidon",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cmif4raVnSublaj6wEswHHPPL65.jpg",
+    "trailerId": "lMBnf57f3AU",
+    "trailerUrl": "https://www.youtube.com/embed/lMBnf57f3AU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -580,6 +590,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1239655",
+    "type": "movie",
+    "title": "Friendship",
+    "content": "First Meeting",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g70uNy3hRqEcU0ilBTtcuBFlizx.jpg",
+    "trailerId": "7FPRQgx3CpM",
+    "trailerUrl": "https://www.youtube.com/embed/7FPRQgx3CpM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "574475",
     "type": "movie",
     "title": "Final Destination Bloodlines",
@@ -600,36 +620,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1087891",
-    "type": "movie",
-    "title": "The Amateur",
-    "content": "Now Streaming On Hulu And With Hulu On Disney+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg",
-    "trailerId": "u_JJqFDjPhE",
-    "trailerUrl": "https://www.youtube.com/embed/u_JJqFDjPhE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "284054",
-    "type": "movie",
-    "title": "Black Panther",
-    "content": "Strength. Secrecy. Legacy.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
-    "trailerId": "5lX-6qixxmY",
-    "trailerUrl": "https://www.youtube.com/embed/5lX-6qixxmY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "9539",
-    "type": "movie",
-    "title": "Martyrs",
-    "content": "Masters of Cinema Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
-    "trailerId": "1a9AgSIpobc",
-    "trailerUrl": "https://www.youtube.com/embed/1a9AgSIpobc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1107325",
     "type": "movie",
     "title": "Witchboard",
@@ -647,6 +637,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
     "trailerId": "OZb_NhnrzDs",
     "trailerUrl": "https://www.youtube.com/embed/OZb_NhnrzDs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1007734",
+    "type": "movie",
+    "title": "Nobody 2",
+    "content": "Nobody Is...",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wO15XEgeLbeijtf3MQAUqWCxSxc.jpg",
+    "trailerId": "i4PLWaiFSxs",
+    "trailerUrl": "https://www.youtube.com/embed/i4PLWaiFSxs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -687,26 +687,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pN8icgN6RuQuvwlkFI8tLggLWqh.jpg",
     "trailerId": "dQxXne4vmjc",
     "trailerUrl": "https://www.youtube.com/embed/dQxXne4vmjc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1338799",
-    "type": "movie",
-    "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie",
-    "content": "Teaser [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
-    "trailerId": "uqj9rnLq4Os",
-    "trailerUrl": "https://www.youtube.com/embed/uqj9rnLq4Os",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "926606",
-    "type": "movie",
-    "title": "The Home",
-    "content": "Evil never gets old. The Home opens FrightFest 6PM 21 Aug.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/IOEXDwaVH2IcSXIZhCg7g572ic.jpg",
-    "trailerId": "98wSVEgTWUc",
-    "trailerUrl": "https://www.youtube.com/embed/98wSVEgTWUc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
