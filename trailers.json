@@ -10,6 +10,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "157239",
+    "type": "tv",
+    "title": "Alien: Earth",
+    "content": "Season 1, Episode 4 Trailer - Observation",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+    "trailerId": "XORp9A-nTUI",
+    "trailerUrl": "https://www.youtube.com/embed/XORp9A-nTUI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1038392",
     "type": "movie",
     "title": "The Conjuring: Last Rites",
@@ -40,16 +50,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "157239",
-    "type": "tv",
-    "title": "Alien: Earth",
-    "content": "Xenomorph Attacks Hermit Scene",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
-    "trailerId": "kx3uwvginaM",
-    "trailerUrl": "https://www.youtube.com/embed/kx3uwvginaM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "106379",
     "type": "tv",
     "title": "Fallout",
@@ -63,10 +63,20 @@
     "id": "1175942",
     "type": "movie",
     "title": "The Bad Guys 2",
-    "content": "Watch at Home Now",
+    "content": "Watch At Home Now",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
     "trailerId": "lYudCQHG0c8",
     "trailerUrl": "https://www.youtube.com/embed/lYudCQHG0c8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "60625",
+    "type": "tv",
+    "title": "Rick and Morty",
+    "content": "Season 8 drops on HBO Max Sept 1",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Ao5pBFuWY32cVuh6iYjEjZMEscN.jpg",
+    "trailerId": "akMWTZ-L-YU",
+    "trailerUrl": "https://www.youtube.com/embed/akMWTZ-L-YU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "986056",
-    "type": "movie",
-    "title": "Thunderbolts*",
-    "content": "Stream On Disney+ August 27",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-    "trailerId": "tyMhqYy9F7g",
-    "trailerUrl": "https://www.youtube.com/embed/tyMhqYy9F7g",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "25538",
     "type": "movie",
     "title": "Yi Yi",
@@ -207,16 +207,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/69D57G3XqQMVNCwK0Z2PCcYC4Da.jpg",
     "trailerId": "PxgrzNFwyqY",
     "trailerUrl": "https://www.youtube.com/embed/PxgrzNFwyqY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "90282",
-    "type": "tv",
-    "title": "The Morning Show",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/EGuzreiFLAKQ1H2YazRZxa0RlW.jpg",
-    "trailerId": "Klq88ERaGuM",
-    "trailerUrl": "https://www.youtube.com/embed/Klq88ERaGuM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -644,7 +634,7 @@
     "type": "movie",
     "title": "Together",
     "content": "In UK Cinemas Everywhere August 15",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u2ctOiURF9hL3hmXmEMHxcVPVrQ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fBlzTwgtbDYkDKlhnPu69jHfVGy.jpg",
     "trailerId": "PMYbNyLd3AA",
     "trailerUrl": "https://www.youtube.com/embed/PMYbNyLd3AA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
