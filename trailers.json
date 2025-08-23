@@ -190,13 +190,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1422096",
-    "type": "movie",
-    "title": "Good Boy",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oCuksC4AcvsdC02P7Fg5CPbWd5t.jpg",
-    "trailerId": "q4-CRkd_74g",
-    "trailerUrl": "https://www.youtube.com/embed/q4-CRkd_74g",
+    "id": "247043",
+    "type": "tv",
+    "title": "The Ba***ds of Bollywood",
+    "content": "Aryan Khan Has An Announcement For You \ud83d\udce2 | First Look | The Ba***ds of Bollywood | Netflix India",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3yJDRzeLuDTYjJxu6PwQkZtFQYU.jpg",
+    "trailerId": "e5A7VvZpo-c",
+    "trailerUrl": "https://www.youtube.com/embed/e5A7VvZpo-c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -290,6 +290,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1517212",
+    "type": "movie",
+    "title": "The Truth About Jussie Smollett?",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/muPnU1xs5cYkE1lXZ8c15n7TyHr.jpg",
+    "trailerId": "ZSfAsfU7Nu0",
+    "trailerUrl": "https://www.youtube.com/embed/ZSfAsfU7Nu0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "119051",
     "type": "tv",
     "title": "Wednesday",
@@ -307,16 +317,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
     "trailerId": "Q7wZClqWm_o",
     "trailerUrl": "https://www.youtube.com/embed/Q7wZClqWm_o",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "14035",
-    "type": "movie",
-    "title": "Meatballs",
-    "content": "4K SteelBook\u00ae Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/t6Zw34ikaxaZTga5aJkcv8kT8FK.jpg",
-    "trailerId": "FKQrvH33QUA",
-    "trailerUrl": "https://www.youtube.com/embed/FKQrvH33QUA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
