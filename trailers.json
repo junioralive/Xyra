@@ -3,20 +3,20 @@
     "id": "1038392",
     "type": "movie",
     "title": "The Conjuring: Last Rites",
-    "content": "Don\u2019t keep the demons waiting.",
+    "content": "Horror that will last a lifetime: priceless.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg",
-    "trailerId": "TNjRbIPuuAY",
-    "trailerUrl": "https://www.youtube.com/embed/TNjRbIPuuAY",
+    "trailerId": "14glKAg7kpA",
+    "trailerUrl": "https://www.youtube.com/embed/14glKAg7kpA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
-    "content": "The journey is half the battle.",
+    "content": "September 1, 2025",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ev06XwWLSoTG2DkLlsllAhlWGsk.jpg",
-    "trailerId": "Y8vkWOhg83I",
-    "trailerUrl": "https://www.youtube.com/embed/Y8vkWOhg83I",
+    "trailerId": "L2OjMbRVX8U",
+    "trailerUrl": "https://www.youtube.com/embed/L2OjMbRVX8U",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -110,16 +110,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1223601",
-    "type": "movie",
-    "title": "Sisu: Road to Revenge",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aYwd43E8aq2fQiak0SU8dbCjyZ5.jpg",
-    "trailerId": "VmStqCXIgio",
-    "trailerUrl": "https://www.youtube.com/embed/VmStqCXIgio",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "110316",
     "type": "tv",
     "title": "Alice in Borderland",
@@ -200,6 +190,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1035259",
+    "type": "movie",
+    "title": "The Naked Gun",
+    "content": "Red Light Therapy",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
+    "trailerId": "WW5gu9D1exU",
+    "trailerUrl": "https://www.youtube.com/embed/WW5gu9D1exU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "95479",
     "type": "tv",
     "title": "JUJUTSU KAISEN",
@@ -230,6 +230,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "205715",
+    "type": "tv",
+    "title": "Gen V",
+    "content": "Season 1 Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg",
+    "trailerId": "tBUlJ8bYHPY",
+    "trailerUrl": "https://www.youtube.com/embed/tBUlJ8bYHPY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "345940",
     "type": "movie",
     "title": "The Meg",
@@ -237,16 +247,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ibKeXahq4JD63z6uWQphqoJLvNw.jpg",
     "trailerId": "b_4uXy2Y1SQ",
     "trailerUrl": "https://www.youtube.com/embed/b_4uXy2Y1SQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "277702",
-    "type": "tv",
-    "title": "Breakdown",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gtR3IGkb0X1qwPZxFFbDViDLrxX.jpg",
-    "trailerId": "QIoxWVpoBnY",
-    "trailerUrl": "https://www.youtube.com/embed/QIoxWVpoBnY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -330,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "90282",
+    "type": "tv",
+    "title": "The Morning Show",
+    "content": "Season 4 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/EGuzreiFLAKQ1H2YazRZxa0RlW.jpg",
+    "trailerId": "Klq88ERaGuM",
+    "trailerUrl": "https://www.youtube.com/embed/Klq88ERaGuM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "231727",
     "type": "tv",
     "title": "Wolf King",
@@ -360,16 +370,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "245026",
-    "type": "tv",
-    "title": "Wizards Beyond Waverly Place",
-    "content": "Season 2 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/A8i2pdx6iZkGyOj1yU9QHgDzB33.jpg",
-    "trailerId": "ePFuCpV-qzc",
-    "trailerUrl": "https://www.youtube.com/embed/ePFuCpV-qzc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "273754",
     "type": "tv",
     "title": "Necaxa",
@@ -397,16 +397,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lecBUG6Hsw7pYjTNAPBUgouDfjW.jpg",
     "trailerId": "KlGXqWVLwqk",
     "trailerUrl": "https://www.youtube.com/embed/KlGXqWVLwqk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1035259",
-    "type": "movie",
-    "title": "The Naked Gun",
-    "content": "Red Light Therapy",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1wi1hcbl6KYqARjdQ4qrBWZdiau.jpg",
-    "trailerId": "WW5gu9D1exU",
-    "trailerUrl": "https://www.youtube.com/embed/WW5gu9D1exU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
