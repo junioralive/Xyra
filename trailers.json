@@ -54,7 +54,7 @@
     "type": "movie",
     "title": "28 Years Later: The Bone Temple",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/e7ttxhrGnqb1tKGJnbolh1tBRB9.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cLhfq37nIrybfnamu0qStIh4pyo.jpg",
     "trailerId": "EOwTdTZA8D8",
     "trailerUrl": "https://www.youtube.com/embed/EOwTdTZA8D8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -260,6 +260,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "114868",
+    "type": "tv",
+    "title": "Record of Ragnarok",
+    "content": "\u300e\u7d42\u672b\u306e\u30ef\u30eb\u30ad\u30e5\u30fc\u30ec\u2162\u300f PV \u7b2c2\u5f3e\uff0f\"Record of Ragnarok III\" The second PV [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iq5L971DFW1SwLJdvl7OpPI1QeZ.jpg",
+    "trailerId": "Cl5afD9sHXw",
+    "trailerUrl": "https://www.youtube.com/embed/Cl5afD9sHXw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207332",
     "type": "tv",
     "title": "SAKAMOTO DAYS",
@@ -277,16 +287,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
     "trailerId": "ZHN5Lg0SJyI",
     "trailerUrl": "https://www.youtube.com/embed/ZHN5Lg0SJyI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "205715",
-    "type": "tv",
-    "title": "Gen V",
-    "content": "Season 1 Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg",
-    "trailerId": "tBUlJ8bYHPY",
-    "trailerUrl": "https://www.youtube.com/embed/tBUlJ8bYHPY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -327,6 +327,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
     "trailerId": "t7NQJ7txfRE",
     "trailerUrl": "https://www.youtube.com/embed/t7NQJ7txfRE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "205715",
+    "type": "tv",
+    "title": "Gen V",
+    "content": "Season 1 Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p5QGIGOConKKrgfiTcHEBsjPDcs.jpg",
+    "trailerId": "tBUlJ8bYHPY",
+    "trailerUrl": "https://www.youtube.com/embed/tBUlJ8bYHPY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -550,6 +560,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "758923",
+    "type": "movie",
+    "title": "Baaghi 4",
+    "content": "Baaghi 4 Trailer | Tiger, Sanjay, Harnaaz, Sonam | Sajid Nadiadwala | A.Harsha | In Cinemas 5th Sept",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eezI7a6PBPInXZVlFxBVaIc0iMc.jpg",
+    "trailerId": "58909OjAfeg",
+    "trailerUrl": "https://www.youtube.com/embed/58909OjAfeg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "993708",
     "type": "movie",
     "title": "The Threesome",
@@ -634,7 +654,7 @@
     "type": "movie",
     "title": "The Shadow's Edge",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ijRF7DuzDoM52Azt1eC271ecbjn.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
     "trailerId": "dDuzTlur3NU",
     "trailerUrl": "https://www.youtube.com/embed/dDuzTlur3NU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -647,16 +667,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mviWVo14YFNJwHZJboI07qkjgNI.jpg",
     "trailerId": "rqB0PrvUs0M",
     "trailerUrl": "https://www.youtube.com/embed/rqB0PrvUs0M",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "12477",
-    "type": "movie",
-    "title": "Grave of the Fireflies",
-    "content": "When they lost everything, all they kept was each other. [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
-    "trailerId": "OZb_NhnrzDs",
-    "trailerUrl": "https://www.youtube.com/embed/OZb_NhnrzDs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
