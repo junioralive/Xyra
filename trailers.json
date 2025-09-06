@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "The Conjuring: Last Rites",
     "content": "September 5, 2025",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
     "trailerId": "6YBNV0Z51IM",
     "trailerUrl": "https://www.youtube.com/embed/6YBNV0Z51IM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -80,16 +80,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1316092",
-    "type": "movie",
-    "title": "Wuthering Heights",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fIBtlFOodItS39EggIC49OfwQgK.jpg",
-    "trailerId": "KN_zMvw6l6k",
-    "trailerUrl": "https://www.youtube.com/embed/KN_zMvw6l6k",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "157239",
     "type": "tv",
     "title": "Alien: Earth",
@@ -137,6 +127,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
     "trailerId": "pD4ysb6BTqE",
     "trailerUrl": "https://www.youtube.com/embed/pD4ysb6BTqE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "552524",
+    "type": "movie",
+    "title": "Lilo & Stitch",
+    "content": "Now Streaming on D+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+    "trailerId": "tUvlHhLUhg0",
+    "trailerUrl": "https://www.youtube.com/embed/tUvlHhLUhg0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -310,16 +310,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "207332",
-    "type": "tv",
-    "title": "SAKAMOTO DAYS",
-    "content": "Part 2 Mid-Season Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
-    "trailerId": "Zub_ykxXLCA",
-    "trailerUrl": "https://www.youtube.com/embed/Zub_ykxXLCA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "245026",
     "type": "tv",
     "title": "Wizards Beyond Waverly Place",
@@ -367,6 +357,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uQpSWD06NXnEY3l0k4sVb7iSJ32.jpg",
     "trailerId": "t7NQJ7txfRE",
     "trailerUrl": "https://www.youtube.com/embed/t7NQJ7txfRE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "207332",
+    "type": "tv",
+    "title": "SAKAMOTO DAYS",
+    "content": "Part 2 Mid-Season Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
+    "trailerId": "Zub_ykxXLCA",
+    "trailerUrl": "https://www.youtube.com/embed/Zub_ykxXLCA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
