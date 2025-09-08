@@ -1,5 +1,25 @@
 [
   {
+    "id": "1038392",
+    "type": "movie",
+    "title": "The Conjuring: Last Rites",
+    "content": "Don't let the weekend end without experiencing the case that ended it all.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
+    "trailerId": "YVbHSRleTmU",
+    "trailerUrl": "https://www.youtube.com/embed/YVbHSRleTmU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1054867",
+    "type": "movie",
+    "title": "One Battle After Another",
+    "content": "They aren't taking this battle lightly.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oPILHSxZ0mFHjKwEfGKtbNjdaxV.jpg",
+    "trailerId": "9lGOW811SPE",
+    "trailerUrl": "https://www.youtube.com/embed/9lGOW811SPE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "604079",
     "type": "movie",
     "title": "The Long Walk",
@@ -7,16 +27,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pIVvTbK6wIOXfIfErIymh7inXSV.jpg",
     "trailerId": "iPr2u1VYiuo",
     "trailerUrl": "https://www.youtube.com/embed/iPr2u1VYiuo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1054867",
-    "type": "movie",
-    "title": "One Battle After Another",
-    "content": "You can\u2019t protect them forever, but you have to try as long as you can.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oPILHSxZ0mFHjKwEfGKtbNjdaxV.jpg",
-    "trailerId": "DG4nS53UCrU",
-    "trailerUrl": "https://www.youtube.com/embed/DG4nS53UCrU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -47,16 +57,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
     "trailerId": "VXKHys7odj8",
     "trailerUrl": "https://www.youtube.com/embed/VXKHys7odj8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1038392",
-    "type": "movie",
-    "title": "The Conjuring: Last Rites",
-    "content": "September 5, 2025",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
-    "trailerId": "6YBNV0Z51IM",
-    "trailerUrl": "https://www.youtube.com/embed/6YBNV0Z51IM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
