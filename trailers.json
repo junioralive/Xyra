@@ -154,7 +154,7 @@
     "type": "tv",
     "title": "Alien: Earth",
     "content": "Season 1, Episode 7 Trailer - Emergence",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/25g7mthXoJFcNZhAKz0evk17Bsx.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s7Lim1xma0qCNwlrQlaxM9mFLyN.jpg",
     "trailerId": "0clyfYpkKN0",
     "trailerUrl": "https://www.youtube.com/embed/0clyfYpkKN0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -227,16 +227,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8IuDDi2bNu2at9zU7765gfHBMjE.jpg",
     "trailerId": "wCPk_IxZY7E",
     "trailerUrl": "https://www.youtube.com/embed/wCPk_IxZY7E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "120089",
-    "type": "tv",
-    "title": "SPY x FAMILY",
-    "content": "Season 3 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-    "trailerId": "5ASJJI_RkiA",
-    "trailerUrl": "https://www.youtube.com/embed/5ASJJI_RkiA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "194766",
+    "type": "tv",
+    "title": "The Summer I Turned Pretty",
+    "content": "Season 3 Official Final Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
+    "trailerId": "UFPT7_U4oyc",
+    "trailerUrl": "https://www.youtube.com/embed/UFPT7_U4oyc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "107255",
     "type": "tv",
     "title": "Dragon Raja -The Blazing Dawn-",
@@ -377,16 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
     "trailerId": "Ofvx6SHxYis",
     "trailerUrl": "https://www.youtube.com/embed/Ofvx6SHxYis",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "194766",
-    "type": "tv",
-    "title": "The Summer I Turned Pretty",
-    "content": "Season 3 Official Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jCcSS9iDpKgll8Kpp7qVhSn0l1f.jpg",
-    "trailerId": "UFPT7_U4oyc",
-    "trailerUrl": "https://www.youtube.com/embed/UFPT7_U4oyc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -430,6 +420,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "255055",
+    "type": "tv",
+    "title": "Doc",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+    "trailerId": "t7NQJ7txfRE",
+    "trailerUrl": "https://www.youtube.com/embed/t7NQJ7txfRE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207332",
     "type": "tv",
     "title": "SAKAMOTO DAYS",
@@ -437,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/blSthAPRbEOJBowdxppeQqNPRh9.jpg",
     "trailerId": "Zub_ykxXLCA",
     "trailerUrl": "https://www.youtube.com/embed/Zub_ykxXLCA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "615",
-    "type": "tv",
-    "title": "Futurama",
-    "content": "Official Trailer - Season 13",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-    "trailerId": "ZHN5Lg0SJyI",
-    "trailerUrl": "https://www.youtube.com/embed/ZHN5Lg0SJyI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
