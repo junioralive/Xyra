@@ -1,5 +1,35 @@
 [
   {
+    "id": "1054867",
+    "type": "movie",
+    "title": "One Battle After Another",
+    "content": "September 16, 2025",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/si68lkhkMfIospVeLEBtl7HWKDh.jpg",
+    "trailerId": "QD5jczXmUEA",
+    "trailerUrl": "https://www.youtube.com/embed/QD5jczXmUEA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "617126",
+    "type": "movie",
+    "title": "The Fantastic 4: First Steps",
+    "content": "Buy It On Digital Sept 23 & Own It On Blu-ray Oct 14",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+    "trailerId": "oTf3tnuzXgI",
+    "trailerUrl": "https://www.youtube.com/embed/oTf3tnuzXgI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1061474",
+    "type": "movie",
+    "title": "Superman",
+    "content": "Official American Sign Language Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+    "trailerId": "MikgqM0LXr4",
+    "trailerUrl": "https://www.youtube.com/embed/MikgqM0LXr4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1022787",
     "type": "movie",
     "title": "Elio",
@@ -40,21 +70,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1054867",
-    "type": "movie",
-    "title": "One Battle After Another",
-    "content": "Don\u2019t get mad. Get your tickets ahead.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/si68lkhkMfIospVeLEBtl7HWKDh.jpg",
-    "trailerId": "qdTCHJrJieQ",
-    "trailerUrl": "https://www.youtube.com/embed/qdTCHJrJieQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1241921",
     "type": "movie",
     "title": "A Big Bold Beautiful Journey",
     "content": "Green Flag",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/geqQxNU74Sp095DRsxZxWUsdpH.jpg",
     "trailerId": "SuzkarSXofo",
     "trailerUrl": "https://www.youtube.com/embed/SuzkarSXofo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -107,6 +127,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xTd74mchq96pqfdlgmKDMQx12gv.jpg",
     "trailerId": "c1mTbYB6EOM",
     "trailerUrl": "https://www.youtube.com/embed/c1mTbYB6EOM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "760329",
+    "type": "movie",
+    "title": "The Smashing Machine",
+    "content": "Trailer #2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5ZI8XCZKtE24zvNOpmrWa9599c9.jpg",
+    "trailerId": "u4A8zfMClCM",
+    "trailerUrl": "https://www.youtube.com/embed/u4A8zfMClCM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -170,36 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1156594",
-    "type": "movie",
-    "title": "Our Fault",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
-    "trailerId": "4ZDvKct1U4s",
-    "trailerUrl": "https://www.youtube.com/embed/4ZDvKct1U4s",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1306368",
-    "type": "movie",
-    "title": "The Rip",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
-    "trailerId": "ARU2WHyOPxE",
-    "trailerUrl": "https://www.youtube.com/embed/ARU2WHyOPxE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1038392",
-    "type": "movie",
-    "title": "The Conjuring: Last Rites",
-    "content": "Don\u2019t run, unless it\u2019s to see the #1 movie in the world.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
-    "trailerId": "3iBhELud1-I",
-    "trailerUrl": "https://www.youtube.com/embed/3iBhELud1-I",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "33908",
     "type": "movie",
     "title": "Three... Extremes",
@@ -227,6 +227,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8IuDDi2bNu2at9zU7765gfHBMjE.jpg",
     "trailerId": "wCPk_IxZY7E",
     "trailerUrl": "https://www.youtube.com/embed/wCPk_IxZY7E",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "120089",
+    "type": "tv",
+    "title": "SPY x FAMILY",
+    "content": "Season 3 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+    "trailerId": "5ASJJI_RkiA",
+    "trailerUrl": "https://www.youtube.com/embed/5ASJJI_RkiA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,16 +350,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "219760",
-    "type": "tv",
-    "title": "The Terminal List: Dark Wolf",
-    "content": "Next on The Terminal List: Dark Wolf",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yQw23xxmVBFVHPCF6V68TAIIfno.jpg",
-    "trailerId": "d3TlAKkVXrE",
-    "trailerUrl": "https://www.youtube.com/embed/d3TlAKkVXrE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "107255",
     "type": "tv",
     "title": "Dragon Raja -The Blazing Dawn-",
@@ -390,6 +390,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "219760",
+    "type": "tv",
+    "title": "The Terminal List: Dark Wolf",
+    "content": "Next on The Terminal List: Dark Wolf",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yQw23xxmVBFVHPCF6V68TAIIfno.jpg",
+    "trailerId": "d3TlAKkVXrE",
+    "trailerUrl": "https://www.youtube.com/embed/d3TlAKkVXrE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "110316",
     "type": "tv",
     "title": "Alice in Borderland",
@@ -420,13 +430,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "255055",
+    "id": "92621",
     "type": "tv",
-    "title": "Doc",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
-    "trailerId": "t7NQJ7txfRE",
-    "trailerUrl": "https://www.youtube.com/embed/t7NQJ7txfRE",
+    "title": "Brassic",
+    "content": "Series 7 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hEJE1WsZZqjJsq0Ltpom5qZzWEE.jpg",
+    "trailerId": "GDLSv-TGiQ4",
+    "trailerUrl": "https://www.youtube.com/embed/GDLSv-TGiQ4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -590,6 +600,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1159452",
+    "type": "movie",
+    "title": "Unsinkable: Titanic Untold",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bhORLT4XMKxoRJfnAPf5kJVSfjZ.jpg",
+    "trailerId": "qhfyYOhOIoM",
+    "trailerUrl": "https://www.youtube.com/embed/qhfyYOhOIoM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1035259",
     "type": "movie",
     "title": "The Naked Gun",
@@ -597,26 +617,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
     "trailerId": "WW5gu9D1exU",
     "trailerUrl": "https://www.youtube.com/embed/WW5gu9D1exU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1175942",
-    "type": "movie",
-    "title": "The Bad Guys 2",
-    "content": "Watch At Home Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
-    "trailerId": "lYudCQHG0c8",
-    "trailerUrl": "https://www.youtube.com/embed/lYudCQHG0c8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1367575",
-    "type": "movie",
-    "title": "A Line of Fire",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z8tNyAAnGk2d1XmO1L4i34UmP19.jpg",
-    "trailerId": "H3nT838DEno",
-    "trailerUrl": "https://www.youtube.com/embed/H3nT838DEno",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -640,6 +640,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1135303",
+    "type": "movie",
+    "title": "The Senior",
+    "content": "The Senior | Final Trailer | Angel",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r2YBcSNLC4mSjArLyld2zJilQbh.jpg",
+    "trailerId": "Th0PHN9KL84",
+    "trailerUrl": "https://www.youtube.com/embed/Th0PHN9KL84",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1245347",
     "type": "movie",
     "title": "Twinless",
@@ -650,13 +660,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1107325",
+    "id": "1038392",
     "type": "movie",
-    "title": "Witchboard",
-    "content": "One question, one answer. Would you dare to play?",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/I2OJKee8Fiz9wSkZWXVPLes5rZ.jpg",
-    "trailerId": "GV454UJO5J0",
-    "trailerUrl": "https://www.youtube.com/embed/GV454UJO5J0",
+    "title": "The Conjuring: Last Rites",
+    "content": "Don\u2019t run, unless it\u2019s to see the #1 movie in the world.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
+    "trailerId": "3iBhELud1-I",
+    "trailerUrl": "https://www.youtube.com/embed/3iBhELud1-I",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -690,6 +700,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "507244",
+    "type": "movie",
+    "title": "Afterburn",
+    "content": "Glory :15",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xqE7zgzeXL4MXI9dgI2giw2q4st.jpg",
+    "trailerId": "8g2fjtK_v-o",
+    "trailerUrl": "https://www.youtube.com/embed/8g2fjtK_v-o",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1144107",
     "type": "movie",
     "title": "The Legend of Hei 2",
@@ -717,16 +737,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rz8NcfTRczvn94vpnmMx42zt6EC.jpg",
     "trailerId": "N7qYSKw8JkQ",
     "trailerUrl": "https://www.youtube.com/embed/N7qYSKw8JkQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1088166",
-    "type": "movie",
-    "title": "Relay",
-    "content": "ASMR",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg",
-    "trailerId": "SkMK8_g7upA",
-    "trailerUrl": "https://www.youtube.com/embed/SkMK8_g7upA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
