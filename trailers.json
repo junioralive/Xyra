@@ -270,16 +270,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "94954",
-    "type": "tv",
-    "title": "Hazbin Hotel",
-    "content": "Season 2 Teaser Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
-    "trailerId": "h_BNVkUhwdg",
-    "trailerUrl": "https://www.youtube.com/embed/h_BNVkUhwdg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "120089",
     "type": "tv",
     "title": "SPY x FAMILY",
@@ -287,6 +277,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
     "trailerId": "5ASJJI_RkiA",
     "trailerUrl": "https://www.youtube.com/embed/5ASJJI_RkiA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "247043",
+    "type": "tv",
+    "title": "The Ba***ds of Bollywood",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tW80eVy19UxCp9WZrmLiztdthSE.jpg",
+    "trailerId": "dOZTeEG3yBQ",
+    "trailerUrl": "https://www.youtube.com/embed/dOZTeEG3yBQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -327,16 +327,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
     "trailerId": "iN0rFuCCA-Y",
     "trailerUrl": "https://www.youtube.com/embed/iN0rFuCCA-Y",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1535385",
-    "type": "movie",
-    "title": "Rebel Royals: An Unlikely Love Story",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x8nHl86s4lqsqBiyEXJfvCjpxu2.jpg",
-    "trailerId": "39d7dreq6GA",
-    "trailerUrl": "https://www.youtube.com/embed/39d7dreq6GA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -630,13 +620,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "3079",
+    "id": "1280444",
     "type": "movie",
-    "title": "The Curse of Frankenstein",
-    "content": "4K Restoration | Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
-    "trailerId": "_CDF6AyAwvk",
-    "trailerUrl": "https://www.youtube.com/embed/_CDF6AyAwvk",
+    "title": "The Occupant",
+    "content": "UK Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hltwDG1SWl1BqjORA619hIJb4Ui.jpg",
+    "trailerId": "hUvthdCBNYE",
+    "trailerUrl": "https://www.youtube.com/embed/hUvthdCBNYE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
