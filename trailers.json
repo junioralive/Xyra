@@ -3,10 +3,10 @@
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
-    "content": "\"It's a must see.\"",
+    "content": "Let's go! Let's go!",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wZYjrOQSJXbIil6Ij07badqJWdE.jpg",
-    "trailerId": "yJi7_YDufNQ",
-    "trailerUrl": "https://www.youtube.com/embed/yJi7_YDufNQ",
+    "trailerId": "84Xddey4syc",
+    "trailerUrl": "https://www.youtube.com/embed/84Xddey4syc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -264,7 +264,7 @@
     "type": "movie",
     "title": "Swiped",
     "content": "Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6Gv1h3yDmyX42mh6TypoEdQO1yl.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zfaZ8m6NHzylqTumf94mDGtQwKM.jpg",
     "trailerId": "8seUGDLZRIo",
     "trailerUrl": "https://www.youtube.com/embed/8seUGDLZRIo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -310,6 +310,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "289892",
+    "type": "tv",
+    "title": "Helluva Boss",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/20OP4f0xDbPttORm9OyIbNu3cNN.jpg",
+    "trailerId": "iN0rFuCCA-Y",
+    "trailerUrl": "https://www.youtube.com/embed/iN0rFuCCA-Y",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1535385",
     "type": "movie",
     "title": "Rebel Royals: An Unlikely Love Story",
@@ -317,16 +327,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x8nHl86s4lqsqBiyEXJfvCjpxu2.jpg",
     "trailerId": "39d7dreq6GA",
     "trailerUrl": "https://www.youtube.com/embed/39d7dreq6GA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "95480",
-    "type": "tv",
-    "title": "Slow Horses",
-    "content": "Season 5 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qhXdYysiamRu6moMGMZPQ4oVLvd.jpg",
-    "trailerId": "A9BCtrziWtg",
-    "trailerUrl": "https://www.youtube.com/embed/A9BCtrziWtg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -397,6 +397,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3xDd40wUfSfmJEiYmg5clEEqQzE.jpg",
     "trailerId": "WEsvnr_hARA",
     "trailerUrl": "https://www.youtube.com/embed/WEsvnr_hARA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "95480",
+    "type": "tv",
+    "title": "Slow Horses",
+    "content": "Season 5 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qhXdYysiamRu6moMGMZPQ4oVLvd.jpg",
+    "trailerId": "A9BCtrziWtg",
+    "trailerUrl": "https://www.youtube.com/embed/A9BCtrziWtg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
