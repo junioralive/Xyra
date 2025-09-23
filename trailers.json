@@ -1,5 +1,15 @@
 [
   {
+    "id": "1228710",
+    "type": "movie",
+    "title": "The Mandalorian and Grogu",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p5TWcM1wguZhrp5iGXjrV3XuAcJ.jpg",
+    "trailerId": "_pa1KLXuW0Y",
+    "trailerUrl": "https://www.youtube.com/embed/_pa1KLXuW0Y",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1241921",
     "type": "movie",
     "title": "A Big Bold Beautiful Journey",
@@ -57,16 +67,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x87BVYT8JBMyWjFnhcjdY7fy4Nt.jpg",
     "trailerId": "VU-lIzDWsn0",
     "trailerUrl": "https://www.youtube.com/embed/VU-lIzDWsn0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "82739",
-    "type": "tv",
-    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
-    "content": "Rascal Does Not Dream of Santa Claus - Episode #12 Preview [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
-    "trailerId": "hmHr27ufGYc",
-    "trailerUrl": "https://www.youtube.com/embed/hmHr27ufGYc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
