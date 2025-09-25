@@ -44,7 +44,7 @@
     "type": "movie",
     "title": "The Mandalorian and Grogu",
     "content": "Grogu Being Grogu",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9JDQKzNInhEbmcsS2KdlMXMLNTZ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
     "trailerId": "A8_b_z3OQ7Y",
     "trailerUrl": "https://www.youtube.com/embed/A8_b_z3OQ7Y",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -107,16 +107,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
     "trailerId": "XVt3aGqGoBM",
     "trailerUrl": "https://www.youtube.com/embed/XVt3aGqGoBM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "207484",
-    "type": "tv",
-    "title": "Outlander: Blood of My Blood",
-    "content": "Ep. 9 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x87BVYT8JBMyWjFnhcjdY7fy4Nt.jpg",
-    "trailerId": "VU-lIzDWsn0",
-    "trailerUrl": "https://www.youtube.com/embed/VU-lIzDWsn0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -200,6 +190,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1022787",
+    "type": "movie",
+    "title": "Elio",
+    "content": "Now Available On Disney+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/efnG1tkdzg5nIdCV7ABfm7XzNai.jpg",
+    "trailerId": "ajeTX18-K0M",
+    "trailerUrl": "https://www.youtube.com/embed/ajeTX18-K0M",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "3176",
     "type": "movie",
     "title": "Battle Royale",
@@ -227,16 +227,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mD4hRiMCeJUieg6tqaNBajH3UNg.jpg",
     "trailerId": "dsPFF5xBeMk",
     "trailerUrl": "https://www.youtube.com/embed/dsPFF5xBeMk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1022787",
-    "type": "movie",
-    "title": "Elio",
-    "content": "Now Available On Disney+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/efnG1tkdzg5nIdCV7ABfm7XzNai.jpg",
-    "trailerId": "ajeTX18-K0M",
-    "trailerUrl": "https://www.youtube.com/embed/ajeTX18-K0M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
