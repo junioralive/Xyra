@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "One Battle After Another",
     "content": "You just have to see it.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nB0QxPmgIFWxuwKorlJGOQdFEaa.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yqYRRCjogZUbI6Tj23OeOzyKByR.jpg",
     "trailerId": "mFFQvNFj5s8",
     "trailerUrl": "https://www.youtube.com/embed/mFFQvNFj5s8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -47,6 +47,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/l8pwO23MCvqYumzozpxynCNfck1.jpg",
     "trailerId": "R2Xubj7lazE",
     "trailerUrl": "https://www.youtube.com/embed/R2Xubj7lazE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "138505",
+    "type": "tv",
+    "title": "Marvel Zombies",
+    "content": "Queen",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+    "trailerId": "Fy7K-oo5h7k",
+    "trailerUrl": "https://www.youtube.com/embed/Fy7K-oo5h7k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "207468",
-    "type": "tv",
-    "title": "Kaiju No. 8",
-    "content": "Episode 22 Trailer - Cataclysms [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
-    "trailerId": "6AaRpnZrwGg",
-    "trailerUrl": "https://www.youtube.com/embed/6AaRpnZrwGg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "3176",
     "type": "movie",
     "title": "Battle Royale",
@@ -210,6 +210,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "207468",
+    "type": "tv",
+    "title": "Kaiju No. 8",
+    "content": "Episode 22 Trailer - Cataclysms [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
+    "trailerId": "6AaRpnZrwGg",
+    "trailerUrl": "https://www.youtube.com/embed/6AaRpnZrwGg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "56570",
     "type": "tv",
     "title": "Outlander",
@@ -217,6 +227,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lnEU5KKrpQNsDaxxjDHuzRRh8Zl.jpg",
     "trailerId": "s08y9tzti14",
     "trailerUrl": "https://www.youtube.com/embed/s08y9tzti14",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "11557",
+    "type": "movie",
+    "title": "St. Elmo's Fire",
+    "content": "Theatrical Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mD4hRiMCeJUieg6tqaNBajH3UNg.jpg",
+    "trailerId": "dsPFF5xBeMk",
+    "trailerUrl": "https://www.youtube.com/embed/dsPFF5xBeMk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -300,16 +320,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "138505",
-    "type": "tv",
-    "title": "Marvel Zombies",
-    "content": "Streaming Sept. 24",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
-    "trailerId": "8VEmp_Ycjws",
-    "trailerUrl": "https://www.youtube.com/embed/8VEmp_Ycjws",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "552524",
     "type": "movie",
     "title": "Lilo & Stitch",
@@ -340,13 +350,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "2291",
-    "type": "movie",
-    "title": "Jacob's Ladder",
-    "content": "4K Restoration Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oubk1SEFtg3Q8eOncFvGQVa6OoP.jpg",
-    "trailerId": "2AiwCLI04PY",
-    "trailerUrl": "https://www.youtube.com/embed/2AiwCLI04PY",
+    "id": "273247",
+    "type": "tv",
+    "title": "The Lowdown",
+    "content": "Teaser - Coming Up This Season",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dJAAtG8r93DaS7mtvlj6XtBcWvp.jpg",
+    "trailerId": "fmITt0VEVds",
+    "trailerUrl": "https://www.youtube.com/embed/fmITt0VEVds",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -403,7 +413,7 @@
     "id": "298698",
     "type": "tv",
     "title": "Crime Scene Zero",
-    "content": "Official Trailer [ENG SUB]",
+    "content": "Crime Scene Zero | Official Trailer | Netflix [ENG SUB]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i0kPV83Py7q0mGWiDBPLdzljeQX.jpg",
     "trailerId": "c86xv_YCwA8",
     "trailerUrl": "https://www.youtube.com/embed/c86xv_YCwA8",
@@ -487,16 +497,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
     "trailerId": "Ofvx6SHxYis",
     "trailerUrl": "https://www.youtube.com/embed/Ofvx6SHxYis",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "277544",
-    "type": "tv",
-    "title": "Love Is Blind: France",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7WuFGj6hNHsPGoyxPDpKzf6s4An.jpg",
-    "trailerId": "v57mhZGSTsQ",
-    "trailerUrl": "https://www.youtube.com/embed/v57mhZGSTsQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
