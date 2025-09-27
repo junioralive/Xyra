@@ -4,9 +4,19 @@
     "type": "movie",
     "title": "One Battle After Another",
     "content": "The plan is to experience One Battle After Another",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bg68ukcSn5HcMSX48NwcdNM8wNk.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pRWmekqHIcYkd1ueCJWsAWdhQfI.jpg",
     "trailerId": "H6YusKZrIKU",
     "trailerUrl": "https://www.youtube.com/embed/H6YusKZrIKU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "207468",
+    "type": "tv",
+    "title": "Kaiju No. 8",
+    "content": "Kaiju No. 8 Episode 23 Trailer | Second Wave",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
+    "trailerId": "K1E3pv56xZE",
+    "trailerUrl": "https://www.youtube.com/embed/K1E3pv56xZE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -80,16 +90,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1159831",
-    "type": "movie",
-    "title": "The Bride!",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMlCbasyAqBLV18CLEkDm07VKtn.jpg",
-    "trailerId": "LJraZRHhFwQ",
-    "trailerUrl": "https://www.youtube.com/embed/LJraZRHhFwQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "507244",
     "type": "movie",
     "title": "Afterburn",
@@ -150,6 +150,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "207484",
+    "type": "tv",
+    "title": "Outlander: Blood of My Blood",
+    "content": "Ep. 9 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x87BVYT8JBMyWjFnhcjdY7fy4Nt.jpg",
+    "trailerId": "VU-lIzDWsn0",
+    "trailerUrl": "https://www.youtube.com/embed/VU-lIzDWsn0",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1197137",
     "type": "movie",
     "title": "Black Phone 2",
@@ -177,16 +187,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1sU4w7DLJbcKdYjPrLB9jeiIkfz.jpg",
     "trailerId": "EmecKft35rM",
     "trailerUrl": "https://www.youtube.com/embed/EmecKft35rM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "207468",
-    "type": "tv",
-    "title": "Kaiju No. 8",
-    "content": "Episode 22 Trailer - Cataclysms [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9DrORnlwnjt5SeJKcuE5sqOoIdV.jpg",
-    "trailerId": "6AaRpnZrwGg",
-    "trailerUrl": "https://www.youtube.com/embed/6AaRpnZrwGg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -350,16 +350,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "99353",
-    "type": "tv",
-    "title": "Love Is Blind",
-    "content": "Season 9 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
-    "trailerId": "8WLvITF6-0Y",
-    "trailerUrl": "https://www.youtube.com/embed/8WLvITF6-0Y",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "107255",
     "type": "tv",
     "title": "Dragon Raja -The Blazing Dawn-",
@@ -390,6 +380,26 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "258902",
+    "type": "tv",
+    "title": "English Teacher",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mzCTs9DIcOb95Tl4myzpnI0vP0f.jpg",
+    "trailerId": "9rbZIrutu24",
+    "trailerUrl": "https://www.youtube.com/embed/9rbZIrutu24",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "286691",
+    "type": "tv",
+    "title": "Cat's Eye",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lzBA3tjY7mUM7URLAnOb6jIAG91.jpg",
+    "trailerId": "HhkyJX_Wgjc",
+    "trailerUrl": "https://www.youtube.com/embed/HhkyJX_Wgjc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "120089",
     "type": "tv",
     "title": "SPY x FAMILY",
@@ -403,7 +413,7 @@
     "id": "298698",
     "type": "tv",
     "title": "Crime Scene Zero",
-    "content": "Crime Scene Zero | Official Trailer | Netflix [ENG SUB]",
+    "content": "Official Trailer [ENG SUB]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i0kPV83Py7q0mGWiDBPLdzljeQX.jpg",
     "trailerId": "c86xv_YCwA8",
     "trailerUrl": "https://www.youtube.com/embed/c86xv_YCwA8",
@@ -437,16 +447,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/msAljUxkBtPB9GoQgGXzf4GFR3M.jpg",
     "trailerId": "nYG-BLlvTpI",
     "trailerUrl": "https://www.youtube.com/embed/nYG-BLlvTpI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "78483",
-    "type": "tv",
-    "title": "Kakuriyo -Bed & Breakfast for Spirits-",
-    "content": "Kakuriyo -Bed & Breakfast for Spirits- 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dlz74sjh6uRo9SKl39ncV3Jyy6P.jpg",
-    "trailerId": "CeZKkVy8Vj8",
-    "trailerUrl": "https://www.youtube.com/embed/CeZKkVy8Vj8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
