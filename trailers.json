@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "One Battle After Another",
     "content": "Sensei says get your tickets now.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pRWmekqHIcYkd1ueCJWsAWdhQfI.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
     "trailerId": "4WbRynMA3TQ",
     "trailerUrl": "https://www.youtube.com/embed/4WbRynMA3TQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -190,13 +190,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "207484",
-    "type": "tv",
-    "title": "Outlander: Blood of My Blood",
-    "content": "Ep. 9 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x87BVYT8JBMyWjFnhcjdY7fy4Nt.jpg",
-    "trailerId": "VU-lIzDWsn0",
-    "trailerUrl": "https://www.youtube.com/embed/VU-lIzDWsn0",
+    "id": "76600",
+    "type": "movie",
+    "title": "Avatar: The Way of Water",
+    "content": "Re-Release - Tickets On Sale",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
+    "trailerId": "VflTF8XFNgA",
+    "trailerUrl": "https://www.youtube.com/embed/VflTF8XFNgA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -217,16 +217,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
     "trailerId": "s4AFmGjndAA",
     "trailerUrl": "https://www.youtube.com/embed/s4AFmGjndAA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "76600",
-    "type": "movie",
-    "title": "Avatar: The Way of Water",
-    "content": "Re-Release - Tickets On Sale",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
-    "trailerId": "VflTF8XFNgA",
-    "trailerUrl": "https://www.youtube.com/embed/VflTF8XFNgA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -350,6 +340,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "258579",
+    "type": "tv",
+    "title": "Let This Grieving Soul Retire",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q5MecncRkHxOsOrlpzfNSUstxGg.jpg",
+    "trailerId": "uvJz8SZ6LJY",
+    "trailerUrl": "https://www.youtube.com/embed/uvJz8SZ6LJY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "259140",
     "type": "tv",
     "title": "Ranma1/2",
@@ -414,7 +414,7 @@
     "type": "tv",
     "title": "Cat's Eye",
     "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/592FjariwjvxJqfxuhNY9juoRR5.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n62nM0utFaKQiKJPJd1B7ZLhswt.jpg",
     "trailerId": "HhkyJX_Wgjc",
     "trailerUrl": "https://www.youtube.com/embed/HhkyJX_Wgjc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -452,7 +452,7 @@
   {
     "id": "137735",
     "type": "tv",
-    "title": "The Reluctant Traveler with Eugene Levy",
+    "title": "The Reluctant Traveller with Eugene Levy",
     "content": "Season 3 Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3xDd40wUfSfmJEiYmg5clEEqQzE.jpg",
     "trailerId": "WEsvnr_hARA",
