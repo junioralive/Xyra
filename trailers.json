@@ -3,10 +3,20 @@
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
-    "content": "Have you seen it yet?",
+    "content": "Sensei says get your tickets now.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pRWmekqHIcYkd1ueCJWsAWdhQfI.jpg",
-    "trailerId": "NzSJemvfc00",
-    "trailerUrl": "https://www.youtube.com/embed/NzSJemvfc00",
+    "trailerId": "4WbRynMA3TQ",
+    "trailerUrl": "https://www.youtube.com/embed/4WbRynMA3TQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1197137",
+    "type": "movie",
+    "title": "Black Phone 2",
+    "content": "Only in Theaters October 17",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
+    "trailerId": "OESE0wBi_J4",
+    "trailerUrl": "https://www.youtube.com/embed/OESE0wBi_J4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/x87BVYT8JBMyWjFnhcjdY7fy4Nt.jpg",
     "trailerId": "VU-lIzDWsn0",
     "trailerUrl": "https://www.youtube.com/embed/VU-lIzDWsn0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1197137",
-    "type": "movie",
-    "title": "Black Phone 2",
-    "content": "Only in Theaters October 17",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
-    "trailerId": "7a1PXxmJ_xc",
-    "trailerUrl": "https://www.youtube.com/embed/7a1PXxmJ_xc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -440,6 +440,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "245026",
+    "type": "tv",
+    "title": "Wizards Beyond Waverly Place",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lrweZdkZC6XBq3K5UQ8iFV4ZwCQ.jpg",
+    "trailerId": "-eOIUVzKtUs",
+    "trailerUrl": "https://www.youtube.com/embed/-eOIUVzKtUs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "137735",
     "type": "tv",
     "title": "The Reluctant Traveler with Eugene Levy",
@@ -477,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
     "trailerId": "NXpzKI-sEac",
     "trailerUrl": "https://www.youtube.com/embed/NXpzKI-sEac",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "2661",
-    "type": "tv",
-    "title": "Kamen Rider",
-    "content": "Kamen Rider ZEZTZ Starts September 6 - NEW EPISODE WEEKLY [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
-    "trailerId": "Ofvx6SHxYis",
-    "trailerUrl": "https://www.youtube.com/embed/Ofvx6SHxYis",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
