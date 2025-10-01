@@ -3,10 +3,40 @@
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
-    "content": "#1 Movie in the World",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nIX9kqNNe4ERx3wg3TuzRa2deAM.jpg",
-    "trailerId": "05avxcNpFls",
-    "trailerUrl": "https://www.youtube.com/embed/05avxcNpFls",
+    "content": "Nuns the word.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+    "trailerId": "FDgjfWA1I7U",
+    "trailerUrl": "https://www.youtube.com/embed/FDgjfWA1I7U",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1197137",
+    "type": "movie",
+    "title": "Black Phone 2",
+    "content": "Get Tickets Now",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
+    "trailerId": "pWNucAcRoBY",
+    "trailerUrl": "https://www.youtube.com/embed/pWNucAcRoBY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1235746",
+    "type": "movie",
+    "title": "Dead of Winter",
+    "content": "Now Playing In Cinemas",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1Kc2o8wTcsFDAzk6lOnbpm2ZByK.jpg",
+    "trailerId": "BHh0YfMYyFo",
+    "trailerUrl": "https://www.youtube.com/embed/BHh0YfMYyFo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1257009",
+    "type": "movie",
+    "title": "Primitive War",
+    "content": "Out on digital across North America this Friday Oct 3!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fC4U5r2R8zPf9VxIEoQebIKxYfD.jpg",
+    "trailerId": "5k8WuSwSj6c",
+    "trailerUrl": "https://www.youtube.com/embed/5k8WuSwSj6c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -67,16 +97,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
     "trailerId": "gM-l_YRvWQA",
     "trailerUrl": "https://www.youtube.com/embed/gM-l_YRvWQA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1197137",
-    "type": "movie",
-    "title": "Black Phone 2",
-    "content": "Only in Theaters October 17",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
-    "trailerId": "OESE0wBi_J4",
-    "trailerUrl": "https://www.youtube.com/embed/OESE0wBi_J4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -180,23 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "138505",
+    "id": "94954",
     "type": "tv",
-    "title": "Marvel Zombies",
-    "content": "Queen",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
-    "trailerId": "Fy7K-oo5h7k",
-    "trailerUrl": "https://www.youtube.com/embed/Fy7K-oo5h7k",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1252309",
-    "type": "movie",
-    "title": "Tell Me What You Want",
-    "content": "Trailer [Dubbed]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8Rseq6hAhAItnTrbECEFt35VoSJ.jpg",
-    "trailerId": "MzNbhA4WFqg",
-    "trailerUrl": "https://www.youtube.com/embed/MzNbhA4WFqg",
+    "title": "Hazbin Hotel",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tuCU2yVRM2iZxFkpqlPUyvd6tSu.jpg",
+    "trailerId": "Ro311cUw5b0",
+    "trailerUrl": "https://www.youtube.com/embed/Ro311cUw5b0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -230,6 +240,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "138505",
+    "type": "tv",
+    "title": "Marvel Zombies",
+    "content": "Queen",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
+    "trailerId": "Fy7K-oo5h7k",
+    "trailerUrl": "https://www.youtube.com/embed/Fy7K-oo5h7k",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "3176",
     "type": "movie",
     "title": "Battle Royale",
@@ -244,7 +264,7 @@
     "type": "tv",
     "title": "Bon App\u00e9tit, Your Majesty",
     "content": "Final Trailer [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9QwPn3hV58ESYzT6YbWPzGJ9SjG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2vQJKEaH4QIAuWEy91B5Ljz6SW5.jpg",
     "trailerId": "hGetQOWZAuc",
     "trailerUrl": "https://www.youtube.com/embed/hGetQOWZAuc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -257,6 +277,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
     "trailerId": "VflTF8XFNgA",
     "trailerUrl": "https://www.youtube.com/embed/VflTF8XFNgA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1524554",
+    "type": "movie",
+    "title": "Adventures in Love & Birding",
+    "content": "Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uJyhcxZZhr7cBrz9atzLuYIxXvi.jpg",
+    "trailerId": "fA7DKbHfuP4",
+    "trailerUrl": "https://www.youtube.com/embed/fA7DKbHfuP4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -277,16 +307,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lnEU5KKrpQNsDaxxjDHuzRRh8Zl.jpg",
     "trailerId": "s08y9tzti14",
     "trailerUrl": "https://www.youtube.com/embed/s08y9tzti14",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "11557",
-    "type": "movie",
-    "title": "St. Elmo's Fire",
-    "content": "Theatrical Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mD4hRiMCeJUieg6tqaNBajH3UNg.jpg",
-    "trailerId": "dsPFF5xBeMk",
-    "trailerUrl": "https://www.youtube.com/embed/dsPFF5xBeMk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,16 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1373150",
-    "type": "movie",
-    "title": "The Devil Is Busy",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/AvbaItPGQGe8Tk266MYo9uWbVs5.jpg",
-    "trailerId": "p4rC1468JuQ",
-    "trailerUrl": "https://www.youtube.com/embed/p4rC1468JuQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "65930",
     "type": "tv",
     "title": "My Hero Academia",
@@ -390,13 +400,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "259140",
+    "id": "280042",
     "type": "tv",
-    "title": "Ranma1/2",
-    "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xMgzRUA1RjxLQn05oJ8IFbf06AO.jpg",
-    "trailerId": "qf_pRksXtTw",
-    "trailerUrl": "https://www.youtube.com/embed/qf_pRksXtTw",
+    "title": "A Wild Last Boss Appeared!",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gNYmU3RUlCb6dVqkiPCT7vglMfg.jpg",
+    "trailerId": "Y_G0A8ohFLo",
+    "trailerUrl": "https://www.youtube.com/embed/Y_G0A8ohFLo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -490,6 +500,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1252309",
+    "type": "movie",
+    "title": "Tell Me What You Want",
+    "content": "Trailer [Dubbed]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8Rseq6hAhAItnTrbECEFt35VoSJ.jpg",
+    "trailerId": "MzNbhA4WFqg",
+    "trailerUrl": "https://www.youtube.com/embed/MzNbhA4WFqg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1245993",
     "type": "movie",
     "title": "Caught Stealing",
@@ -560,16 +580,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1107325",
-    "type": "movie",
-    "title": "Witchboard",
-    "content": "One question, one answer. Would you dare to play?",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sQqdvDQET5pr7PbVAtPsYYucZoR.jpg",
-    "trailerId": "GV454UJO5J0",
-    "trailerUrl": "https://www.youtube.com/embed/GV454UJO5J0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "10494",
     "type": "movie",
     "title": "Perfect Blue",
@@ -597,6 +607,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
     "trailerId": "VXKHys7odj8",
     "trailerUrl": "https://www.youtube.com/embed/VXKHys7odj8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1092506",
+    "type": "movie",
+    "title": "On Swift Horses",
+    "content": "Some journeys are impossible to forget",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jKMbP0rwEkJYxkNRFQXFkVIIzGP.jpg",
+    "trailerId": "gjzLczCJ_UM",
+    "trailerUrl": "https://www.youtube.com/embed/gjzLczCJ_UM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -727,16 +747,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5ZI8XCZKtE24zvNOpmrWa9599c9.jpg",
     "trailerId": "u4A8zfMClCM",
     "trailerUrl": "https://www.youtube.com/embed/u4A8zfMClCM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1245347",
-    "type": "movie",
-    "title": "Twinless",
-    "content": "Official Australian Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fnvTC96lA7pf8ZlMKI2FgBZ86AP.jpg",
-    "trailerId": "dTVJeEb69e0",
-    "trailerUrl": "https://www.youtube.com/embed/dTVJeEb69e0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
