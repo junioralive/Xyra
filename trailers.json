@@ -40,6 +40,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1062722",
+    "type": "movie",
+    "title": "Frankenstein",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sy7Y4jCDsGPCzoQIEmxqAgPjAgr.jpg",
+    "trailerId": "8aulMPhE12g",
+    "trailerUrl": "https://www.youtube.com/embed/8aulMPhE12g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1235746",
     "type": "movie",
     "title": "Dead of Winter",
@@ -54,7 +64,7 @@
     "type": "movie",
     "title": "Primitive War",
     "content": "Out on digital across North America this Friday Oct 3!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eQ8MwcYBO5i3ekPj53HQcw8ToqZ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gDvlSJXM646Inc20dln7takAyUB.jpg",
     "trailerId": "5k8WuSwSj6c",
     "trailerUrl": "https://www.youtube.com/embed/5k8WuSwSj6c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -120,6 +130,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "82739",
+    "type": "tv",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "content": "Rascal Does Not Dream of Santa Claus - Episode #13 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ffvaWDSYLcIQRCLFLG1a3lC0xPX.jpg",
+    "trailerId": "124x-LatDCU",
+    "trailerUrl": "https://www.youtube.com/embed/124x-LatDCU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "207468",
     "type": "tv",
     "title": "Kaiju No. 8",
@@ -177,26 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pN3eaCl3sqwrerU8UNdp40F2mK0.jpg",
     "trailerId": "Ma1x7ikpid8",
     "trailerUrl": "https://www.youtube.com/embed/Ma1x7ikpid8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1241921",
-    "type": "movie",
-    "title": "A Big Bold Beautiful Journey",
-    "content": "Soundtrack Featuring Joe Hisaishi, Mitski & Laufey",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
-    "trailerId": "Z-dk9cPIYyY",
-    "trailerUrl": "https://www.youtube.com/embed/Z-dk9cPIYyY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1545953",
-    "type": "movie",
-    "title": "Mayumi",
-    "content": "MAYUMI Official Trailer | World Premiere this SEPTEMBER 26 only on VMX",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bxiQAJszNse2QKNGNe1tOL8i6bP.jpg",
-    "trailerId": "yg7SvHVKhLo",
-    "trailerUrl": "https://www.youtube.com/embed/yg7SvHVKhLo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -657,6 +657,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
     "trailerId": "BgwJEpmPKk8",
     "trailerUrl": "https://www.youtube.com/embed/BgwJEpmPKk8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1241921",
+    "type": "movie",
+    "title": "A Big Bold Beautiful Journey",
+    "content": "Soundtrack Featuring Joe Hisaishi, Mitski & Laufey",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+    "trailerId": "Z-dk9cPIYyY",
+    "trailerUrl": "https://www.youtube.com/embed/Z-dk9cPIYyY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
