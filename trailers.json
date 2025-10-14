@@ -240,11 +240,21 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1477448",
+    "type": "movie",
+    "title": "Haul Out the Halloween",
+    "content": "Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/WVCy8tL18tDQ9oxnqgbW9nmumZ.jpg",
+    "trailerId": "I-YBo1EOIbU",
+    "trailerUrl": "https://www.youtube.com/embed/I-YBo1EOIbU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "110492",
     "type": "tv",
     "title": "Peacemaker",
     "content": "Season 2 Episode 8 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pj1wFbZF3gpEg7F0EreXTvZNZTG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aJcUU3LMlqMKBi8L3eaxGfAbd4G.jpg",
     "trailerId": "wDusYttuHzU",
     "trailerUrl": "https://www.youtube.com/embed/wDusYttuHzU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -307,16 +317,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s9oWvDQoVka7Zisi3rmJ3Lj9WA.jpg",
     "trailerId": "xRNND_uve8I",
     "trailerUrl": "https://www.youtube.com/embed/xRNND_uve8I",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "43329",
-    "type": "movie",
-    "title": "Apache",
-    "content": "Masters of Cinema Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u6JfwUGjZsOgK0tqVYKxZLTHstJ.jpg",
-    "trailerId": "jSvXgJ1VPfA",
-    "trailerUrl": "https://www.youtube.com/embed/jSvXgJ1VPfA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -620,6 +620,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "936245",
+    "type": "movie",
+    "title": "Hidden Face",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jgySLjw9ZDKbnGf0VlhlHT7iHSi.jpg",
+    "trailerId": "ILc5IVKqszY",
+    "trailerUrl": "https://www.youtube.com/embed/ILc5IVKqszY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1061474",
     "type": "movie",
     "title": "Superman",
@@ -693,7 +703,7 @@
     "id": "507244",
     "type": "movie",
     "title": "Afterburn",
-    "content": "Official Trailer",
+    "content": "Official UK Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
     "trailerId": "ZkEjle729tI",
     "trailerUrl": "https://www.youtube.com/embed/ZkEjle729tI",
