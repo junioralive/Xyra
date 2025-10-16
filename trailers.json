@@ -133,7 +133,7 @@
     "id": "639988",
     "type": "movie",
     "title": "No Other Choice",
-    "content": "Official US Trailer [Subtitled]",
+    "content": "Official Trailer [Subtitled]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
     "trailerId": "SK_DEabMNVg",
     "trailerUrl": "https://www.youtube.com/embed/SK_DEabMNVg",
@@ -197,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
     "trailerId": "eM0WEs93svQ",
     "trailerUrl": "https://www.youtube.com/embed/eM0WEs93svQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "247168",
-    "type": "tv",
-    "title": "Chad Powers",
-    "content": "Next on 104",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
-    "trailerId": "SL8PPqqj9Fo",
-    "trailerUrl": "https://www.youtube.com/embed/SL8PPqqj9Fo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "237052",
+    "type": "tv",
+    "title": "The Lost Station Girls",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kXBr9CWrutta2PxUkbYlI9EXrC8.jpg",
+    "trailerId": "Wb5g5zC00nE",
+    "trailerUrl": "https://www.youtube.com/embed/Wb5g5zC00nE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "286791",
     "type": "tv",
     "title": "Digimon Beatbreak",
@@ -357,6 +357,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cH39aJg9VlEaYo6yY37Iah8RAaz.jpg",
     "trailerId": "FwE87GX3dEc",
     "trailerUrl": "https://www.youtube.com/embed/FwE87GX3dEc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "247168",
+    "type": "tv",
+    "title": "Chad Powers",
+    "content": "Next on 104",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lu4HO4kJx2aZzVgjoRcF9vYPaFI.jpg",
+    "trailerId": "SL8PPqqj9Fo",
+    "trailerUrl": "https://www.youtube.com/embed/SL8PPqqj9Fo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -444,19 +454,9 @@
     "type": "tv",
     "title": "Loot",
     "content": "Season 3 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/15boPorcwy0wOZKFwQtCBdYdaB2.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wk1ylquzPsZFRSuGXyAfZ0gyHmV.jpg",
     "trailerId": "eWnXoC2DQXQ",
     "trailerUrl": "https://www.youtube.com/embed/eWnXoC2DQXQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "291361",
-    "type": "tv",
-    "title": "Knife Edge: Chasing Michelin Stars",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aAwH3ghDivLZm2A4lBGlXxNVdz2.jpg",
-    "trailerId": "X23W_8uJHjk",
-    "trailerUrl": "https://www.youtube.com/embed/X23W_8uJHjk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
