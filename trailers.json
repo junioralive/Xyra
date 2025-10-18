@@ -230,16 +230,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "42120",
-    "type": "movie",
-    "title": "City on Fire",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z0nG5clqGqdkiKUPMGTNiJ68m5x.jpg",
-    "trailerId": "KF1wFE5GfFY",
-    "trailerUrl": "https://www.youtube.com/embed/KF1wFE5GfFY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "45790",
     "type": "tv",
     "title": "JoJo's Bizarre Adventure",
@@ -250,16 +240,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1205229",
-    "type": "movie",
-    "title": "Night of the Zoopocalypse",
-    "content": "Capybara Meme",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h2SEtzuABKmcZAnKBJ1za3kETTY.jpg",
-    "trailerId": "22BK3pkquX0",
-    "trailerUrl": "https://www.youtube.com/embed/22BK3pkquX0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1264573",
     "type": "movie",
     "title": "Lurker",
@@ -267,16 +247,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u4JsyMpp6mtAYbg0t3GIaCgPrRy.jpg",
     "trailerId": "TohwFNb7AHI",
     "trailerUrl": "https://www.youtube.com/embed/TohwFNb7AHI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1546989",
-    "type": "movie",
-    "title": "Haunted Harmony Mysteries: Buried at C",
-    "content": "Sneak Peek",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1oLY7Do5eHvZjCwPSCXlKN3hcim.jpg",
-    "trailerId": "AowUOac9BVQ",
-    "trailerUrl": "https://www.youtube.com/embed/AowUOac9BVQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -350,6 +320,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "927254",
+    "type": "movie",
+    "title": "The Twits",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "trailerId": "dMZI0FkYLEs",
+    "trailerUrl": "https://www.youtube.com/embed/dMZI0FkYLEs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1477448",
     "type": "movie",
     "title": "Haul Out the Halloween",
@@ -357,6 +337,26 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/WVCy8tL18tDQ9oxnqgbW9nmumZ.jpg",
     "trailerId": "I-YBo1EOIbU",
     "trailerUrl": "https://www.youtube.com/embed/I-YBo1EOIbU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1319965",
+    "type": "movie",
+    "title": "All of You",
+    "content": "Unstoppable Love",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yGsEsHlc81Q1i9Z3yoVv394PrlG.jpg",
+    "trailerId": "Jcmqnsxc6GM",
+    "trailerUrl": "https://www.youtube.com/embed/Jcmqnsxc6GM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1327769",
+    "type": "movie",
+    "title": "27 Nights",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5fwRgUF11NGJDXK4iDCLa2v1kCL.jpg",
+    "trailerId": "T9PEcUpiW6A",
+    "trailerUrl": "https://www.youtube.com/embed/T9PEcUpiW6A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -584,7 +584,7 @@
     "type": "movie",
     "title": "The Astronaut",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tqG7E5MdkILeLtH3yIpiFq5KQlt.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m275yNJj5P11IntYSYvTzS7h3fT.jpg",
     "trailerId": "cF3gdVOT6gQ",
     "trailerUrl": "https://www.youtube.com/embed/cF3gdVOT6gQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -597,16 +597,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/so5jtbB00IiW3dKbeI5JTdGNmK2.jpg",
     "trailerId": "hEYN-c8kR6A",
     "trailerUrl": "https://www.youtube.com/embed/hEYN-c8kR6A",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1175662",
-    "type": "movie",
-    "title": "The Mystery of Emma Thorn",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kCeur5EvLJLWl9O93TJHivQ3vDA.jpg",
-    "trailerId": "GfHQVCaaZt4",
-    "trailerUrl": "https://www.youtube.com/embed/GfHQVCaaZt4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
