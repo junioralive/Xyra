@@ -1,5 +1,15 @@
 [
   {
+    "id": "120089",
+    "type": "tv",
+    "title": "SPY x FAMILY",
+    "content": "MISSION: 40 - Season 3",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
+    "trailerId": "Hm80XtFUrPs",
+    "trailerUrl": "https://www.youtube.com/embed/Hm80XtFUrPs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1265063",
     "type": "movie",
     "title": "After the Hunt",
@@ -14,7 +24,7 @@
     "type": "movie",
     "title": "Black Phone 2",
     "content": "Only in Theaters Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ck8o7wiq0oSs0sgzO4IvOIQOhTd.jpg",
     "trailerId": "Lz5mf-kKPRc",
     "trailerUrl": "https://www.youtube.com/embed/Lz5mf-kKPRc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -150,16 +160,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "120089",
-    "type": "tv",
-    "title": "SPY x FAMILY",
-    "content": "MISSION:39 - Season 3",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-    "trailerId": "euWCmnG3UFM",
-    "trailerUrl": "https://www.youtube.com/embed/euWCmnG3UFM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "639988",
     "type": "movie",
     "title": "No Other Choice",
@@ -173,7 +173,7 @@
     "id": "65334",
     "type": "tv",
     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "content": "The Dark Castle - Teaser",
+    "content": "The Dark Castle Teaser - Season 6",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
     "trailerId": "wDF8SJvStYU",
     "trailerUrl": "https://www.youtube.com/embed/wDF8SJvStYU",
@@ -350,6 +350,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1477448",
+    "type": "movie",
+    "title": "Haul Out the Halloween",
+    "content": "Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/WVCy8tL18tDQ9oxnqgbW9nmumZ.jpg",
+    "trailerId": "I-YBo1EOIbU",
+    "trailerUrl": "https://www.youtube.com/embed/I-YBo1EOIbU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "286791",
     "type": "tv",
     "title": "Digimon Beatbreak",
@@ -447,6 +457,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/asDINJT3b7tEa76uWI1rZ5TWdJF.jpg",
     "trailerId": "WupmOE08a0s",
     "trailerUrl": "https://www.youtube.com/embed/WupmOE08a0s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "114478",
+    "type": "tv",
+    "title": "Star Wars: Visions",
+    "content": "Volume 3 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/285SD5D2xE2x0W96dYHyRNF2YNK.jpg",
+    "trailerId": "SuOQbmC9PQk",
+    "trailerUrl": "https://www.youtube.com/embed/SuOQbmC9PQk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
