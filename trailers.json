@@ -40,6 +40,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1242898",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "content": "Dangerous",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lfh5nPP2Rsx9sZQZrLxL8GsmgoA.jpg",
+    "trailerId": "DS1CVyB8O-U",
+    "trailerUrl": "https://www.youtube.com/embed/DS1CVyB8O-U",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1197137",
     "type": "movie",
     "title": "Black Phone 2",
@@ -87,16 +97,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
     "trailerId": "mZIrcSz-elM",
     "trailerUrl": "https://www.youtube.com/embed/mZIrcSz-elM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1242898",
-    "type": "movie",
-    "title": "Predator: Badlands",
-    "content": "Tickets on Sale",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lfh5nPP2Rsx9sZQZrLxL8GsmgoA.jpg",
-    "trailerId": "ENr_QTp7S8c",
-    "trailerUrl": "https://www.youtube.com/embed/ENr_QTp7S8c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -200,6 +200,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1314452",
+    "type": "movie",
+    "title": "Other",
+    "content": "OTHER | Official Trailer | Shudder",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/amFxtFCoR48ECStYbsTqS15d0Pj.jpg",
+    "trailerId": "zOcWoUMf3Bk",
+    "trailerUrl": "https://www.youtube.com/embed/zOcWoUMf3Bk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "247168",
     "type": "tv",
     "title": "Chad Powers",
@@ -300,21 +310,11 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "2654",
-    "type": "movie",
-    "title": "In the Mouth of Madness",
-    "content": "Official Arrow Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/y5cWfEOlJtWCnIHutE574FANhBm.jpg",
-    "trailerId": "qs1qo46GfWs",
-    "trailerUrl": "https://www.youtube.com/embed/qs1qo46GfWs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "927254",
     "type": "movie",
     "title": "The Twits",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4KIg3yxQcWbuXJ5xgiTLGguCtC.jpg",
     "trailerId": "dMZI0FkYLEs",
     "trailerUrl": "https://www.youtube.com/embed/dMZI0FkYLEs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -353,10 +353,10 @@
     "id": "65930",
     "type": "tv",
     "title": "My Hero Academia",
-    "content": "FINAL SEASON English Dub Trailer",
+    "content": "Katsuki Bakugo Special Edition - FINAL SEASON [ENG SUB]",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cH39aJg9VlEaYo6yY37Iah8RAaz.jpg",
-    "trailerId": "FwE87GX3dEc",
-    "trailerUrl": "https://www.youtube.com/embed/FwE87GX3dEc",
+    "trailerId": "_2cLCDn5ycE",
+    "trailerUrl": "https://www.youtube.com/embed/_2cLCDn5ycE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -527,6 +527,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bWF5ImUscXXYia8owpm8coadR4m.jpg",
     "trailerId": "5k8WuSwSj6c",
     "trailerUrl": "https://www.youtube.com/embed/5k8WuSwSj6c",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1319972",
+    "type": "movie",
+    "title": "Don't Let's Go to the Dogs Tonight",
+    "content": "Through a child\u2019s eyes",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/LbLP1yi4WHI3HZO7iQW43B5FZU.jpg",
+    "trailerId": "j_NAgQeRsuM",
+    "trailerUrl": "https://www.youtube.com/embed/j_NAgQeRsuM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
