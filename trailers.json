@@ -1,5 +1,15 @@
 [
   {
+    "id": "1242898",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "content": "New Chant",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lfh5nPP2Rsx9sZQZrLxL8GsmgoA.jpg",
+    "trailerId": "OQ6QU2ZsO68",
+    "trailerUrl": "https://www.youtube.com/embed/OQ6QU2ZsO68",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1242419",
     "type": "movie",
     "title": "Roofman",
@@ -47,16 +57,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xEhFIhfZIoswq1Eav9rOvOSb60i.jpg",
     "trailerId": "qwL5At5zQ9g",
     "trailerUrl": "https://www.youtube.com/embed/qwL5At5zQ9g",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1242898",
-    "type": "movie",
-    "title": "Predator: Badlands",
-    "content": "Dangerous",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lfh5nPP2Rsx9sZQZrLxL8GsmgoA.jpg",
-    "trailerId": "DS1CVyB8O-U",
-    "trailerUrl": "https://www.youtube.com/embed/DS1CVyB8O-U",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -380,13 +380,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "46437",
+    "id": "222624",
     "type": "tv",
-    "title": "Kingdom",
-    "content": "Season 6 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
-    "trailerId": "o_8rPkAVpQI",
-    "trailerUrl": "https://www.youtube.com/embed/o_8rPkAVpQI",
+    "title": "GINTAMA - Mr. Ginpachi's Zany Class",
+    "content": "GINTAMA - Mr.Ginpachi's Zany Class | Official Trailer | Crunchyroll",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/p3z41RTX1Y9qmb9LwOiZY0Qrs1j.jpg",
+    "trailerId": "e5x47GIm6Po",
+    "trailerUrl": "https://www.youtube.com/embed/e5x47GIm6Po",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -413,7 +413,7 @@
     "id": "154521",
     "type": "tv",
     "title": "The Kardashians",
-    "content": "Season 7 Official Trailer",
+    "content": "The Kardashians | Season 7 | Official Trailer | Hulu",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oE2iPk4dq5qeF7d9pwxT3gDKdX9.jpg",
     "trailerId": "W8dNXLBd1RM",
     "trailerUrl": "https://www.youtube.com/embed/W8dNXLBd1RM",
