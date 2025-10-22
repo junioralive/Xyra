@@ -160,6 +160,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1230368",
+    "type": "movie",
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7OwZxXuLPtCFjdqJdiTuEE1DE4J.jpg",
+    "trailerId": "ylvia3aATes",
+    "trailerUrl": "https://www.youtube.com/embed/ylvia3aATes",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "911430",
     "type": "movie",
     "title": "F1",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hEE8TV5jLQZQnpPN4QmYZ1lCJNq.jpg",
     "trailerId": "R0j7zfUnUxw",
     "trailerUrl": "https://www.youtube.com/embed/R0j7zfUnUxw",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1218925",
-    "type": "movie",
-    "title": "Chainsaw Man - The Movie: Reze Arc",
-    "content": "Get ready.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
-    "trailerId": "7_5OQbKE1_A",
-    "trailerUrl": "https://www.youtube.com/embed/7_5OQbKE1_A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -430,13 +430,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "87478",
+    "id": "46437",
     "type": "tv",
-    "title": "Isekai Quartet",
-    "content": "Isekai Quartet3 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nLDxVvCnQaRRqWjvER9j5bsrre9.jpg",
-    "trailerId": "uZ7yz5dbeSE",
-    "trailerUrl": "https://www.youtube.com/embed/uZ7yz5dbeSE",
+    "title": "Kingdom",
+    "content": "Season 6 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
+    "trailerId": "o_8rPkAVpQI",
+    "trailerUrl": "https://www.youtube.com/embed/o_8rPkAVpQI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -463,7 +463,7 @@
     "id": "154521",
     "type": "tv",
     "title": "The Kardashians",
-    "content": "The Kardashians | Season 7 | Official Trailer | Hulu",
+    "content": "Season 7 Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iZQj2vw0wImBJZ2rBqzNySD2FgJ.jpg",
     "trailerId": "W8dNXLBd1RM",
     "trailerUrl": "https://www.youtube.com/embed/W8dNXLBd1RM",
@@ -640,13 +640,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1230368",
+    "id": "1218925",
     "type": "movie",
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7OwZxXuLPtCFjdqJdiTuEE1DE4J.jpg",
-    "trailerId": "ylvia3aATes",
-    "trailerUrl": "https://www.youtube.com/embed/ylvia3aATes",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "content": "Get ready.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+    "trailerId": "7_5OQbKE1_A",
+    "trailerUrl": "https://www.youtube.com/embed/7_5OQbKE1_A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -670,6 +670,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "937941",
+    "type": "movie",
+    "title": "Shelby Oaks",
+    "content": "Official Trailer #2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+    "trailerId": "B-m1TGIY6Zo",
+    "trailerUrl": "https://www.youtube.com/embed/B-m1TGIY6Zo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1352624",
     "type": "movie",
     "title": "The Mastermind",
@@ -687,16 +697,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/spVx2wKmvoaO7M5OOfGthCp7PRt.jpg",
     "trailerId": "fGUJmnt2FbE",
     "trailerUrl": "https://www.youtube.com/embed/fGUJmnt2FbE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1160360",
-    "type": "movie",
-    "title": "If I Had Legs I'd Kick You",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eLVKuHGx9k8JgLk5JINQDmh9tRH.jpg",
-    "trailerId": "-oDLBRLkflo",
-    "trailerUrl": "https://www.youtube.com/embed/-oDLBRLkflo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
