@@ -94,7 +94,7 @@
     "type": "movie",
     "title": "Black Phone 2",
     "content": "Only in Theaters Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
     "trailerId": "Lz5mf-kKPRc",
     "trailerUrl": "https://www.youtube.com/embed/Lz5mf-kKPRc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -430,6 +430,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "87478",
+    "type": "tv",
+    "title": "Isekai Quartet",
+    "content": "Isekai Quartet3 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nLDxVvCnQaRRqWjvER9j5bsrre9.jpg",
+    "trailerId": "uZ7yz5dbeSE",
+    "trailerUrl": "https://www.youtube.com/embed/uZ7yz5dbeSE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "94954",
     "type": "tv",
     "title": "Hazbin Hotel",
@@ -453,20 +463,10 @@
     "id": "154521",
     "type": "tv",
     "title": "The Kardashians",
-    "content": "Season 7 Official Trailer",
+    "content": "The Kardashians | Season 7 | Official Trailer | Hulu",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iZQj2vw0wImBJZ2rBqzNySD2FgJ.jpg",
     "trailerId": "W8dNXLBd1RM",
     "trailerUrl": "https://www.youtube.com/embed/W8dNXLBd1RM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "60989",
-    "type": "tv",
-    "title": "Married at First Sight",
-    "content": "Season 19 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vGae24hpB08QxLIiaM6p4I6a86T.jpg",
-    "trailerId": "xoRFcel-nHg",
-    "trailerUrl": "https://www.youtube.com/embed/xoRFcel-nHg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
