@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "Regretting You",
     "content": "Get Tickets Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/amcOpAGkcTEZqmUG1LNM2gYGCam.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4aL023RUa1m4LORPHRsYbuK6HGx.jpg",
     "trailerId": "RS4k096oJY8",
     "trailerUrl": "https://www.youtube.com/embed/RS4k096oJY8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -140,6 +140,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1549292",
+    "type": "movie",
+    "title": "LEGO Frozen: Operation Puffins",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gbAcTyVtPfzCBs58xs6NYKHiPCp.jpg",
+    "trailerId": "R6-sFBJPYyY",
+    "trailerUrl": "https://www.youtube.com/embed/R6-sFBJPYyY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "533533",
     "type": "movie",
     "title": "TRON: Ares",
@@ -190,13 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "911430",
-    "type": "movie",
-    "title": "F1",
-    "content": "Streaming Date Announcement",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
-    "trailerId": "yQhnhH2adFM",
-    "trailerUrl": "https://www.youtube.com/embed/yQhnhH2adFM",
+    "id": "271267",
+    "type": "tv",
+    "title": "The Chair Company",
+    "content": "Episode 3 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
+    "trailerId": "8j8SymSRxL8",
+    "trailerUrl": "https://www.youtube.com/embed/8j8SymSRxL8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -277,16 +287,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
     "trailerId": "ZsSH3xEq9uk",
     "trailerUrl": "https://www.youtube.com/embed/ZsSH3xEq9uk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "271267",
-    "type": "tv",
-    "title": "The Chair Company",
-    "content": "Weeks Ahead Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jq9biQdGSL0GIUyDaLLl7x8rgzm.jpg",
-    "trailerId": "oz8AZmwps0M",
-    "trailerUrl": "https://www.youtube.com/embed/oz8AZmwps0M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -507,6 +507,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hCJ3xGMyzwpBcUlBGJGyUwDgQ4d.jpg",
     "trailerId": "Z7OzKVHzfiI",
     "trailerUrl": "https://www.youtube.com/embed/Z7OzKVHzfiI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "911430",
+    "type": "movie",
+    "title": "F1",
+    "content": "Streaming Date Announcement",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+    "trailerId": "yQhnhH2adFM",
+    "trailerUrl": "https://www.youtube.com/embed/yQhnhH2adFM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
