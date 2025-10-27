@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "The Running Man",
     "content": "Play the game or the game plays you.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7zh3IjkDQf0AMpne5qrWeTFEB7C.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nuCVfa3HGbQ4QBzwZPvKT0TJSke.jpg",
     "trailerId": "QarDBF4w6dM",
     "trailerUrl": "https://www.youtube.com/embed/QarDBF4w6dM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -194,7 +194,7 @@
     "type": "tv",
     "title": "IT: Welcome to Derry",
     "content": "Official Red Band Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2746UvsbkZINd873Yd3o3TxOwCP.jpg",
     "trailerId": "u4JE2AyqDII",
     "trailerUrl": "https://www.youtube.com/embed/u4JE2AyqDII",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -690,6 +690,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1196791",
+    "type": "movie",
+    "title": "Soul on Fire",
+    "content": "Tr\u00e1iler Oficial",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
+    "trailerId": "P4uU-BoNlv4",
+    "trailerUrl": "https://www.youtube.com/embed/P4uU-BoNlv4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "937941",
     "type": "movie",
     "title": "Shelby Oaks",
@@ -697,16 +707,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
     "trailerId": "B-m1TGIY6Zo",
     "trailerUrl": "https://www.youtube.com/embed/B-m1TGIY6Zo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1352624",
-    "type": "movie",
-    "title": "The Mastermind",
-    "content": "Josh O' Connor's got things to do in THE MASTERMIND",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tyTYIkZud731bkPOncMtbzK1fsN.jpg",
-    "trailerId": "9dLBAXAXynM",
-    "trailerUrl": "https://www.youtube.com/embed/9dLBAXAXynM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
