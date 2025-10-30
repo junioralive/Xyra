@@ -64,7 +64,7 @@
     "type": "movie",
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "content": "LET\u2019S DO THIS!!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
     "trailerId": "-VL1zqfqau0",
     "trailerUrl": "https://www.youtube.com/embed/-VL1zqfqau0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -270,6 +270,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "46923",
+    "type": "tv",
+    "title": "Shetland",
+    "content": "Shetland Series 10 | Official Trailer - BBC",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4rSehoZzULCkAHXdsfzY3QJkC9g.jpg",
+    "trailerId": "TICRfkB-718",
+    "trailerUrl": "https://www.youtube.com/embed/TICRfkB-718",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "22171",
     "type": "movie",
     "title": "Ms .45",
@@ -277,6 +287,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vXrZ7pyHHQGBSyfXC791b62Ouxv.jpg",
     "trailerId": "_-Ey6mjaARA",
     "trailerUrl": "https://www.youtube.com/embed/_-Ey6mjaARA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "157741",
+    "type": "tv",
+    "title": "Landman",
+    "content": "Season 2 Final Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg",
+    "trailerId": "mhzQawESdqg",
+    "trailerUrl": "https://www.youtube.com/embed/mhzQawESdqg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -340,13 +360,53 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "45790",
+    "id": "114478",
     "type": "tv",
-    "title": "JoJo's Bizarre Adventure",
-    "content": "STEEL BALL RUN JoJo\u2019s Bizarre Adventure Official Teaser [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
-    "trailerId": "_WE6T2qU3G0",
-    "trailerUrl": "https://www.youtube.com/embed/_WE6T2qU3G0",
+    "title": "Star Wars: Visions",
+    "content": "Volume 3 - All Shorts Now Streaming",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aWJNpo7VybuAyuD4RG3mXhFgdDB.jpg",
+    "trailerId": "Ncqu7224w8E",
+    "trailerUrl": "https://www.youtube.com/embed/Ncqu7224w8E",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "278604",
+    "type": "tv",
+    "title": "GNOSIA",
+    "content": "Episode #3 Preview [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4QwxPBOohSQX3nPFN6pb6uBosMd.jpg",
+    "trailerId": "iA4kgh1A86E",
+    "trailerUrl": "https://www.youtube.com/embed/iA4kgh1A86E",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "275592",
+    "type": "tv",
+    "title": "The Dream Life of Mr. Kim",
+    "content": "Official Clip [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yd4qmGDn0q2MWHue5dRs3sm42sO.jpg",
+    "trailerId": "3rJT3ZJsP0I",
+    "trailerUrl": "https://www.youtube.com/embed/3rJT3ZJsP0I",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "218344",
+    "type": "tv",
+    "title": "Blue Lights",
+    "content": "Season 3 Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kjFoqKiR155jQn77bBkwBD3zjvO.jpg",
+    "trailerId": "1ot7Ju368-k",
+    "trailerUrl": "https://www.youtube.com/embed/1ot7Ju368-k",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "157367",
+    "type": "tv",
+    "title": "Palm Royale",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4dUTs2xkExkG3yKPNzxgGwRX6NF.jpg",
+    "trailerId": "kj2ibUk81Vg",
+    "trailerUrl": "https://www.youtube.com/embed/kj2ibUk81Vg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -360,13 +420,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "46923",
+    "id": "280946",
     "type": "tv",
-    "title": "Shetland",
-    "content": "Shetland Series 10 | Official Trailer - BBC",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4rSehoZzULCkAHXdsfzY3QJkC9g.jpg",
-    "trailerId": "TICRfkB-718",
-    "trailerUrl": "https://www.youtube.com/embed/TICRfkB-718",
+    "title": "Typhoon Family",
+    "content": "Official Clip [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qb9e6TO8UU1DNkiGxHHOiqNA5iF.jpg",
+    "trailerId": "98gODGAmgSY",
+    "trailerUrl": "https://www.youtube.com/embed/98gODGAmgSY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -430,63 +490,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "87478",
-    "type": "tv",
-    "title": "Isekai Quartet",
-    "content": "Isekai Quartet3 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nLDxVvCnQaRRqWjvER9j5bsrre9.jpg",
-    "trailerId": "uZ7yz5dbeSE",
-    "trailerUrl": "https://www.youtube.com/embed/uZ7yz5dbeSE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "46437",
-    "type": "tv",
-    "title": "Kingdom",
-    "content": "Season 6 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5CGM0vQpq0QBcslUXqoo0unlGPZ.jpg",
-    "trailerId": "o_8rPkAVpQI",
-    "trailerUrl": "https://www.youtube.com/embed/o_8rPkAVpQI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "94954",
-    "type": "tv",
-    "title": "Hazbin Hotel",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9K6QtLqyocVHgIZe4yqCIl1q2ZR.jpg",
-    "trailerId": "Ro311cUw5b0",
-    "trailerUrl": "https://www.youtube.com/embed/Ro311cUw5b0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "284442",
-    "type": "tv",
-    "title": "A Gatherer's Adventure in Isekai",
-    "content": "Official Trailer 2 [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nir97l3eUIHeHUQjWhV3NffjIK3.jpg",
-    "trailerId": "CPQQRpGcU54",
-    "trailerUrl": "https://www.youtube.com/embed/CPQQRpGcU54",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "154521",
-    "type": "tv",
-    "title": "The Kardashians",
-    "content": "Season 7 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iZQj2vw0wImBJZ2rBqzNySD2FgJ.jpg",
-    "trailerId": "W8dNXLBd1RM",
-    "trailerUrl": "https://www.youtube.com/embed/W8dNXLBd1RM",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "125935",
-    "type": "tv",
-    "title": "Abbott Elementary",
-    "content": "Look Back at Season 1 - Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/asDINJT3b7tEa76uWI1rZ5TWdJF.jpg",
-    "trailerId": "WupmOE08a0s",
-    "trailerUrl": "https://www.youtube.com/embed/WupmOE08a0s",
+    "id": "619778",
+    "type": "movie",
+    "title": "Malignant",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+    "trailerId": "IGP7AB776CQ",
+    "trailerUrl": "https://www.youtube.com/embed/IGP7AB776CQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -507,6 +517,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u4JsyMpp6mtAYbg0t3GIaCgPrRy.jpg",
     "trailerId": "TohwFNb7AHI",
     "trailerUrl": "https://www.youtube.com/embed/TohwFNb7AHI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "10925",
+    "type": "movie",
+    "title": "The Return of the Living Dead",
+    "content": "Official Sizzle",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/14h57Khhp9hi11aJivH58u5tFyR.jpg",
+    "trailerId": "Sf8Lenwa984",
+    "trailerUrl": "https://www.youtube.com/embed/Sf8Lenwa984",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -587,26 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vMylmakO2K9cZexNUze8wa9muJp.jpg",
     "trailerId": "F4da9uRIg8c",
     "trailerUrl": "https://www.youtube.com/embed/F4da9uRIg8c",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1125257",
-    "type": "movie",
-    "title": "Freakier Friday",
-    "content": "Available on Digital October 7 and on Blu-ray November 11",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
-    "trailerId": "3RwHv6kCWGY",
-    "trailerUrl": "https://www.youtube.com/embed/3RwHv6kCWGY",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1319972",
-    "type": "movie",
-    "title": "Don't Let's Go to the Dogs Tonight",
-    "content": "Through a child\u2019s eyes",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/LbLP1yi4WHI3HZO7iQW43B5FZU.jpg",
-    "trailerId": "j_NAgQeRsuM",
-    "trailerUrl": "https://www.youtube.com/embed/j_NAgQeRsuM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
