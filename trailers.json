@@ -3,20 +3,30 @@
     "id": "1242898",
     "type": "movie",
     "title": "Predator: Badlands",
-    "content": "#1 Movie In The World",
+    "content": "Time Review",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-    "trailerId": "NN2pnkVN7vs",
-    "trailerUrl": "https://www.youtube.com/embed/NN2pnkVN7vs",
+    "trailerId": "PRT5hX_aPgI",
+    "trailerUrl": "https://www.youtube.com/embed/PRT5hX_aPgI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
     "id": "798645",
     "type": "movie",
     "title": "The Running Man",
-    "content": "The stakes are high, the odds are rigged.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jFhdb45moOI78fkvtRNybjs1H4h.jpg",
-    "trailerId": "t9mGvLx7AZc",
-    "trailerUrl": "https://www.youtube.com/embed/t9mGvLx7AZc",
+    "content": "This game is rigged.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
+    "trailerId": "wUbfViiObpU",
+    "trailerUrl": "https://www.youtube.com/embed/wUbfViiObpU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1539104",
+    "type": "movie",
+    "title": "JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-",
+    "content": "New Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+    "trailerId": "ZZoU154ooOE",
+    "trailerUrl": "https://www.youtube.com/embed/ZZoU154ooOE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
     "trailerId": "cPRk4KyB2AI",
     "trailerUrl": "https://www.youtube.com/embed/cPRk4KyB2AI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1228246",
-    "type": "movie",
-    "title": "Five Nights at Freddy's 2",
-    "content": "Official Trailer 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rBjsoUKM0FDuAzYkRW3hd6UtHiq.jpg",
-    "trailerId": "NQypHE9_Fm4",
-    "trailerUrl": "https://www.youtube.com/embed/NQypHE9_Fm4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -454,7 +454,7 @@
     "type": "tv",
     "title": "Pluribus",
     "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8Y6A0bjCi1ZVAYQzf0LlEmckv5O.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
     "trailerId": "a6lzvWby9UE",
     "trailerUrl": "https://www.youtube.com/embed/a6lzvWby9UE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
