@@ -460,16 +460,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1632",
-    "type": "movie",
-    "title": "Mississippi Burning",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/aTJJ38M7zLAmJZ7vl0vyKn69zzw.jpg",
-    "trailerId": "0nxToB95XJg",
-    "trailerUrl": "https://www.youtube.com/embed/0nxToB95XJg",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
@@ -567,6 +557,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
     "trailerId": "Zy-1nXEE2us",
     "trailerUrl": "https://www.youtube.com/embed/Zy-1nXEE2us",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1162337",
+    "type": "movie",
+    "title": "Blue Eyed Girl",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
+    "trailerId": "H7vR8WVgQKM",
+    "trailerUrl": "https://www.youtube.com/embed/H7vR8WVgQKM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -694,7 +694,7 @@
     "type": "movie",
     "title": "Regretting You",
     "content": "Bubbles #1",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/amcOpAGkcTEZqmUG1LNM2gYGCam.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ril2LHOGbmjHHV3asPHWKDdtGyG.jpg",
     "trailerId": "JslAMuk2DOo",
     "trailerUrl": "https://www.youtube.com/embed/JslAMuk2DOo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
