@@ -24,7 +24,7 @@
     "type": "movie",
     "title": "Predator: Badlands",
     "content": "A Deadly Haul",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ArtXHnmJQO0S0XNz5kKtnMz8TPQ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "trailerId": "lx_Tt9408o8",
     "trailerUrl": "https://www.youtube.com/embed/lx_Tt9408o8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -54,7 +54,7 @@
     "type": "movie",
     "title": "Train Dreams",
     "content": "Final Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2JszsYDORa8NxWY5V7Xp2in2WIr.jpg",
     "trailerId": "6voWeM-xQ4Y",
     "trailerUrl": "https://www.youtube.com/embed/6voWeM-xQ4Y",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -250,6 +250,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "202411",
+    "type": "tv",
+    "title": "Monarch: Legacy of Monsters",
+    "content": "Season 2 Date Announcement",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/t9i4Icf1LsGIgkpnokQaC4hzxLa.jpg",
+    "trailerId": "2CYelltpxT4",
+    "trailerUrl": "https://www.youtube.com/embed/2CYelltpxT4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "250307",
     "type": "tv",
     "title": "The Pitt",
@@ -324,19 +334,9 @@
     "type": "movie",
     "title": "The Fantastic 4: First Steps",
     "content": "Now Streaming on Disney+",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6eLtIyVHCzqoQdsLfOPPNVTxsn7.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
     "trailerId": "cPRk4KyB2AI",
     "trailerUrl": "https://www.youtube.com/embed/cPRk4KyB2AI",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "891584",
-    "type": "movie",
-    "title": "The History of Sound",
-    "content": "International Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
-    "trailerId": "E2PSkw8BI7k",
-    "trailerUrl": "https://www.youtube.com/embed/E2PSkw8BI7k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -564,7 +564,7 @@
     "type": "movie",
     "title": "Blue Eyed Girl",
     "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hueKlPQoDeJ4hXlyDYD9fRktCzy.jpg",
     "trailerId": "H7vR8WVgQKM",
     "trailerUrl": "https://www.youtube.com/embed/H7vR8WVgQKM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -577,6 +577,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h4HSZjOeAoHQ3qPuy6x9Cyr69bS.jpg",
     "trailerId": "rb3x45F6mrQ",
     "trailerUrl": "https://www.youtube.com/embed/rb3x45F6mrQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "37481",
+    "type": "movie",
+    "title": "Day of the Outlaw",
+    "content": "Classic Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rgL7KXlvA3ACS1wHWjXUU4qSPO3.jpg",
+    "trailerId": "6UIzEwJ8Gzk",
+    "trailerUrl": "https://www.youtube.com/embed/6UIzEwJ8Gzk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -607,16 +617,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
     "trailerId": "d5qc2XkJzI8",
     "trailerUrl": "https://www.youtube.com/embed/d5qc2XkJzI8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1364608",
-    "type": "movie",
-    "title": "Anemone",
-    "content": "Two brothers, worlds apart. Daniel Day-Lewis and Sean Bean team up on the big-screen in Anemone.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7BVyUTP33BTXWlulZWGiRWJILkp.jpg",
-    "trailerId": "aW58F8JzYXQ",
-    "trailerUrl": "https://www.youtube.com/embed/aW58F8JzYXQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -720,23 +720,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1555417",
+    "type": "movie",
+    "title": "j-hope Tour 'HOPE ON THE STAGE' THE MOVIE",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2i63ELE0jc8lenShNBez1w0aCld.jpg",
+    "trailerId": "YCeK6TJjjLo",
+    "trailerUrl": "https://www.youtube.com/embed/YCeK6TJjjLo",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1084242",
     "type": "movie",
     "title": "Zootopia 2",
     "content": "International Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zdva2LmrzZ0OdTI27ayzKPw0wkF.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
     "trailerId": "sEgPQ7HKoBA",
     "trailerUrl": "https://www.youtube.com/embed/sEgPQ7HKoBA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1218925",
-    "type": "movie",
-    "title": "Chainsaw Man - The Movie: Reze Arc",
-    "content": "LET\u2019S DO THIS!!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-    "trailerId": "-VL1zqfqau0",
-    "trailerUrl": "https://www.youtube.com/embed/-VL1zqfqau0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   }
 ]
