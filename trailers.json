@@ -153,7 +153,7 @@
     "id": "65334",
     "type": "tv",
     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "content": "Vampigami Teaser - Season 6",
+    "content": "MIRACULOUS | \ud83d\udc1e VAMPIGAMI - TEASER \ud83d\udc3e | SEASON 6",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
     "trailerId": "9SMQJCQq3-A",
     "trailerUrl": "https://www.youtube.com/embed/9SMQJCQq3-A",
@@ -340,13 +340,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "281013",
+    "id": "278635",
     "type": "tv",
-    "title": "Dynamite Kiss",
-    "content": "Official Clip [ENG SUB]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
-    "trailerId": "PukVwohE-Vk",
-    "trailerUrl": "https://www.youtube.com/embed/PukVwohE-Vk",
+    "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+    "content": "Dub Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
+    "trailerId": "jhHKXEaXO6A",
+    "trailerUrl": "https://www.youtube.com/embed/jhHKXEaXO6A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -390,13 +390,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "278635",
+    "id": "281013",
     "type": "tv",
-    "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-    "content": "Dub Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
-    "trailerId": "jhHKXEaXO6A",
-    "trailerUrl": "https://www.youtube.com/embed/jhHKXEaXO6A",
+    "title": "Dynamite Kiss",
+    "content": "Official Clip [ENG SUB]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cTFQKu8CLftXHUCIBGksfL8uhf3.jpg",
+    "trailerId": "PukVwohE-Vk",
+    "trailerUrl": "https://www.youtube.com/embed/PukVwohE-Vk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -480,6 +480,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1469354",
+    "type": "movie",
+    "title": "Border Hunters",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+    "trailerId": "LxFtLNpQhYM",
+    "trailerUrl": "https://www.youtube.com/embed/LxFtLNpQhYM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1632",
     "type": "movie",
     "title": "Mississippi Burning",
@@ -497,16 +507,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
     "trailerId": "_qQLUxZAklQ",
     "trailerUrl": "https://www.youtube.com/embed/_qQLUxZAklQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1212271",
-    "type": "movie",
-    "title": "Eleanor the Great",
-    "content": "Eleanor gives the best advice",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Adg0gp8kGKXUSe8emJByRbvweGk.jpg",
-    "trailerId": "o-CMvn9JSAs",
-    "trailerUrl": "https://www.youtube.com/embed/o-CMvn9JSAs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -624,7 +624,7 @@
     "type": "movie",
     "title": "Regretting You",
     "content": "Bubbles #1",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ril2LHOGbmjHHV3asPHWKDdtGyG.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
     "trailerId": "JslAMuk2DOo",
     "trailerUrl": "https://www.youtube.com/embed/JslAMuk2DOo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
