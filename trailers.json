@@ -44,7 +44,7 @@
     "type": "movie",
     "title": "Bugonia",
     "content": "Watch at Home Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uPvsuTYc2fgEYgp3Ib2INoGep0n.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
     "trailerId": "gZ6pPFK6kaQ",
     "trailerUrl": "https://www.youtube.com/embed/gZ6pPFK6kaQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -153,7 +153,7 @@
     "id": "65334",
     "type": "tv",
     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "content": "MIRACULOUS | \ud83d\udc1e VAMPIGAMI - TEASER \ud83d\udc3e | SEASON 6",
+    "content": "Vampigami Teaser - Season 6",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
     "trailerId": "9SMQJCQq3-A",
     "trailerUrl": "https://www.youtube.com/embed/9SMQJCQq3-A",
@@ -197,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c1oFbGc89FVZ4KvAe8riNJ8lPX1.jpg",
     "trailerId": "0hc8yz5-d5Y",
     "trailerUrl": "https://www.youtube.com/embed/0hc8yz5-d5Y",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1498",
-    "type": "movie",
-    "title": "Teenage Mutant Ninja Turtles",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/l4eT7lDzkzaSZPRSyuf43dZwFEJ.jpg",
-    "trailerId": "3y9C_P7dG6s",
-    "trailerUrl": "https://www.youtube.com/embed/3y9C_P7dG6s",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -347,6 +337,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vnTrREtP0qBSmZHEEZR515FAXXB.jpg",
     "trailerId": "jhHKXEaXO6A",
     "trailerUrl": "https://www.youtube.com/embed/jhHKXEaXO6A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "299778",
+    "type": "tv",
+    "title": "Tatsuki Fujimoto 17-26",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4YrYmBx26WZgITKlcceaIz74vj3.jpg",
+    "trailerId": "NRxLpXAqWiw",
+    "trailerUrl": "https://www.youtube.com/embed/NRxLpXAqWiw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -560,6 +560,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "891584",
+    "type": "movie",
+    "title": "The History of Sound",
+    "content": "International Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
+    "trailerId": "E2PSkw8BI7k",
+    "trailerUrl": "https://www.youtube.com/embed/E2PSkw8BI7k",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "752",
     "type": "movie",
     "title": "V for Vendetta",
@@ -567,16 +577,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5EKplo61HbA5sMGAN0XAvzdo1MX.jpg",
     "trailerId": "3ge0navn9E0",
     "trailerUrl": "https://www.youtube.com/embed/3ge0navn9E0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1037925",
-    "type": "movie",
-    "title": "Bull Run",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oylRawElar6jIpDjpIGIzxjTkvt.jpg",
-    "trailerId": "rWEosdZueso",
-    "trailerUrl": "https://www.youtube.com/embed/rWEosdZueso",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
