@@ -60,16 +60,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1010755",
-    "type": "movie",
-    "title": "The Strangers: Chapter 3",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yLE943xzvHLnIscaZZzO5YacbWh.jpg",
-    "trailerId": "XrdeKOxCV3Y",
-    "trailerUrl": "https://www.youtube.com/embed/XrdeKOxCV3Y",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "533533",
     "type": "movie",
     "title": "TRON: Ares",
@@ -200,6 +190,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "65334",
+    "type": "tv",
+    "title": "Miraculous: Tales of Ladybug & Cat Noir",
+    "content": "MIRACULOUS | \ud83d\udc1e VAMPIGAMI - TEASER \ud83d\udc3e | SEASON 6",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+    "trailerId": "9SMQJCQq3-A",
+    "trailerUrl": "https://www.youtube.com/embed/9SMQJCQq3-A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "36778",
     "type": "movie",
     "title": "Spellbinder",
@@ -247,16 +247,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xhqklQEaJ7xqsqnwCJZu7hTmTIK.jpg",
     "trailerId": "YmZpn8hzCZo",
     "trailerUrl": "https://www.youtube.com/embed/YmZpn8hzCZo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "65334",
-    "type": "tv",
-    "title": "Miraculous: Tales of Ladybug & Cat Noir",
-    "content": "MIRACULOUS | \ud83d\udc1e VAMPIGAMI - TEASER \ud83d\udc3e | SEASON 6",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
-    "trailerId": "9SMQJCQq3-A",
-    "trailerUrl": "https://www.youtube.com/embed/9SMQJCQq3-A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
