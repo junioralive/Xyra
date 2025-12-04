@@ -360,16 +360,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "157747",
-    "type": "tv",
-    "title": "Transformers: EarthSpark",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gzVkLZOM0er10OwEUJyhl9G7oE7.jpg",
-    "trailerId": "L87i_9PjKvo",
-    "trailerUrl": "https://www.youtube.com/embed/L87i_9PjKvo",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "95612",
     "type": "tv",
     "title": "Home for Christmas",
@@ -463,7 +453,7 @@
     "id": "103540",
     "type": "tv",
     "title": "Percy Jackson and the Olympians",
-    "content": "Season 2 Official Trailer",
+    "content": "Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/danN2NzJTMouaBEkDWTnyDjDxUt.jpg",
     "trailerId": "yT1ng2tiwLA",
     "trailerUrl": "https://www.youtube.com/embed/yT1ng2tiwLA",
