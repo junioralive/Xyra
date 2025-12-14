@@ -19,7 +19,7 @@
 
 ## 🚀 Getting Started
 
-Explore **Xyra** online here: **https://xyrastream.live/**
+Explore **Xyra** online here: **https://xyra.stream**
 
 ## 📄 License
 
