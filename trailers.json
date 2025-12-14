@@ -20,13 +20,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1588846",
+    "id": "1352624",
     "type": "movie",
-    "title": "Ekis",
-    "content": "EKIS Teaser 2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4b8a82ogO1TMlBwreXTR5vqCJjM.jpg",
-    "trailerId": "6ektEOIPDh4",
-    "trailerUrl": "https://www.youtube.com/embed/6ektEOIPDh4",
+    "title": "The Mastermind",
+    "content": "Official Trailer #2",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zFK6Abddsh9FE8GAH61uO2Oq0St.jpg",
+    "trailerId": "ASH5vXpi3xA",
+    "trailerUrl": "https://www.youtube.com/embed/ASH5vXpi3xA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -210,16 +210,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1352624",
-    "type": "movie",
-    "title": "The Mastermind",
-    "content": "Official Trailer #2",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zFK6Abddsh9FE8GAH61uO2Oq0St.jpg",
-    "trailerId": "ASH5vXpi3xA",
-    "trailerUrl": "https://www.youtube.com/embed/ASH5vXpi3xA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1233413",
     "type": "movie",
     "title": "Sinners",
@@ -310,6 +300,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "302919",
+    "type": "tv",
+    "title": "Taylor Swift | The Eras Tour | The End of an Era",
+    "content": "The End of an Era",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2miTRsp2SAbik7gCr9jPM2kHV3d.jpg",
+    "trailerId": "bqnIQQN92EA",
+    "trailerUrl": "https://www.youtube.com/embed/bqnIQQN92EA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "284744",
     "type": "tv",
     "title": "Pro Bono",
@@ -343,7 +343,7 @@
     "id": "263346",
     "type": "tv",
     "title": "Ripple",
-    "content": "Ripple- Official Trailer (New Series)",
+    "content": "Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eEDy1AdGn2gMCCHAblVqe0RtPTY.jpg",
     "trailerId": "66x8WLyw_aI",
     "trailerUrl": "https://www.youtube.com/embed/66x8WLyw_aI",
