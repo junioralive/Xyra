@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "Disclosure Day",
     "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7qSI7RotMLR2MhdY4dG1A8Uz7EX.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
     "trailerId": "UFe6NRgoXCM",
     "trailerUrl": "https://www.youtube.com/embed/UFe6NRgoXCM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -262,7 +262,7 @@
   {
     "id": "302919",
     "type": "tv",
-    "title": "Taylor Swift | The Eras Tour | The End of an Era",
+    "title": "The End of an Era",
     "content": "The End of an Era",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2miTRsp2SAbik7gCr9jPM2kHV3d.jpg",
     "trailerId": "bqnIQQN92EA",
@@ -354,19 +354,9 @@
     "type": "tv",
     "title": "Emily in Paris",
     "content": "Season 5 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xkKIruOg4NoADdPjJJrvfiJHRdZ.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2p1qKfuUqvB1slMwNTjGYdWKS3K.jpg",
     "trailerId": "uI54qqXt2r8",
     "trailerUrl": "https://www.youtube.com/embed/uI54qqXt2r8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "76178",
-    "type": "tv",
-    "title": "My Next Guest Needs No Introduction with David Letterman",
-    "content": "Season 6 Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7oX1mr71ymBEJOBSDS5UZQDrhng.jpg",
-    "trailerId": "QX-lCxpuraY",
-    "trailerUrl": "https://www.youtube.com/embed/QX-lCxpuraY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -427,16 +417,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/c4z7MzKNkvmyEIGbX8iJvs3TsYd.jpg",
     "trailerId": "QERHRENBD5A",
     "trailerUrl": "https://www.youtube.com/embed/QERHRENBD5A",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "306153",
-    "type": "tv",
-    "title": "5-Star",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
-    "trailerId": "Tke_K1IUzGY",
-    "trailerUrl": "https://www.youtube.com/embed/Tke_K1IUzGY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
