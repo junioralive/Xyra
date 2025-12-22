@@ -4,7 +4,7 @@
     "type": "movie",
     "title": "Avatar: Fire and Ash",
     "content": "Exhale Review",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9QW8bQ0BK4GjtpHPuZvH6cfcBDS.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
     "trailerId": "CePwQo_uxh4",
     "trailerUrl": "https://www.youtube.com/embed/CePwQo_uxh4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -357,6 +357,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/86Lac0EmcXyKM40MC9yjRHI62hk.jpg",
     "trailerId": "1LY1AJ48O0Y",
     "trailerUrl": "https://www.youtube.com/embed/1LY1AJ48O0Y",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "280110",
+    "type": "tv",
+    "title": "My Hero Academia: Vigilantes",
+    "content": "Season 2 Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/baZ0pGbBGjCBhIqsFyOSTpJyUnQ.jpg",
+    "trailerId": "i-8-xFFIOoM",
+    "trailerUrl": "https://www.youtube.com/embed/i-8-xFFIOoM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
