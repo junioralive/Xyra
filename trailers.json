@@ -114,7 +114,7 @@
     "type": "movie",
     "title": "David",
     "content": "David Is The #1 Family Movie In America This Christmas!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/e3lmJ6sI7aItMv3sXHnKZCeppCx.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d10VuEOMroY7ngQi2FUhJH72k0e.jpg",
     "trailerId": "LTbWTwBsQ4c",
     "trailerUrl": "https://www.youtube.com/embed/LTbWTwBsQ4c",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -480,6 +480,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "253030",
+    "type": "tv",
+    "title": "Love Is Blind: Germany",
+    "content": "Season 2 Official Teaser [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wMFt6wmzAlqS9Ji6ZDrFH0908wp.jpg",
+    "trailerId": "_1hy3-RLd2g",
+    "trailerUrl": "https://www.youtube.com/embed/_1hy3-RLd2g",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "4638",
     "type": "tv",
     "title": "TNA iMPACT!",
@@ -497,16 +507,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/Apo2p8VlZKtuhysk5F31A8cpvNt.jpg",
     "trailerId": "SU5egpst20o",
     "trailerUrl": "https://www.youtube.com/embed/SU5egpst20o",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "88046",
-    "type": "tv",
-    "title": "Fire Force",
-    "content": "Season 3 Part 2 Official Trailer 2 [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zDXuwmqkTi2lGM4AyloAAX4v51P.jpg",
-    "trailerId": "voLZJvdwUEE",
-    "trailerUrl": "https://www.youtube.com/embed/voLZJvdwUEE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -590,6 +590,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "69393",
+    "type": "movie",
+    "title": "Augusta, Gone",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hoVpxhspjE2ZUWoMbMi2XlipCNL.jpg",
+    "trailerId": "Qo-9Y5jAOR4",
+    "trailerUrl": "https://www.youtube.com/embed/Qo-9Y5jAOR4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1242898",
     "type": "movie",
     "title": "Predator: Badlands",
@@ -597,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "trailerId": "SscfOy1i2IU",
     "trailerUrl": "https://www.youtube.com/embed/SscfOy1i2IU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "2362",
-    "type": "movie",
-    "title": "Westworld",
-    "content": "Original Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m9K8LWrIuujCvYW9c7SgIOSOOj1.jpg",
-    "trailerId": "ojDtMkYII_M",
-    "trailerUrl": "https://www.youtube.com/embed/ojDtMkYII_M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
