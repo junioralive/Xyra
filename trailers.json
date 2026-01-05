@@ -280,6 +280,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "278577",
+    "type": "tv",
+    "title": "Shine on Me",
+    "content": "\u300a\u9a84\u9633\u4f3c\u6211 Shine on Me\u300b\u5b9a\u686312\u670822\u65e5\uff1a\u5b8b\u5a01\u9f99\u8d75\u4eca\u9ea6\u5bbf\u547d\u91cd\u9022",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1rIQ1IHv6ULVbrR5Qcnc4x27du.jpg",
+    "trailerId": "AoM_Qz9I-QE",
+    "trailerUrl": "https://www.youtube.com/embed/AoM_Qz9I-QE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "90937",
     "type": "tv",
     "title": "BEASTARS",
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d0dRxEmbrYbkeJql4j2DDDYEyN.jpg",
     "trailerId": "x9cj426ArQU",
     "trailerUrl": "https://www.youtube.com/embed/x9cj426ArQU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1588965",
-    "type": "movie",
-    "title": "Tom Segura: Teacher",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rf77DGsOpm0Xi5h3nTAtwjmZYjp.jpg",
-    "trailerId": "Ro_GA5GaJwI",
-    "trailerUrl": "https://www.youtube.com/embed/Ro_GA5GaJwI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
