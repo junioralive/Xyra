@@ -50,6 +50,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1292695",
+    "type": "movie",
+    "title": "They Will Kill You",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+    "trailerId": "AqNFJUihSHg",
+    "trailerUrl": "https://www.youtube.com/embed/AqNFJUihSHg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1306368",
     "type": "movie",
     "title": "The Rip",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d10VuEOMroY7ngQi2FUhJH72k0e.jpg",
     "trailerId": "m-bpjQbOEVk",
     "trailerUrl": "https://www.youtube.com/embed/m-bpjQbOEVk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1230368",
-    "type": "movie",
-    "title": "Springsteen: Deliver Me from Nowhere",
-    "content": "Buy It Now On Digital & Own It On Blu-ray Jan 20",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oOczvrnhpXUmqCbyKYFj4FQExAo.jpg",
-    "trailerId": "dfC5DnV_2w8",
-    "trailerUrl": "https://www.youtube.com/embed/dfC5DnV_2w8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -370,6 +370,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "76922",
+    "type": "tv",
+    "title": "Queer Eye",
+    "content": "Season 10 Date Announcement",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hDAta1DNdbyymTpGeUE770K4L0j.jpg",
+    "trailerId": "EV9qDNLOPd8",
+    "trailerUrl": "https://www.youtube.com/embed/EV9qDNLOPd8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "121509",
     "type": "tv",
     "title": "The Upshaws",
@@ -517,6 +527,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5A01YSCPYoCOZOhh9tU7F3Htxkf.jpg",
     "trailerId": "tyHZCXoBQcI",
     "trailerUrl": "https://www.youtube.com/embed/tyHZCXoBQcI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1230368",
+    "type": "movie",
+    "title": "Springsteen: Deliver Me from Nowhere",
+    "content": "Buy It Now On Digital & Own It On Blu-ray Jan 20",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oOczvrnhpXUmqCbyKYFj4FQExAo.jpg",
+    "trailerId": "dfC5DnV_2w8",
+    "trailerUrl": "https://www.youtube.com/embed/dfC5DnV_2w8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
