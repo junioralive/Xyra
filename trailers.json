@@ -140,6 +140,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1297842",
+    "type": "movie",
+    "title": "GOAT",
+    "content": "Happy New Year!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ucDMmWAYOiBhd6cZCDWVK9DIIQ4.jpg",
+    "trailerId": "Ozjdqn63cg8",
+    "trailerUrl": "https://www.youtube.com/embed/Ozjdqn63cg8",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "83121",
     "type": "tv",
     "title": "Kaguya-sama: Love Is War",
@@ -187,16 +197,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cSJPoENi4D16FirmDbHsVGHXpge.jpg",
     "trailerId": "AfQ13jsLDms",
     "trailerUrl": "https://www.youtube.com/embed/AfQ13jsLDms",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "120089",
-    "type": "tv",
-    "title": "SPY x FAMILY",
-    "content": "MISSION: 50  - Season 3",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/lysUnU6V0VfcthDbviuVlIqgHOR.jpg",
-    "trailerId": "qyC-IspeaLs",
-    "trailerUrl": "https://www.youtube.com/embed/qyC-IspeaLs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -484,7 +484,7 @@
     "type": "tv",
     "title": "The Traitors",
     "content": "The Traitors US Season 4 | Official Trailer | Peacock Original",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gct6WyjPGSsp4m7Brg8jqxIvrS6.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/akY5bMj3g76EOaliNLdOJI9kBPb.jpg",
     "trailerId": "8-5IRtW-zyc",
     "trailerUrl": "https://www.youtube.com/embed/8-5IRtW-zyc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
