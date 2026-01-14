@@ -10,6 +10,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "85552",
+    "type": "tv",
+    "title": "Euphoria",
+    "content": "The devil always collects. Trailer tomorrow.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9KnIzPCv9XpWA0MqmwiKBZvV1Sj.jpg",
+    "trailerId": "sqGuxEG-3LI",
+    "trailerUrl": "https://www.youtube.com/embed/sqGuxEG-3LI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1003596",
     "type": "movie",
     "title": "Avengers: Doomsday",
@@ -17,6 +27,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
     "trailerId": "399Ez7WHK5s",
     "trailerUrl": "https://www.youtube.com/embed/399Ez7WHK5s",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1243460",
+    "type": "movie",
+    "title": "Joe's College Road Trip",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eoIVtFtidjHGBaDgzPdr3wMfDFR.jpg",
+    "trailerId": "wAFF7SwGY_k",
+    "trailerUrl": "https://www.youtube.com/embed/wAFF7SwGY_k",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -180,23 +200,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1292695",
-    "type": "movie",
-    "title": "They Will Kill You",
-    "content": "Hell of a deal.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
-    "trailerId": "AcNjBQUZ3TQ",
-    "trailerUrl": "https://www.youtube.com/embed/AcNjBQUZ3TQ",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1610413",
-    "type": "movie",
-    "title": "One Last Adventure: The Making of Stranger Things 5",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cGfQSdC2OoovVcCW1tchZCWxYIA.jpg",
-    "trailerId": "bLxvdUroRic",
-    "trailerUrl": "https://www.youtube.com/embed/bLxvdUroRic",
+    "id": "202411",
+    "type": "tv",
+    "title": "Monarch: Legacy of Monsters",
+    "content": "Season 2 Official Teaser",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6SyHoFNHQWCLIQEc41uflHsaGwE.jpg",
+    "trailerId": "VH0pFLcthgI",
+    "trailerUrl": "https://www.youtube.com/embed/VH0pFLcthgI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -217,16 +227,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xfoHNVoL7n1RSgoguk8gUJRImoc.jpg",
     "trailerId": "P1pHqMnpwb4",
     "trailerUrl": "https://www.youtube.com/embed/P1pHqMnpwb4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "213306",
-    "type": "tv",
-    "title": "Cross",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cYHJfdRnIhmeBoYN4jRMMnBDroO.jpg",
-    "trailerId": "H1tFYjJ515M",
-    "trailerUrl": "https://www.youtube.com/embed/H1tFYjJ515M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -360,13 +360,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "875828",
-    "type": "movie",
-    "title": "Peaky Blinders: The Immortal Man",
-    "content": "Official Teaser",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/61BiigHOW0ReOZvV039UfeFM2gW.jpg",
-    "trailerId": "_Dfc89TY-aA",
-    "trailerUrl": "https://www.youtube.com/embed/_Dfc89TY-aA",
+    "id": "76922",
+    "type": "tv",
+    "title": "Queer Eye",
+    "content": "Season 10 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hDAta1DNdbyymTpGeUE770K4L0j.jpg",
+    "trailerId": "_iP2z-6oELY",
+    "trailerUrl": "https://www.youtube.com/embed/_iP2z-6oELY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -377,6 +377,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Sz41DFZZpnkbLVJFKSF1cbCMyz.jpg",
     "trailerId": "Jg93O2MEwHE",
     "trailerUrl": "https://www.youtube.com/embed/Jg93O2MEwHE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "208397",
+    "type": "tv",
+    "title": "School Spirits",
+    "content": "Season 3 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vwbFFaMuPQdLXbjiGzc40Wd6nv6.jpg",
+    "trailerId": "7Hx7kbgJeiE",
+    "trailerUrl": "https://www.youtube.com/embed/7Hx7kbgJeiE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -417,26 +427,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/oSuTjKSAPYinEQooWYojSKnP7B5.jpg",
     "trailerId": "CMgUAW5InbU",
     "trailerUrl": "https://www.youtube.com/embed/CMgUAW5InbU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "212109",
-    "type": "tv",
-    "title": "The BMF Documentary: Blowing Money Fast",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gMNAugGogV8cKaJnZB8nLEjWONU.jpg",
-    "trailerId": "Okp-sAai58E",
-    "trailerUrl": "https://www.youtube.com/embed/Okp-sAai58E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "76922",
-    "type": "tv",
-    "title": "Queer Eye",
-    "content": "Season 10 Date Announcement",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hDAta1DNdbyymTpGeUE770K4L0j.jpg",
-    "trailerId": "EV9qDNLOPd8",
-    "trailerUrl": "https://www.youtube.com/embed/EV9qDNLOPd8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -494,7 +484,7 @@
     "type": "tv",
     "title": "Fallout",
     "content": "Season Two - This Season On",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/coaPCIqQBPUZsOnJcWZxhaORcDT.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cIgHBLTMbcIkS0yvIrUUVVKLdOz.jpg",
     "trailerId": "uuiqt3U3i8E",
     "trailerUrl": "https://www.youtube.com/embed/uuiqt3U3i8E",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
