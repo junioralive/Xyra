@@ -480,6 +480,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "91239",
+    "type": "tv",
+    "title": "Bridgerton",
+    "content": "Season 4 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/m7FqiUOvsSk7Ulg2oRMfFGcLeT9.jpg",
+    "trailerId": "IqaXNwAzSmQ",
+    "trailerUrl": "https://www.youtube.com/embed/IqaXNwAzSmQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "256220",
     "type": "tv",
     "title": "The Boyfriend",
@@ -517,16 +527,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/cIgHBLTMbcIkS0yvIrUUVVKLdOz.jpg",
     "trailerId": "uuiqt3U3i8E",
     "trailerUrl": "https://www.youtube.com/embed/uuiqt3U3i8E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "296579",
-    "type": "tv",
-    "title": "Stumble",
-    "content": "Stumble | Official Trailer | NBC",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/9f2CFQumW7kz9ARzxpkCH4o2JrO.jpg",
-    "trailerId": "H9bs-6A5yAc",
-    "trailerUrl": "https://www.youtube.com/embed/H9bs-6A5yAc",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
