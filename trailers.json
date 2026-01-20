@@ -74,7 +74,7 @@
     "type": "tv",
     "title": "The Pitt",
     "content": "Season 2 Episode 3 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7Sgo1XdCrIpJpiNsTPMi9vwKSuC.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
     "trailerId": "SLkgOgPSsO8",
     "trailerUrl": "https://www.youtube.com/embed/SLkgOgPSsO8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -284,7 +284,7 @@
     "type": "movie",
     "title": "Love on the Amazon",
     "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g9Oz7S8EolNoVhnbM8i7JUWoM0L.jpg",
     "trailerId": "zQNPIQqWfXQ",
     "trailerUrl": "https://www.youtube.com/embed/zQNPIQqWfXQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -427,16 +427,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kUzQhsyhgLARUyEWXsMyeMaCUHI.jpg",
     "trailerId": "u_oq4U8GO3A",
     "trailerUrl": "https://www.youtube.com/embed/u_oq4U8GO3A",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "114294",
-    "type": "tv",
-    "title": "Judy Justice",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gBYnHblm9zDbt5YSkLnUUYa0E1v.jpg",
-    "trailerId": "p7qcrHG3DFw",
-    "trailerUrl": "https://www.youtube.com/embed/p7qcrHG3DFw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
