@@ -54,7 +54,7 @@
     "type": "movie",
     "title": "Masters of the Universe",
     "content": "Official Teaser Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ujNdefJQEvdUi1Z2xUKIhtpRnN6.jpg",
     "trailerId": "ZmEx7wQI6RY",
     "trailerUrl": "https://www.youtube.com/embed/ZmEx7wQI6RY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -64,7 +64,7 @@
     "type": "movie",
     "title": "The Testament of Ann Lee",
     "content": "In Theaters Friday - Get Tickets Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pJptfzINz4foLJoUGlhPD2MwAmT.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r6rCEYFdk8FcKc5x9zJFJUSPGJg.jpg",
     "trailerId": "gL1hHLMqLfI",
     "trailerUrl": "https://www.youtube.com/embed/gL1hHLMqLfI",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -437,16 +437,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/gMNAugGogV8cKaJnZB8nLEjWONU.jpg",
     "trailerId": "Okp-sAai58E",
     "trailerUrl": "https://www.youtube.com/embed/Okp-sAai58E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "158646",
-    "type": "tv",
-    "title": "Is It Cake?",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/moFIug9RURNnlGybDkUBsmdSJ8f.jpg",
-    "trailerId": "0WEEyLgQ1i0",
-    "trailerUrl": "https://www.youtube.com/embed/0WEEyLgQ1i0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
