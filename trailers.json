@@ -1,5 +1,25 @@
 [
   {
+    "id": "1291608",
+    "type": "movie",
+    "title": "Dhurandhar",
+    "content": "Dhurandhar | Watch Now | Aditya Dhar | Ranveer Singh, Akshaye Khanna, Madhavan | Netflix India",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/YCunHbbBUBKx6daM9XZAXkOH8k.jpg",
+    "trailerId": "o--C7AH5SuI",
+    "trailerUrl": "https://www.youtube.com/embed/o--C7AH5SuI",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "250307",
+    "type": "tv",
+    "title": "The Pitt",
+    "content": "Season 2 Episode 5 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+    "trailerId": "5B9RqCEJgTg",
+    "trailerUrl": "https://www.youtube.com/embed/5B9RqCEJgTg",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1198994",
     "type": "movie",
     "title": "Send Help",
@@ -160,16 +180,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "250307",
-    "type": "tv",
-    "title": "The Pitt",
-    "content": "Season 2 Episode 4 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
-    "trailerId": "y94KLxufu-A",
-    "trailerUrl": "https://www.youtube.com/embed/y94KLxufu-A",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "95557",
     "type": "tv",
     "title": "Invincible",
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1450257",
-    "type": "movie",
-    "title": "Clika",
-    "content": "We\u2019re TWO DAYS AWAY.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yHZpvJEzeBKMPZfNN6OFfMQ9Jf0.jpg",
-    "trailerId": "VArd3CgKcFs",
-    "trailerUrl": "https://www.youtube.com/embed/VArd3CgKcFs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "11471",
     "type": "movie",
     "title": "A Better Tomorrow",
@@ -213,7 +213,7 @@
     "id": "245927",
     "type": "tv",
     "title": "Paradise",
-    "content": "Season 2 | Official Trailer",
+    "content": "Season 2 Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qeQG3EkFXFSGMk0M56sYmZoa8KK.jpg",
     "trailerId": "wQfqQ-oIXiA",
     "trailerUrl": "https://www.youtube.com/embed/wQfqQ-oIXiA",
@@ -377,16 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g7UMVHvj0RRiosQNrNvMSkINs5e.jpg",
     "trailerId": "tlfGyCNaz5E",
     "trailerUrl": "https://www.youtube.com/embed/tlfGyCNaz5E",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "251604",
-    "type": "tv",
-    "title": "Yo Gabba GabbaLand!",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dpgiAnV08bxWtugZfTwuKnuLEB7.jpg",
-    "trailerId": "f8fMY9ZECvo",
-    "trailerUrl": "https://www.youtube.com/embed/f8fMY9ZECvo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
