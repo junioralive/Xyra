@@ -390,13 +390,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "304806",
+    "id": "285933",
     "type": "tv",
-    "title": "The Hillside Strangler",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3st9eUeFJTTAmeYSPWg24mFtsm9.jpg",
-    "trailerId": "82IYVP1DfI0",
-    "trailerUrl": "https://www.youtube.com/embed/82IYVP1DfI0",
+    "title": "Tune In to the Midnight Heart",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zJJQCD9xMhDD4MlQ6haaP3IBCHk.jpg",
+    "trailerId": "wHxKlcFROtk",
+    "trailerUrl": "https://www.youtube.com/embed/wHxKlcFROtk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "293144",
+    "type": "tv",
+    "title": "Wash It All Away",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
+    "trailerId": "hJqfPZkrk6o",
+    "trailerUrl": "https://www.youtube.com/embed/hJqfPZkrk6o",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -484,7 +494,7 @@
     "type": "movie",
     "title": "Zootopia 2",
     "content": "Coming to Digital 1/27 and Blu-ray\u2122 3/3",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5BeOSbwt6BR7q2Fax70lF4AIshD.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
     "trailerId": "k8t8rvRO7Ug",
     "trailerUrl": "https://www.youtube.com/embed/k8t8rvRO7Ug",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
