@@ -230,16 +230,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "245927",
-    "type": "tv",
-    "title": "Paradise",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/os7l95N2ZY4RIR5rHNPxmKHXKBj.jpg",
-    "trailerId": "wQfqQ-oIXiA",
-    "trailerUrl": "https://www.youtube.com/embed/wQfqQ-oIXiA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "202555",
     "type": "tv",
     "title": "Daredevil: Born Again",
@@ -340,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "90812",
+    "type": "tv",
+    "title": "Industry",
+    "content": "Season 4 Episode 3 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
+    "trailerId": "E3RRDa5O0ik",
+    "trailerUrl": "https://www.youtube.com/embed/E3RRDa5O0ik",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "128904",
     "type": "tv",
     "title": "Dark Winds",
@@ -377,16 +377,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sMv7P2kMaw0UD3ibtAGDC8cGyM8.jpg",
     "trailerId": "Upiw0MSWRkA",
     "trailerUrl": "https://www.youtube.com/embed/Upiw0MSWRkA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "90812",
-    "type": "tv",
-    "title": "Industry",
-    "content": "Season 4 Episode 3 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
-    "trailerId": "E3RRDa5O0ik",
-    "trailerUrl": "https://www.youtube.com/embed/E3RRDa5O0ik",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
