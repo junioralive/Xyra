@@ -1,22 +1,52 @@
 [
   {
-    "id": "1198994",
-    "type": "movie",
-    "title": "Send Help",
-    "content": "*Slams laptop and buys tickets to SEND HELP",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jo17HPxcJqT9jpSw3Xv92mQBY1h.jpg",
-    "trailerId": "Uwz0t0R8cb0",
-    "trailerUrl": "https://www.youtube.com/embed/Uwz0t0R8cb0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1159831",
     "type": "movie",
     "title": "The Bride!",
-    "content": "In Cinemas March 4",
+    "content": "Are you ready?",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMlCbasyAqBLV18CLEkDm07VKtn.jpg",
-    "trailerId": "CLjRppw_Yh0",
-    "trailerUrl": "https://www.youtube.com/embed/CLjRppw_Yh0",
+    "trailerId": "wv521p8NUuU",
+    "trailerUrl": "https://www.youtube.com/embed/wv521p8NUuU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1316092",
+    "type": "movie",
+    "title": "\u201cWuthering Heights\u201d",
+    "content": "The Yorkshire moors of Wuthering Heights are calling... Delve deeper in cinemas February 13.",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
+    "trailerId": "Ij23ZAiTVIE",
+    "trailerUrl": "https://www.youtube.com/embed/Ij23ZAiTVIE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1159559",
+    "type": "movie",
+    "title": "Scream 7",
+    "content": "Big Game Spot",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xXFtetuwZkI3Byl7qmQ8DZXQqY.jpg",
+    "trailerId": "RcvKH_VjhIQ",
+    "trailerUrl": "https://www.youtube.com/embed/RcvKH_VjhIQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "936075",
+    "type": "movie",
+    "title": "Michael",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+    "trailerId": "mbtgEE6rkxw",
+    "trailerUrl": "https://www.youtube.com/embed/mbtgEE6rkxw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1198994",
+    "type": "movie",
+    "title": "Send Help",
+    "content": "Raimi Vision",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jo17HPxcJqT9jpSw3Xv92mQBY1h.jpg",
+    "trailerId": "SHdHg2l38f8",
+    "trailerUrl": "https://www.youtube.com/embed/SHdHg2l38f8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -144,19 +174,9 @@
     "type": "movie",
     "title": "No Other Choice",
     "content": "\"Delectable. Dazzling. Park Chan-wook may be the most elegant filmmaker alive.\" \u2013 Variety. [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1ktHy4yBupG3JzYoFsQ8DFoqZh4.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/s6aB9kjxNg0mu2361IkCUSpyHJV.jpg",
     "trailerId": "qdW-NLafWOA",
     "trailerUrl": "https://www.youtube.com/embed/qdW-NLafWOA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1159559",
-    "type": "movie",
-    "title": "Scream 7",
-    "content": "One Month",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/xXFtetuwZkI3Byl7qmQ8DZXQqY.jpg",
-    "trailerId": "kFdDOLP5mXY",
-    "trailerUrl": "https://www.youtube.com/embed/kFdDOLP5mXY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -174,29 +194,19 @@
     "type": "movie",
     "title": "Greenland 2: Migration",
     "content": "Bring home the action",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/27MIBdzUkPzBC1PAYLpRtbyq7bq.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
     "trailerId": "S2iTwzUiBM0",
     "trailerUrl": "https://www.youtube.com/embed/S2iTwzUiBM0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1316092",
-    "type": "movie",
-    "title": "\u201cWuthering Heights\u201d",
-    "content": "For the yearners...",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
-    "trailerId": "VaSo2ur9_7s",
-    "trailerUrl": "https://www.youtube.com/embed/VaSo2ur9_7s",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1226863",
-    "type": "movie",
-    "title": "The Super Mario Galaxy Movie",
-    "content": "Yoshi Chomps Back",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5U0tqruExz7ssDyr5pwiAGFzI8S.jpg",
-    "trailerId": "RR2nFS042dg",
-    "trailerUrl": "https://www.youtube.com/embed/RR2nFS042dg",
+    "id": "60694",
+    "type": "tv",
+    "title": "Last Week Tonight with John Oliver",
+    "content": "Season 13 Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7ZgTIEbvm72a7nkNy2eWnkFNmdj.jpg",
+    "trailerId": "PawUmci7JuU",
+    "trailerUrl": "https://www.youtube.com/embed/PawUmci7JuU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -283,8 +293,8 @@
     "id": "1623111",
     "type": "movie",
     "title": "Mouth of the Wolf: Amanda Knox Returns to Italy",
-    "content": "\"Mouth of the Wolf: Amanda Knox Returns to Italy\" Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tFA2qwVNyVvCvLLsuHaURME6XMi.jpg",
     "trailerId": "2MkaH9qgZwk",
     "trailerUrl": "https://www.youtube.com/embed/2MkaH9qgZwk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -330,13 +340,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "90812",
+    "id": "128904",
     "type": "tv",
-    "title": "Industry",
-    "content": "Season 4 Episode 3 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
-    "trailerId": "E3RRDa5O0ik",
-    "trailerUrl": "https://www.youtube.com/embed/E3RRDa5O0ik",
+    "title": "Dark Winds",
+    "content": "Justice Has No Boundaries - Season 4",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNvpN37f9HbvsDBQFhHU5m2EnVo.jpg",
+    "trailerId": "MZ0Ml9NuaYc",
+    "trailerUrl": "https://www.youtube.com/embed/MZ0Ml9NuaYc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "306721",
+    "type": "tv",
+    "title": "Star Detective PreCure!",
+    "content": "Official Trailer [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/bOgsRcvQcetWXtVnPgKtYYf9aSV.jpg",
+    "trailerId": "6vkthU7_crA",
+    "trailerUrl": "https://www.youtube.com/embed/6vkthU7_crA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -360,23 +380,23 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "306657",
+    "id": "90812",
     "type": "tv",
-    "title": "Star Search",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/g7UMVHvj0RRiosQNrNvMSkINs5e.jpg",
-    "trailerId": "tlfGyCNaz5E",
-    "trailerUrl": "https://www.youtube.com/embed/tlfGyCNaz5E",
+    "title": "Industry",
+    "content": "Season 4 Episode 3 Preview",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qcV7ebwtZcoRxBufUmXQl0KKdht.jpg",
+    "trailerId": "E3RRDa5O0ik",
+    "trailerUrl": "https://www.youtube.com/embed/E3RRDa5O0ik",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "128904",
+    "id": "287231",
     "type": "tv",
-    "title": "Dark Winds",
-    "content": "Season 4 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uNvpN37f9HbvsDBQFhHU5m2EnVo.jpg",
-    "trailerId": "4mKj8vj9YZ4",
-    "trailerUrl": "https://www.youtube.com/embed/4mKj8vj9YZ4",
+    "title": "Vanished",
+    "content": "Vanished (MGM+ 2026 Series) Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+    "trailerId": "_gySJIb3umg",
+    "trailerUrl": "https://www.youtube.com/embed/_gySJIb3umg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -384,7 +404,7 @@
     "type": "tv",
     "title": "Undercover Miss Hong",
     "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/awldlWlTkCeuohxZMGKhQwyydGA.jpg",
     "trailerId": "ggrP-QrbkNM",
     "trailerUrl": "https://www.youtube.com/embed/ggrP-QrbkNM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -397,26 +417,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vwbFFaMuPQdLXbjiGzc40Wd6nv6.jpg",
     "trailerId": "7Hx7kbgJeiE",
     "trailerUrl": "https://www.youtube.com/embed/7Hx7kbgJeiE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "308402",
-    "type": "tv",
-    "title": "It's Not Like That",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ifCvSx7U1EiRoleSUtv1Nb9NBoS.jpg",
-    "trailerId": "VWdIl7ofD28",
-    "trailerUrl": "https://www.youtube.com/embed/VWdIl7ofD28",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "285933",
-    "type": "tv",
-    "title": "Tune In to the Midnight Heart",
-    "content": "Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zJJQCD9xMhDD4MlQ6haaP3IBCHk.jpg",
-    "trailerId": "wHxKlcFROtk",
-    "trailerUrl": "https://www.youtube.com/embed/wHxKlcFROtk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -487,16 +487,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1hS9huDDGeirdy1Regli71wo9ot.jpg",
     "trailerId": "CMgUAW5InbU",
     "trailerUrl": "https://www.youtube.com/embed/CMgUAW5InbU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "326",
-    "type": "movie",
-    "title": "Snakes on a Plane",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wxGhAD63EM7N2YIQw9bktgQR8QM.jpg",
-    "trailerId": "5noedIVk8Cs",
-    "trailerUrl": "https://www.youtube.com/embed/5noedIVk8Cs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -577,6 +567,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
     "trailerId": "Rymtw1fAPbQ",
     "trailerUrl": "https://www.youtube.com/embed/Rymtw1fAPbQ",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "8845",
+    "type": "movie",
+    "title": "Under Siege",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ihBDaN7OwT7D9DVri8SmxCnuRLB.jpg",
+    "trailerId": "yvBwrhI8fR8",
+    "trailerUrl": "https://www.youtube.com/embed/yvBwrhI8fR8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -664,7 +664,7 @@
     "type": "movie",
     "title": "Marty Supreme",
     "content": "In Cinemas Everywhere Now",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
     "trailerId": "pwE3ZG1kIqw",
     "trailerUrl": "https://www.youtube.com/embed/pwE3ZG1kIqw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -684,7 +684,7 @@
     "type": "movie",
     "title": "Return to Silent Hill",
     "content": "In cinemas everywhere January 23",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zWe8ynGlGH3KP896jHCemxnOvCo.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
     "trailerId": "cbFSZ_8r58Y",
     "trailerUrl": "https://www.youtube.com/embed/cbFSZ_8r58Y",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
