@@ -33,7 +33,7 @@
     "id": "1242898",
     "type": "movie",
     "title": "Predator: Badlands",
-    "content": "Streaming on Hulu February 12",
+    "content": "Hulu Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
     "trailerId": "LkBqjfg8TGM",
     "trailerUrl": "https://www.youtube.com/embed/LkBqjfg8TGM",
@@ -87,6 +87,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMlCbasyAqBLV18CLEkDm07VKtn.jpg",
     "trailerId": "4dx5XVaf9VU",
     "trailerUrl": "https://www.youtube.com/embed/4dx5XVaf9VU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1265609",
+    "type": "movie",
+    "title": "War Machine",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/UaPBEvOJs9b2D2XYVTrHg0ti3F.jpg",
+    "trailerId": "AFuE1LRxm80",
+    "trailerUrl": "https://www.youtube.com/embed/AFuE1LRxm80",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -190,16 +200,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1171145",
-    "type": "movie",
-    "title": "Crime 101",
-    "content": "The plan is set.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
-    "trailerId": "WQWlhBXQpqU",
-    "trailerUrl": "https://www.youtube.com/embed/WQWlhBXQpqU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1662",
     "type": "movie",
     "title": "State of Grace",
@@ -207,16 +207,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rQfoRwxlkU8hdUnruoicnCuc4XO.jpg",
     "trailerId": "jsmWO82AQD4",
     "trailerUrl": "https://www.youtube.com/embed/jsmWO82AQD4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "10835",
-    "type": "movie",
-    "title": "The Killer",
-    "content": "Original Trailer [Dubbed]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
-    "trailerId": "7pD5taM2UPg",
-    "trailerUrl": "https://www.youtube.com/embed/7pD5taM2UPg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -630,6 +620,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1193501",
+    "type": "movie",
+    "title": "Whistle",
+    "content": "Death Blows",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n4Vd7XfTsTaO7Mmc68WiktyLXQo.jpg",
+    "trailerId": "eyHalCX1n20",
+    "trailerUrl": "https://www.youtube.com/embed/eyHalCX1n20",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1432605",
     "type": "movie",
     "title": "My Father's Shadow",
@@ -717,16 +717,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/2x7qavdNftq0PhVGj81VQ0iGid9.jpg",
     "trailerId": "wpRyRB0e1VA",
     "trailerUrl": "https://www.youtube.com/embed/wpRyRB0e1VA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1193501",
-    "type": "movie",
-    "title": "Whistle",
-    "content": "Don't miss Whistle in theaters February 6",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n4Vd7XfTsTaO7Mmc68WiktyLXQo.jpg",
-    "trailerId": "K784dJXVhBo",
-    "trailerUrl": "https://www.youtube.com/embed/K784dJXVhBo",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
