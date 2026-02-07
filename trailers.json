@@ -34,7 +34,7 @@
     "type": "movie",
     "title": "One Battle After Another",
     "content": "When Sensei Speaks, You Listen",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/si68lkhkMfIospVeLEBtl7HWKDh.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
     "trailerId": "oodnoBDnVQ0",
     "trailerUrl": "https://www.youtube.com/embed/oodnoBDnVQ0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -114,19 +114,9 @@
     "type": "movie",
     "title": "Exit 8",
     "content": "Official US Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ie827c44beNPNnxIOi8EM9mCI4A.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
     "trailerId": "DlRQ1oatOt8",
     "trailerUrl": "https://www.youtube.com/embed/DlRQ1oatOt8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "44006",
-    "type": "tv",
-    "title": "Chicago Fire",
-    "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
-    "trailerId": "kz476oAWMWs",
-    "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -135,6 +125,16 @@
     "title": "Chicago P.D.",
     "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+    "trailerId": "kz476oAWMWs",
+    "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "44006",
+    "type": "tv",
+    "title": "Chicago Fire",
+    "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
     "trailerId": "kz476oAWMWs",
     "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -207,6 +207,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rQfoRwxlkU8hdUnruoicnCuc4XO.jpg",
     "trailerId": "jsmWO82AQD4",
     "trailerUrl": "https://www.youtube.com/embed/jsmWO82AQD4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "10835",
+    "type": "movie",
+    "title": "The Killer",
+    "content": "Original Trailer [Dubbed]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/z8zZouMO4vvRNVAwexgMbaIgxYe.jpg",
+    "trailerId": "7pD5taM2UPg",
+    "trailerUrl": "https://www.youtube.com/embed/7pD5taM2UPg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
     "trailerId": "rjAs9Ks-3V0",
     "trailerUrl": "https://www.youtube.com/embed/rjAs9Ks-3V0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1433842",
-    "type": "movie",
-    "title": "Relationship Goals",
-    "content": "Faith Leads",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dFdFQaffaBNBNM5hzinc6Q0oWDZ.jpg",
-    "trailerId": "MeCJampyYW0",
-    "trailerUrl": "https://www.youtube.com/embed/MeCJampyYW0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -527,16 +527,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
     "trailerId": "S2iTwzUiBM0",
     "trailerUrl": "https://www.youtube.com/embed/S2iTwzUiBM0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "326",
-    "type": "movie",
-    "title": "Snakes on a Plane",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/wxGhAD63EM7N2YIQw9bktgQR8QM.jpg",
-    "trailerId": "5noedIVk8Cs",
-    "trailerUrl": "https://www.youtube.com/embed/5noedIVk8Cs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
