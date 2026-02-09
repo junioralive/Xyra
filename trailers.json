@@ -150,21 +150,21 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "44006",
-    "type": "tv",
-    "title": "Chicago Fire",
-    "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
-    "trailerId": "kz476oAWMWs",
-    "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "58841",
     "type": "tv",
     "title": "Chicago P.D.",
     "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+    "trailerId": "kz476oAWMWs",
+    "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "44006",
+    "type": "tv",
+    "title": "Chicago Fire",
+    "content": "Halstead and Upton Are BACK - One Chicago Crossover Event",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
     "trailerId": "kz476oAWMWs",
     "trailerUrl": "https://www.youtube.com/embed/kz476oAWMWs",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
