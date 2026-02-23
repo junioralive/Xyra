@@ -3,10 +3,20 @@
     "id": "1159831",
     "type": "movie",
     "title": "The Bride!",
-    "content": "A screen fit for a monster.",
+    "content": "Breathing LIFE into the day!",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMlCbasyAqBLV18CLEkDm07VKtn.jpg",
-    "trailerId": "aabW5jg6Ua8",
-    "trailerUrl": "https://www.youtube.com/embed/aabW5jg6Ua8",
+    "trailerId": "J4um1jEcie4",
+    "trailerUrl": "https://www.youtube.com/embed/J4um1jEcie4",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1159559",
+    "type": "movie",
+    "title": "Scream 7",
+    "content": "Final Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
+    "trailerId": "4g8OciWNJn4",
+    "trailerUrl": "https://www.youtube.com/embed/4g8OciWNJn4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -77,16 +87,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yHlVD4zBJ2MMevQo2uVb8m8LWOm.jpg",
     "trailerId": "dZpbZg9AChk",
     "trailerUrl": "https://www.youtube.com/embed/dZpbZg9AChk",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1159559",
-    "type": "movie",
-    "title": "Scream 7",
-    "content": "Killing it on the big screen is my thing.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
-    "trailerId": "-oqCwzMYwes",
-    "trailerUrl": "https://www.youtube.com/embed/-oqCwzMYwes",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -197,6 +197,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
     "trailerId": "Gh1bwImgPnU",
     "trailerUrl": "https://www.youtube.com/embed/Gh1bwImgPnU",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "119051",
+    "type": "tv",
+    "title": "Wednesday",
+    "content": "Wednesday: Season 3 | Cast Announcement | Netflix",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+    "trailerId": "sgFNlnr2O8A",
+    "trailerUrl": "https://www.youtube.com/embed/sgFNlnr2O8A",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
     "trailerId": "yuBO0wfQKR0",
     "trailerUrl": "https://www.youtube.com/embed/yuBO0wfQKR0",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "111110",
-    "type": "tv",
-    "title": "ONE PIECE",
-    "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
-    "trailerId": "S-XxKVxZ2fU",
-    "trailerUrl": "https://www.youtube.com/embed/S-XxKVxZ2fU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -550,6 +550,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1242898",
+    "type": "movie",
+    "title": "Predator: Badlands",
+    "content": "Hulu Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+    "trailerId": "LkBqjfg8TGM",
+    "trailerUrl": "https://www.youtube.com/embed/LkBqjfg8TGM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "858024",
     "type": "movie",
     "title": "Hamnet",
@@ -597,16 +607,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/kt9p1cS4O72aSeFRGQzlLuI1mY4.jpg",
     "trailerId": "EV2JoDu5cAs",
     "trailerUrl": "https://www.youtube.com/embed/EV2JoDu5cAs",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1432605",
-    "type": "movie",
-    "title": "My Father's Shadow",
-    "content": "An award-winning debut from Akinola Davies Jr.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/4eo6xojA8OPoGlN72PfNwHf8f7i.jpg",
-    "trailerId": "F_ed9xR0Cd8",
-    "trailerUrl": "https://www.youtube.com/embed/F_ed9xR0Cd8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
