@@ -3,10 +3,10 @@
     "id": "1159831",
     "type": "movie",
     "title": "The Bride!",
-    "content": "Breathing LIFE into the day!",
+    "content": "Leave a mark.",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/pMlCbasyAqBLV18CLEkDm07VKtn.jpg",
-    "trailerId": "J4um1jEcie4",
-    "trailerUrl": "https://www.youtube.com/embed/J4um1jEcie4",
+    "trailerId": "GqUdHVFTpYA",
+    "trailerUrl": "https://www.youtube.com/embed/GqUdHVFTpYA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -200,10 +200,20 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "16859",
+    "type": "movie",
+    "title": "Kiki's Delivery Service",
+    "content": "4K Remaster Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/h5pAEVma835u8xoE60kmLVopLct.jpg",
+    "trailerId": "nu4OX6RKeLY",
+    "trailerUrl": "https://www.youtube.com/embed/nu4OX6RKeLY",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "119051",
     "type": "tv",
     "title": "Wednesday",
-    "content": "Wednesday: Season 3 | Cast Announcement | Netflix",
+    "content": "Season 3 Cast Announcement",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "sgFNlnr2O8A",
     "trailerUrl": "https://www.youtube.com/embed/sgFNlnr2O8A",
@@ -357,16 +367,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
     "trailerId": "GgLbDsUqV60",
     "trailerUrl": "https://www.youtube.com/embed/GgLbDsUqV60",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1243460",
-    "type": "movie",
-    "title": "Joe's College Road Trip",
-    "content": "Official Red Band Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dbr3eceKuGnKc9v5GaVTVtegZNK.jpg",
-    "trailerId": "yuBO0wfQKR0",
-    "trailerUrl": "https://www.youtube.com/embed/yuBO0wfQKR0",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -612,7 +612,7 @@
   {
     "id": "1316092",
     "type": "movie",
-    "title": "\u201cWuthering Heights\u201d",
+    "title": "\"Wuthering Heights\"",
     "content": "Reason no. 6218 to see Wuthering Heights in cinemas this weekend",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
     "trailerId": "Ex6A38hFGxk",
