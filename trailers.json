@@ -270,16 +270,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "278043",
-    "type": "tv",
-    "title": "You and I Are Polar Opposites",
-    "content": "Dub Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5p423VlhPXf7681XyZCL4khIJLl.jpg",
-    "trailerId": "tCs7mtzrjpE",
-    "trailerUrl": "https://www.youtube.com/embed/tCs7mtzrjpE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "65942",
     "type": "tv",
     "title": "Re:ZERO -Starting Life in Another World-",
@@ -340,6 +330,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "302060",
+    "type": "tv",
+    "title": "Watching You",
+    "content": "Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/siswsaViHnrtU9YOz4WTgCWYhhS.jpg",
+    "trailerId": "BPZ4w8DB2ls",
+    "trailerUrl": "https://www.youtube.com/embed/BPZ4w8DB2ls",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1208348",
     "type": "movie",
     "title": "Rental Family",
@@ -380,6 +380,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "278043",
+    "type": "tv",
+    "title": "You and I Are Polar Opposites",
+    "content": "Dub Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5p423VlhPXf7681XyZCL4khIJLl.jpg",
+    "trailerId": "tCs7mtzrjpE",
+    "trailerUrl": "https://www.youtube.com/embed/tCs7mtzrjpE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "226826",
     "type": "tv",
     "title": "Tribunal Justice",
@@ -387,6 +397,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/yR8RoVxKsWIkmisr3rDFbEHIsYL.jpg",
     "trailerId": "fisyTfj3Tdw",
     "trailerUrl": "https://www.youtube.com/embed/fisyTfj3Tdw",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "111110",
+    "type": "tv",
+    "title": "ONE PIECE",
+    "content": "Season 2 Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+    "trailerId": "S-XxKVxZ2fU",
+    "trailerUrl": "https://www.youtube.com/embed/S-XxKVxZ2fU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -494,7 +514,7 @@
     "type": "tv",
     "title": "Paradise",
     "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/fM90m6bz2rdrfSNhugyLkiLErpC.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5QsLvWh8J1mXl1W05wNJknMmhzR.jpg",
     "trailerId": "wQfqQ-oIXiA",
     "trailerUrl": "https://www.youtube.com/embed/wQfqQ-oIXiA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
