@@ -60,6 +60,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "1445363",
+    "type": "movie",
+    "title": "EPiC: Elvis Presley in Concert",
+    "content": "Elvis finally performs in the UK!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
+    "trailerId": "jKwTCKR95Cs",
+    "trailerUrl": "https://www.youtube.com/embed/jKwTCKR95Cs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "687163",
     "type": "movie",
     "title": "Project Hail Mary",
@@ -100,16 +110,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "298343",
-    "type": "tv",
-    "title": "Strip Law",
-    "content": "Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jH1vBLHxp7E2AZGdhvjnxA96mJh.jpg",
-    "trailerId": "2129l7MngIE",
-    "trailerUrl": "https://www.youtube.com/embed/2129l7MngIE",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1316092",
     "type": "movie",
     "title": "\"Wuthering Heights\"",
@@ -134,7 +134,7 @@
     "type": "tv",
     "title": "The Pitt",
     "content": "Season 2 Episode 8 Preview",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/6uPBHw488MUW6x51zZ2OCJo6Dgp.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/q1z0W19F4T5Xs2qka3xJSmFjv9a.jpg",
     "trailerId": "3hwj4TRIZN8",
     "trailerUrl": "https://www.youtube.com/embed/3hwj4TRIZN8",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -190,13 +190,13 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1445363",
+    "id": "1193128",
     "type": "movie",
-    "title": "EPiC: Elvis Presley in Concert",
-    "content": "Get moving in IMAX",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
-    "trailerId": "PalDl9XNjn8",
-    "trailerUrl": "https://www.youtube.com/embed/PalDl9XNjn8",
+    "title": "I Was a Stranger",
+    "content": "The Least Of These",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/atvDTVtj88v2YEjwZ20Jsr0P8nk.jpg",
+    "trailerId": "vdvpueYg-rA",
+    "trailerUrl": "https://www.youtube.com/embed/vdvpueYg-rA",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -260,6 +260,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "298343",
+    "type": "tv",
+    "title": "Strip Law",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/jH1vBLHxp7E2AZGdhvjnxA96mJh.jpg",
+    "trailerId": "2129l7MngIE",
+    "trailerUrl": "https://www.youtube.com/embed/2129l7MngIE",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "1054867",
     "type": "movie",
     "title": "One Battle After Another",
@@ -290,16 +300,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "1193128",
-    "type": "movie",
-    "title": "I Was a Stranger",
-    "content": "The Least Of These",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/atvDTVtj88v2YEjwZ20Jsr0P8nk.jpg",
-    "trailerId": "vdvpueYg-rA",
-    "trailerUrl": "https://www.youtube.com/embed/vdvpueYg-rA",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "278043",
     "type": "tv",
     "title": "You and I Are Polar Opposites",
@@ -317,6 +317,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ai8bVS8Suvu4ErBhmgBvtESirBY.jpg",
     "trailerId": "jVl4bY81iIs",
     "trailerUrl": "https://www.youtube.com/embed/jVl4bY81iIs",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "289560",
+    "type": "tv",
+    "title": "CIA",
+    "content": "Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+    "trailerId": "TYt_HcMd2gM",
+    "trailerUrl": "https://www.youtube.com/embed/TYt_HcMd2gM",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -370,16 +380,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "302060",
-    "type": "tv",
-    "title": "Watching You",
-    "content": "Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/siswsaViHnrtU9YOz4WTgCWYhhS.jpg",
-    "trailerId": "BPZ4w8DB2ls",
-    "trailerUrl": "https://www.youtube.com/embed/BPZ4w8DB2ls",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "226826",
     "type": "tv",
     "title": "Tribunal Justice",
@@ -410,6 +410,16 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
+    "id": "283228",
+    "type": "tv",
+    "title": "American Classic",
+    "content": "American Classic (MGM+ 2026 Series) Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/WVMkbdvTBalA2uhYX1GdTaQH5Z.jpg",
+    "trailerId": "xKFYRiNB6Pc",
+    "trailerUrl": "https://www.youtube.com/embed/xKFYRiNB6Pc",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
     "id": "313289",
     "type": "tv",
     "title": "Battle of Fates",
@@ -424,7 +434,7 @@
     "type": "tv",
     "title": "Monarch: Legacy of Monsters",
     "content": "Season 2 Official Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n5FGEUmId87nZAdFiOFmCKXynmT.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/ybAYY4sOjg3K4ekYfFyEhHYsftc.jpg",
     "trailerId": "ZgWrFoaisdk",
     "trailerUrl": "https://www.youtube.com/embed/ZgWrFoaisdk",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
