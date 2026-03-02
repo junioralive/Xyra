@@ -3,20 +3,30 @@
     "id": "1159559",
     "type": "movie",
     "title": "Scream 7",
-    "content": "If you hang up on me I'll gut you like a fish.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/nrNw1YMnKakUxzp8vjHnPmahoic.jpg",
-    "trailerId": "pn1OyL7jdWU",
-    "trailerUrl": "https://www.youtube.com/embed/pn1OyL7jdWU",
+    "content": "Thank you for making Scream 7 the No. 1 Movie in the World!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+    "trailerId": "0RNep3gCJjQ",
+    "trailerUrl": "https://www.youtube.com/embed/0RNep3gCJjQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
     "id": "1032892",
     "type": "movie",
     "title": "In the Blink of an Eye",
-    "content": "Time",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/hS7d9UCjOUGi1u5UL6HTqa3etND.jpg",
-    "trailerId": "f2TYWlDylx0",
-    "trailerUrl": "https://www.youtube.com/embed/f2TYWlDylx0",
+    "content": "Now Streaming on Hulu and Hulu on Disney+",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+    "trailerId": "bgVo3alkYAA",
+    "trailerUrl": "https://www.youtube.com/embed/bgVo3alkYAA",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1159831",
+    "type": "movie",
+    "title": "The Bride!",
+    "content": "LET IT OUT!",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
+    "trailerId": "aH_dg01ycc4",
+    "trailerUrl": "https://www.youtube.com/embed/aH_dg01ycc4",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -37,16 +47,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/o2xLxY1LdwBMsrGD9hjIaOrIQm6.jpg",
     "trailerId": "S688e879Hz8",
     "trailerUrl": "https://www.youtube.com/embed/S688e879Hz8",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "1159831",
-    "type": "movie",
-    "title": "The Bride!",
-    "content": "Partner in crime.",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
-    "trailerId": "74zuAX-3cJw",
-    "trailerUrl": "https://www.youtube.com/embed/74zuAX-3cJw",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -517,16 +517,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
     "trailerId": "bUfFAdOBzBc",
     "trailerUrl": "https://www.youtube.com/embed/bUfFAdOBzBc",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "93166",
-    "type": "tv",
-    "title": "The Capture",
-    "content": "The Capture Series 3 is coming soon!",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/10D67q6rDL0jhWVxkz5zZwNJOmd.jpg",
-    "trailerId": "ac4IoeD4HdY",
-    "trailerUrl": "https://www.youtube.com/embed/ac4IoeD4HdY",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
