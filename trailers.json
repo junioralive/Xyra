@@ -23,7 +23,7 @@
     "id": "1582770",
     "type": "movie",
     "title": "Dhurandhar: The Revenge",
-    "content": "Dhurandhar: The Revenge | Official Trailer",
+    "content": "Official Trailer",
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
     "trailerId": "NHk7scrb_9I",
     "trailerUrl": "https://www.youtube.com/embed/NHk7scrb_9I",
@@ -230,16 +230,6 @@
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
-    "id": "131142",
-    "type": "tv",
-    "title": "Love Story",
-    "content": "John F. Kennedy Jr. & Carolyn Bessette - Episode 7 Trailer - Obsession",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
-    "trailerId": "P8nrCpblPSU",
-    "trailerUrl": "https://www.youtube.com/embed/P8nrCpblPSU",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
     "id": "1220564",
     "type": "movie",
     "title": "The Secret Agent",
@@ -287,6 +277,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
     "trailerId": "zE7h_WizFlk",
     "trailerUrl": "https://www.youtube.com/embed/zE7h_WizFlk",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "82684",
+    "type": "tv",
+    "title": "That Time I Got Reincarnated as a Slime",
+    "content": "Season 4 | Official Trailer",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+    "trailerId": "wXKlTwGMUQQ",
+    "trailerUrl": "https://www.youtube.com/embed/wXKlTwGMUQQ",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -347,6 +347,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
     "trailerId": "sgFNlnr2O8A",
     "trailerUrl": "https://www.youtube.com/embed/sgFNlnr2O8A",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "131142",
+    "type": "tv",
+    "title": "Love Story",
+    "content": "John F. Kennedy Jr. & Carolyn Bessette - Episode 7 Trailer - Obsession",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/3wKkceyLaScXvCznxFOytBJBCjP.jpg",
+    "trailerId": "P8nrCpblPSU",
+    "trailerUrl": "https://www.youtube.com/embed/P8nrCpblPSU",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
