@@ -424,7 +424,7 @@
     "type": "tv",
     "title": "Wistoria: Wand and Sword",
     "content": "Season 2 Official Trailer [Subtitled]",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/7sGeLiMVrD0QyKWjhEbLWmZIj2w.jpg",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
     "trailerId": "57OL0uTIBVg",
     "trailerUrl": "https://www.youtube.com/embed/57OL0uTIBVg",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
@@ -467,16 +467,6 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
     "trailerId": "k6a0XFfQ4N4",
     "trailerUrl": "https://www.youtube.com/embed/k6a0XFfQ4N4",
-    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
-  },
-  {
-    "id": "627",
-    "type": "movie",
-    "title": "Trainspotting",
-    "content": "Official 30th Anniversary 4K Restoration Trailer",
-    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/dkfBKDUIWP1peEszdqK10MkMZCP.jpg",
-    "trailerId": "bKrbNruyFVE",
-    "trailerUrl": "https://www.youtube.com/embed/bKrbNruyFVE",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
@@ -557,6 +547,16 @@
     "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/uDN5vOzXjtThKdu4W07Xwk5IFub.jpg",
     "trailerId": "_WqHuwZcENM",
     "trailerUrl": "https://www.youtube.com/embed/_WqHuwZcENM",
+    "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
+  },
+  {
+    "id": "1456349",
+    "type": "movie",
+    "title": "It Was Just an Accident",
+    "content": "A fearless masterwork from Jafar Panahi. [Subtitled]",
+    "backdrop": "https://media.themoviedb.org/t/p/w1920_and_h427_multi_faces/zhoMwQofjgVec5Sin05hWECJtVQ.jpg",
+    "trailerId": "AcTF4mPjk-M",
+    "trailerUrl": "https://www.youtube.com/embed/AcTF4mPjk-M",
     "poster_image": "https://media.themoviedb.org/t/p/w355_and_h200_multi_faces/18iGjkavP8KLfyU3Ifkp9s2bSvD.jpg"
   },
   {
