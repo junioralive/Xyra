@@ -8,7 +8,7 @@
 
 <p align="center"><strong>Xyra</strong> is a streaming platform offering movies, TV shows, and more, all in one place. Leveraging third-party APIs for streaming links and the TMDB API for metadata, Xyra provides effortless access to quality content, creating a seamless entertainment experience.</p>
 
-## 🌟 V.1.0 Features
+## 🌟 V.1.1 Features
 
 - **Watch Movies and TV Shows for Free**: Enjoy a wide selection of movies and shows.
 - **Continue Watching**: Pick up right where you left off with our continue-watching feature.
